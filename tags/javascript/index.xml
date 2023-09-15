@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on Krishna Chandran</title>
+    <link>https://krishna-chandran.github.io/resume/tags/javascript/</link>
+    <description>Recent content in Javascript on Krishna Chandran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/resume/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Full Stack Developer, University of Cincinnati</title>
+      <link>https://krishna-chandran.github.io/resume/experience/full-stack-developer/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/experience/full-stack-developer/</guid>
+      <description>&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Internship&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Jun 2018 to Dec 2018&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Intelligent Maintenance Systems Lab, UC CEAS&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Cincinnati, Ohio, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bachelor of Engineering, Rajalakshmi Engineering College</title>
+      <link>https://krishna-chandran.github.io/resume/education/rajalakshmi-engineering-college/</link>
+      <pubDate>Fri, 20 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/education/rajalakshmi-engineering-college/</guid>
+      <description>&lt;h3 id=&#34;program-details&#34;&gt;Program Details&lt;/h3&gt;
+&lt;p&gt;Bachelor of Engineering in Aeronautical Engineering&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Affliated to Anna Universiy&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Aug 2010 - Apr 2014&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Chennai, TamilNadu, India&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+GPA: 7.6/10&lt;/p&gt;
+&lt;h3 id=&#34;courses&#34;&gt;Courses&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Engineering Mechanics&lt;/li&gt;
+&lt;li&gt;Mechanics of Machines&lt;/li&gt;
+&lt;li&gt;Elements of Aeronautics&lt;/li&gt;
+&lt;li&gt;Control Engineering&lt;/li&gt;
+&lt;li&gt;Aircraft Performance and Control&lt;/li&gt;
+&lt;li&gt;Fluid Mechanics&lt;/li&gt;
+&lt;li&gt;Control Engineering&lt;/li&gt;
+&lt;li&gt;Flight Dynamics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Avionics&lt;/li&gt;
+&lt;li&gt;Aerodynamics I&lt;/li&gt;
+&lt;li&gt;Aerodynamics II&lt;/li&gt;
+&lt;li&gt;Computational Fluid Dynamics&lt;/li&gt;
+&lt;li&gt;Wind Tunnel Techniques&lt;/li&gt;
+&lt;li&gt;Solid Mechanics&lt;/li&gt;
+&lt;li&gt;Strength of Materials&lt;/li&gt;
+&lt;li&gt;Aircraft Structures I&lt;/li&gt;
+&lt;li&gt;Aircraft Structures II&lt;/li&gt;
+&lt;li&gt;Finite Element Methods&lt;/li&gt;
+&lt;li&gt;Composite Materials and Structures&lt;/li&gt;
+&lt;li&gt;Experimental Stress Analysis&lt;/li&gt;
+&lt;li&gt;Aircraft Maintenance&lt;/li&gt;
+&lt;li&gt;Helicopter Theory&lt;/li&gt;
+&lt;li&gt;Thermodynamics&lt;/li&gt;
+&lt;li&gt;Propulsion&lt;/li&gt;
+&lt;li&gt;Rockets and Missiles&lt;/li&gt;
+&lt;li&gt;Engine systems and Control&lt;/li&gt;
+&lt;li&gt;Aircraft Systems and Instruments&lt;/li&gt;
+&lt;li&gt;Vibrations and Elements of Elasticity&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
