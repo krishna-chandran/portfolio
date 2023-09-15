@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Krishna Chandran</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Krishna Chandran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2022 21:01:43 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lead Data Engineer, ThorDrive Inc</title>
+      <link>http://localhost:1313/experience/lead-data-engineer/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/lead-data-engineer/</guid>
+      <description>&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Cincinnati, Ohio&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Mar 2022 to Mar 2023&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed an internal Big Data platform to collect and store Petabytes of ROS bag data, live vehicle telemetry, and
+operator log data from autonomous tractors, improving data capacity by 250 times.&lt;/li&gt;
+&lt;li&gt;Built data search, visualization, snapshot, parse, label, query, clip, and download features in the above platform,
+improving data workflow time efficiency by 91.4%.&lt;/li&gt;
+&lt;li&gt;Architected data pipelines with ELK stack for troubleshooting Vehicle computers, reducing vehicle crashes by 90%.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Perception Engineer, ThorDrive Inc</title>
+      <link>http://localhost:1313/experience/perception-engineer/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/perception-engineer/</guid>
+      <description>&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Cincinnati, Ohio, US&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Oct 2021 to Mar 2022&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed FLIR thermal camera grabber ROS Node for perception stack&lt;/li&gt;
+&lt;li&gt;Developed Lidar segmentation, Lidar Tracker and Sensor fusion algorithm for autonomous tractor&lt;/li&gt;
+&lt;li&gt;Worked on Lidar ground segmentation algorithm by following state-of-art research papers&lt;/li&gt;
+&lt;li&gt;Worked on enhancement of PointPillar and mmdetection3d Deep learning models for 3D Object detection&lt;/li&gt;
+&lt;li&gt;Trained and deployed Yolo v4 model for detection of pedestrian, Cones, K-Loader and airplanes&lt;/li&gt;
+&lt;li&gt;Worked on sensor fusion of 5 RBG cameras and 2 Lidars&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>http://localhost:1313/experience/solution-architect/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/solution-architect/</guid>
+      <description>&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;!-- raw HTML omitted --&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Full Stack Developer, University of Cincinnati</title>
+      <link>http://localhost:1313/experience/full-stack-developer/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/full-stack-developer/</guid>
+      <description>&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Internship&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Jun 2018 to Dec 2018&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Intelligent Maintenance Systems Lab, UC CEAS&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Cincinnati, Ohio, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Master of Engineering, University of Cincinnati</title>
+      <link>http://localhost:1313/education/university-of-cincinnati/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/education/university-of-cincinnati/</guid>
+      <description>&lt;h3 id=&#34;program-details&#34;&gt;Program Details&lt;/h3&gt;
+&lt;p&gt;Master of Engineering in Aerospace Engineering&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Aug 2017 - Dec 2018
+Cincinnati, Ohio, US
+GPA: 3.5/4.0&lt;/p&gt;
+&lt;h3 id=&#34;courses&#34;&gt;Courses&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Unmanned Air Systems&lt;/li&gt;
+&lt;li&gt;Analytical Dynamics&lt;/li&gt;
+&lt;li&gt;Modern Control&lt;/li&gt;
+&lt;li&gt;Artificial Intelligence&lt;/li&gt;
+&lt;li&gt;Decision Engineering&lt;/li&gt;
+&lt;li&gt;Intelligent Data Analysis&lt;/li&gt;
+&lt;li&gt;Big Data Analytics&lt;/li&gt;
+&lt;li&gt;Innovation and Design Thinking&lt;/li&gt;
+&lt;li&gt;Entreprenuership and Tech Law&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Software Developer, Tata Consultancy Services</title>
+      <link>http://localhost:1313/experience/software-developer/</link>
+      <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/software-developer/</guid>
+      <description>&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Sep 2014 to Jul 2017&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Chennai, TamilNadu, India&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed about 160 AI automated scripts for Network Administration, automating 90% of admin tasks&lt;/li&gt;
+&lt;li&gt;Integrated ignio™ AI tool with ServiceNow, Email, Active Directory, Solarwinds, AppDynamics, and other external tools&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bachelor of Engineering, Rajalakshmi Engineering College</title>
+      <link>http://localhost:1313/education/rajalakshmi-engineering-college/</link>
+      <pubDate>Fri, 20 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/education/rajalakshmi-engineering-college/</guid>
+      <description>&lt;h3 id=&#34;program-details&#34;&gt;Program Details&lt;/h3&gt;
+&lt;p&gt;Bachelor of Engineering in Aeronautical Engineering&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Affliated to Anna Universiy&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Aug 2010 - Apr 2014&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Chennai, TamilNadu, India&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+GPA: 7.6/10&lt;/p&gt;
+&lt;h3 id=&#34;courses&#34;&gt;Courses&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Engineering Mechanics&lt;/li&gt;
+&lt;li&gt;Mechanics of Machines&lt;/li&gt;
+&lt;li&gt;Elements of Aeronautics&lt;/li&gt;
+&lt;li&gt;Control Engineering&lt;/li&gt;
+&lt;li&gt;Aircraft Performance and Control&lt;/li&gt;
+&lt;li&gt;Fluid Mechanics&lt;/li&gt;
+&lt;li&gt;Control Engineering&lt;/li&gt;
+&lt;li&gt;Flight Dynamics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Avionics&lt;/li&gt;
+&lt;li&gt;Aerodynamics I&lt;/li&gt;
+&lt;li&gt;Aerodynamics II&lt;/li&gt;
+&lt;li&gt;Computational Fluid Dynamics&lt;/li&gt;
+&lt;li&gt;Wind Tunnel Techniques&lt;/li&gt;
+&lt;li&gt;Solid Mechanics&lt;/li&gt;
+&lt;li&gt;Strength of Materials&lt;/li&gt;
+&lt;li&gt;Aircraft Structures I&lt;/li&gt;
+&lt;li&gt;Aircraft Structures II&lt;/li&gt;
+&lt;li&gt;Finite Element Methods&lt;/li&gt;
+&lt;li&gt;Composite Materials and Structures&lt;/li&gt;
+&lt;li&gt;Experimental Stress Analysis&lt;/li&gt;
+&lt;li&gt;Aircraft Maintenance&lt;/li&gt;
+&lt;li&gt;Helicopter Theory&lt;/li&gt;
+&lt;li&gt;Thermodynamics&lt;/li&gt;
+&lt;li&gt;Propulsion&lt;/li&gt;
+&lt;li&gt;Rockets and Missiles&lt;/li&gt;
+&lt;li&gt;Engine systems and Control&lt;/li&gt;
+&lt;li&gt;Aircraft Systems and Instruments&lt;/li&gt;
+&lt;li&gt;Vibrations and Elements of Elasticity&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
