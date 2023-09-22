@@ -13,7 +13,8 @@
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/resume/experience/lead-data-engineer/</guid>
-      <description>&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
 Cincinnati, Ohio&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
 Mar 2022 to Mar 2023&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
@@ -33,7 +34,8 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
       <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/resume/experience/perception-engineer/</guid>
-      <description>&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
 Cincinnati, Ohio, US&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
 Oct 2021 to Mar 2022&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
@@ -54,7 +56,8 @@ Oct 2021 to Mar 2022&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&g
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/resume/experience/solution-architect/</guid>
-      <description>&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-log.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
 Jul 2019 to Sep 2021&lt;!-- raw HTML omitted --&gt;
 Farmington hills, Michigan, US&lt;/p&gt;
@@ -75,7 +78,8 @@ Farmington hills, Michigan, US&lt;/p&gt;
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/resume/experience/full-stack-developer/</guid>
-      <description>&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Internship&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
 Jun 2018 to Dec 2018&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
 Intelligent Maintenance Systems Lab, UC CEAS&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
@@ -97,7 +101,8 @@ Cincinnati, Ohio, US&lt;/p&gt;
       <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/resume/education/university-of-cincinnati/</guid>
-      <description>&lt;h3 id=&#34;program-details&#34;&gt;Program Details&lt;/h3&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://1000logos.net/wp-content/uploads/2022/07/University-of-Cincinnati-Logo.jpg&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;program-details&#34;&gt;Program Details&lt;/h3&gt;
 &lt;p&gt;Master of Engineering in Aerospace Engineering&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
 Aug 2017 - Dec 2018
 Cincinnati, Ohio, US
@@ -122,7 +127,8 @@ GPA: 3.5/4.0&lt;/p&gt;
       <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/resume/experience/software-developer/</guid>
-      <description>&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-log.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
 Sep 2014 to Jul 2017&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
 Chennai, TamilNadu, India&lt;/p&gt;
@@ -139,7 +145,8 @@ Chennai, TamilNadu, India&lt;/p&gt;
       <pubDate>Fri, 20 Aug 2010 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/resume/education/rajalakshmi-engineering-college/</guid>
-      <description>&lt;h3 id=&#34;program-details&#34;&gt;Program Details&lt;/h3&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;program-details&#34;&gt;Program Details&lt;/h3&gt;
 &lt;p&gt;Bachelor of Engineering in Aeronautical Engineering&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
 Affliated to Anna Universiy&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
 Aug 2010 - Apr 2014&lt;!-- raw HTML omitted --&gt;&lt;br&gt;

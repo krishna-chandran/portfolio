@@ -170,6 +170,13 @@ body {
   box-shadow: 0 0 1px 1px rgb(0,0,0,0.15);
 }
 
+.summary p img{
+  float:right;
+  width: 150px;
+   /* height: 50px;
+   width: auto; */
+}
+/* 
 
 /* .header-wrapper{
   position: fixed;
@@ -551,7 +558,7 @@ body {
   overflow-wrap: anywhere;
 }
 .content img {
-  max-width: 92%;
+  max-width: 30%;
   display: block;
   margin-left: auto;
   margin-right: auto;
