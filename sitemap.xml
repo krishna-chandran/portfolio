@@ -28,7 +28,52 @@
   </url>
   
   <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/aws-ec2/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/aws-s3/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/beats/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/c/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/c&#43;&#43;/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://krishna-chandran.github.io/resume/categories/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/ci-cd-pipeline/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/elasticsearch/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/foxglove/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/kibana/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,8 +83,108 @@
   </url>
   
   <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/logstash/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/postgresql/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/python/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/react.js/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://krishna-chandran.github.io/resume/categories/robotics/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/ros/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/streamlit/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/typescript/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/webviz/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/airport-domain/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/artificial-intelligence/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/camera-calibration/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/computer-vision/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/deep-learning/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/extended-kalman-filter/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/ground-segmentation/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/lidar/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/lidar-segmentation/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/lidar-tracking/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/mmdetection3d/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -48,7 +193,167 @@
   </url>
   
   <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/pointpillar/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/pytorch/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/sensor-fusion/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/tensorflow/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/yolov5/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/active-directory/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/activemq/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/ansible/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/appdynamics/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/bash/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/cloud-computing/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/distributed-systems/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/email/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/eureka/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/firewall/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/groovy/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/hadoop/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/haproxy/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/hdfs/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/ignio/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://krishna-chandran.github.io/resume/categories/information-technology/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/integration/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/it-automation/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/kafka/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/linux/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/load-balancer/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/neo4j/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/powershell/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/rabbitmq/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/redmine/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/routing/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/service-now/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/solarwinds/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,8 +363,33 @@
   </url>
   
   <url>
-    <loc>https://krishna-chandran.github.io/resume/tags/c/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <loc>https://krishna-chandran.github.io/resume/tags/ssl/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/switching/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/vmware/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/windows/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/yarn/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/zookeeper/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -83,12 +413,22 @@
   </url>
   
   <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/jquery/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://krishna-chandran.github.io/resume/categories/machine-learning/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://krishna-chandran.github.io/resume/tags/</loc>
+    <loc>https://krishna-chandran.github.io/resume/tags/matlab/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/resume/tags/mysql/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   

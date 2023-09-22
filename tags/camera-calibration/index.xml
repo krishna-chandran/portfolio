@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>camera-calibration on Krishnakumar Chandran</title>
+    <link>https://krishna-chandran.github.io/resume/tags/camera-calibration/</link>
+    <description>Recent content in camera-calibration on Krishnakumar Chandran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/resume/tags/camera-calibration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perception Engineer, ThorDrive Inc</title>
+      <link>https://krishna-chandran.github.io/resume/experience/perception-engineer/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/experience/perception-engineer/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Cincinnati, Ohio, US&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Oct 2021 to Mar 2022&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed FLIR thermal camera grabber ROS Node for perception stack&lt;/li&gt;
+&lt;li&gt;Developed Lidar segmentation, Lidar Tracker and Sensor fusion algorithm for autonomous tractor&lt;/li&gt;
+&lt;li&gt;Worked on Lidar ground segmentation algorithm by following state-of-art research papers&lt;/li&gt;
+&lt;li&gt;Worked on enhancement of PointPillar and mmdetection3d Deep learning models for 3D Object detection&lt;/li&gt;
+&lt;li&gt;Trained and deployed Yolo v4 model for detection of pedestrian, Cones, K-Loader and airplanes&lt;/li&gt;
+&lt;li&gt;Worked on sensor fusion of 5 RBG cameras and 2 Lidars&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>active-directory on Krishnakumar Chandran</title>
+    <link>https://krishna-chandran.github.io/resume/tags/active-directory/</link>
+    <description>Recent content in active-directory on Krishnakumar Chandran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/resume/tags/active-directory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/experience/solution-architect/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/experience/solution-architect/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;!-- raw HTML omitted --&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Software Developer, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/experience/software-developer/</link>
+      <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/experience/software-developer/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Sep 2014 to Jul 2017&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Chennai, TamilNadu, India&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed about 160 AI automated scripts for Network Administration, automating 90% of admin tasks&lt;/li&gt;
+&lt;li&gt;Integrated ignio™ AI tool with ServiceNow, Email, Active Directory, Solarwinds, AppDynamics, and other external tools&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

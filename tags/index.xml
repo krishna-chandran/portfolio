@@ -6,18 +6,603 @@
     <description>Recent content in Tags on Krishnakumar Chandran</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/resume/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/resume/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>aws ec2</title>
+      <link>https://krishna-chandran.github.io/resume/tags/aws-ec2/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/aws-ec2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aws s3</title>
+      <link>https://krishna-chandran.github.io/resume/tags/aws-s3/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/aws-s3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>beats</title>
+      <link>https://krishna-chandran.github.io/resume/tags/beats/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/beats/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>c</title>
       <link>https://krishna-chandran.github.io/resume/tags/c/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://krishna-chandran.github.io/resume/tags/c/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CSS</title>
+      <title>c&#43;&#43;</title>
+      <link>https://krishna-chandran.github.io/resume/tags/c&#43;&#43;/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ci-cd-pipeline</title>
+      <link>https://krishna-chandran.github.io/resume/tags/ci-cd-pipeline/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/ci-cd-pipeline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>elasticsearch</title>
+      <link>https://krishna-chandran.github.io/resume/tags/elasticsearch/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/elasticsearch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>foxglove</title>
+      <link>https://krishna-chandran.github.io/resume/tags/foxglove/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/foxglove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kibana</title>
+      <link>https://krishna-chandran.github.io/resume/tags/kibana/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/kibana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logstash</title>
+      <link>https://krishna-chandran.github.io/resume/tags/logstash/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/logstash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>postgresql</title>
+      <link>https://krishna-chandran.github.io/resume/tags/postgresql/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/postgresql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://krishna-chandran.github.io/resume/tags/python/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>react.js</title>
+      <link>https://krishna-chandran.github.io/resume/tags/react.js/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/react.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ros</title>
+      <link>https://krishna-chandran.github.io/resume/tags/ros/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/ros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>streamlit</title>
+      <link>https://krishna-chandran.github.io/resume/tags/streamlit/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/streamlit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>typescript</title>
+      <link>https://krishna-chandran.github.io/resume/tags/typescript/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/typescript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webviz</title>
+      <link>https://krishna-chandran.github.io/resume/tags/webviz/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/webviz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>airport-domain</title>
+      <link>https://krishna-chandran.github.io/resume/tags/airport-domain/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/airport-domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>artificial-intelligence</title>
+      <link>https://krishna-chandran.github.io/resume/tags/artificial-intelligence/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>camera-calibration</title>
+      <link>https://krishna-chandran.github.io/resume/tags/camera-calibration/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/camera-calibration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer-vision</title>
+      <link>https://krishna-chandran.github.io/resume/tags/computer-vision/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>https://krishna-chandran.github.io/resume/tags/deep-learning/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>extended-kalman-filter</title>
+      <link>https://krishna-chandran.github.io/resume/tags/extended-kalman-filter/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/extended-kalman-filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ground-segmentation</title>
+      <link>https://krishna-chandran.github.io/resume/tags/ground-segmentation/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/ground-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lidar</title>
+      <link>https://krishna-chandran.github.io/resume/tags/lidar/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/lidar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lidar-segmentation</title>
+      <link>https://krishna-chandran.github.io/resume/tags/lidar-segmentation/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/lidar-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lidar-tracking</title>
+      <link>https://krishna-chandran.github.io/resume/tags/lidar-tracking/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/lidar-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mmdetection3d</title>
+      <link>https://krishna-chandran.github.io/resume/tags/mmdetection3d/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/mmdetection3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pointpillar</title>
+      <link>https://krishna-chandran.github.io/resume/tags/pointpillar/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/pointpillar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pytorch</title>
+      <link>https://krishna-chandran.github.io/resume/tags/pytorch/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sensor-fusion</title>
+      <link>https://krishna-chandran.github.io/resume/tags/sensor-fusion/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/sensor-fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tensorflow</title>
+      <link>https://krishna-chandran.github.io/resume/tags/tensorflow/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yolov5</title>
+      <link>https://krishna-chandran.github.io/resume/tags/yolov5/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/yolov5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>active-directory</title>
+      <link>https://krishna-chandran.github.io/resume/tags/active-directory/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/active-directory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>activemq</title>
+      <link>https://krishna-chandran.github.io/resume/tags/activemq/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/activemq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ansible</title>
+      <link>https://krishna-chandran.github.io/resume/tags/ansible/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/ansible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>appdynamics</title>
+      <link>https://krishna-chandran.github.io/resume/tags/appdynamics/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/appdynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bash</title>
+      <link>https://krishna-chandran.github.io/resume/tags/bash/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud-computing</title>
+      <link>https://krishna-chandran.github.io/resume/tags/cloud-computing/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/cloud-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>distributed-systems</title>
+      <link>https://krishna-chandran.github.io/resume/tags/distributed-systems/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/distributed-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>email</title>
+      <link>https://krishna-chandran.github.io/resume/tags/email/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/email/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eureka</title>
+      <link>https://krishna-chandran.github.io/resume/tags/eureka/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/eureka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>firewall</title>
+      <link>https://krishna-chandran.github.io/resume/tags/firewall/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/firewall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>groovy</title>
+      <link>https://krishna-chandran.github.io/resume/tags/groovy/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/groovy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hadoop</title>
+      <link>https://krishna-chandran.github.io/resume/tags/hadoop/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/hadoop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>haproxy</title>
+      <link>https://krishna-chandran.github.io/resume/tags/haproxy/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/haproxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hdfs</title>
+      <link>https://krishna-chandran.github.io/resume/tags/hdfs/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/hdfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ignio</title>
+      <link>https://krishna-chandran.github.io/resume/tags/ignio/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/ignio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>integration</title>
+      <link>https://krishna-chandran.github.io/resume/tags/integration/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>it-automation</title>
+      <link>https://krishna-chandran.github.io/resume/tags/it-automation/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/it-automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kafka</title>
+      <link>https://krishna-chandran.github.io/resume/tags/kafka/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://krishna-chandran.github.io/resume/tags/linux/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>load-balancer</title>
+      <link>https://krishna-chandran.github.io/resume/tags/load-balancer/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/load-balancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neo4j</title>
+      <link>https://krishna-chandran.github.io/resume/tags/neo4j/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/neo4j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>powershell</title>
+      <link>https://krishna-chandran.github.io/resume/tags/powershell/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/powershell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rabbitmq</title>
+      <link>https://krishna-chandran.github.io/resume/tags/rabbitmq/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/rabbitmq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redmine</title>
+      <link>https://krishna-chandran.github.io/resume/tags/redmine/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/redmine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>routing</title>
+      <link>https://krishna-chandran.github.io/resume/tags/routing/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/routing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>service-now</title>
+      <link>https://krishna-chandran.github.io/resume/tags/service-now/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/service-now/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>solarwinds</title>
+      <link>https://krishna-chandran.github.io/resume/tags/solarwinds/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/solarwinds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssl</title>
+      <link>https://krishna-chandran.github.io/resume/tags/ssl/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/ssl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>switching</title>
+      <link>https://krishna-chandran.github.io/resume/tags/switching/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/switching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vmware</title>
+      <link>https://krishna-chandran.github.io/resume/tags/vmware/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/vmware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>windows</title>
+      <link>https://krishna-chandran.github.io/resume/tags/windows/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yarn</title>
+      <link>https://krishna-chandran.github.io/resume/tags/yarn/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/yarn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zookeeper</title>
+      <link>https://krishna-chandran.github.io/resume/tags/zookeeper/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/zookeeper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
       <link>https://krishna-chandran.github.io/resume/tags/css/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
@@ -26,7 +611,7 @@
     </item>
     
     <item>
-      <title>HTML</title>
+      <title>html</title>
       <link>https://krishna-chandran.github.io/resume/tags/html/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
@@ -40,6 +625,33 @@
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://krishna-chandran.github.io/resume/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jquery</title>
+      <link>https://krishna-chandran.github.io/resume/tags/jquery/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/jquery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matlab</title>
+      <link>https://krishna-chandran.github.io/resume/tags/matlab/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/matlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mysql</title>
+      <link>https://krishna-chandran.github.io/resume/tags/mysql/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/tags/mysql/</guid>
       <description></description>
     </item>
     

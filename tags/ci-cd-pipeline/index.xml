@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ci-cd-pipeline on Krishnakumar Chandran</title>
+    <link>https://krishna-chandran.github.io/resume/tags/ci-cd-pipeline/</link>
+    <description>Recent content in ci-cd-pipeline on Krishnakumar Chandran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/resume/tags/ci-cd-pipeline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lead Data Engineer, ThorDrive Inc</title>
+      <link>https://krishna-chandran.github.io/resume/experience/lead-data-engineer/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/experience/lead-data-engineer/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Cincinnati, Ohio&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Mar 2022 to Mar 2023&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed an internal Big Data platform to collect and store Petabytes of ROS bag data, live vehicle telemetry, and
+operator log data from autonomous tractors, improving data capacity by 250 times.&lt;/li&gt;
+&lt;li&gt;Built data search, visualization, snapshot, parse, label, query, clip, and download features in the above platform,
+improving data workflow time efficiency by 91.4%.&lt;/li&gt;
+&lt;li&gt;Architected data pipelines with ELK stack for troubleshooting Vehicle computers, reducing vehicle crashes by 90%.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Perception Engineer, ThorDrive Inc</title>
+      <link>https://krishna-chandran.github.io/resume/experience/perception-engineer/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/experience/perception-engineer/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Cincinnati, Ohio, US&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Oct 2021 to Mar 2022&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed FLIR thermal camera grabber ROS Node for perception stack&lt;/li&gt;
+&lt;li&gt;Developed Lidar segmentation, Lidar Tracker and Sensor fusion algorithm for autonomous tractor&lt;/li&gt;
+&lt;li&gt;Worked on Lidar ground segmentation algorithm by following state-of-art research papers&lt;/li&gt;
+&lt;li&gt;Worked on enhancement of PointPillar and mmdetection3d Deep learning models for 3D Object detection&lt;/li&gt;
+&lt;li&gt;Trained and deployed Yolo v4 model for detection of pedestrian, Cones, K-Loader and airplanes&lt;/li&gt;
+&lt;li&gt;Worked on sensor fusion of 5 RBG cameras and 2 Lidars&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/experience/solution-architect/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/experience/solution-architect/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;!-- raw HTML omitted --&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
