@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Krishnakumar Chandran</title>
-    <link>http://localhost:1313/resume/</link>
+    <link>https://krishna-chandran.github.io/resume/</link>
     <description>Recent content on Krishnakumar Chandran</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2022 21:01:43 +0800</lastBuildDate><atom:link href="http://localhost:1313/resume/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Apr 2022 21:01:43 +0800</lastBuildDate><atom:link href="https://krishna-chandran.github.io/resume/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lead Data Engineer, ThorDrive Inc</title>
-      <link>http://localhost:1313/resume/experience/lead-data-engineer/</link>
+      <link>https://krishna-chandran.github.io/resume/experience/lead-data-engineer/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/resume/experience/lead-data-engineer/</guid>
+      <guid>https://krishna-chandran.github.io/resume/experience/lead-data-engineer/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
@@ -30,10 +30,10 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
     
     <item>
       <title>Perception Engineer, ThorDrive Inc</title>
-      <link>http://localhost:1313/resume/experience/perception-engineer/</link>
+      <link>https://krishna-chandran.github.io/resume/experience/perception-engineer/</link>
       <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/resume/experience/perception-engineer/</guid>
+      <guid>https://krishna-chandran.github.io/resume/experience/perception-engineer/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
@@ -52,10 +52,10 @@ Oct 2021 to Mar 2022&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&g
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>http://localhost:1313/resume/experience/solution-architect/</link>
+      <link>https://krishna-chandran.github.io/resume/experience/solution-architect/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/resume/experience/solution-architect/</guid>
+      <guid>https://krishna-chandran.github.io/resume/experience/solution-architect/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-log.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
@@ -74,10 +74,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Full Stack Developer, University of Cincinnati</title>
-      <link>http://localhost:1313/resume/experience/full-stack-developer/</link>
+      <link>https://krishna-chandran.github.io/resume/experience/full-stack-developer/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/resume/experience/full-stack-developer/</guid>
+      <guid>https://krishna-chandran.github.io/resume/experience/full-stack-developer/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Internship&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
@@ -97,10 +97,10 @@ Cincinnati, Ohio, US&lt;/p&gt;
     
     <item>
       <title>Master of Engineering, University of Cincinnati</title>
-      <link>http://localhost:1313/resume/education/university-of-cincinnati/</link>
+      <link>https://krishna-chandran.github.io/resume/education/university-of-cincinnati/</link>
       <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/resume/education/university-of-cincinnati/</guid>
+      <guid>https://krishna-chandran.github.io/resume/education/university-of-cincinnati/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://1000logos.net/wp-content/uploads/2022/07/University-of-Cincinnati-Logo.jpg&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;program-details&#34;&gt;Program Details&lt;/h3&gt;
 &lt;p&gt;Master of Engineering in Aerospace Engineering&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
@@ -123,10 +123,10 @@ GPA: 3.5/4.0&lt;/p&gt;
     
     <item>
       <title>Software Developer, Tata Consultancy Services</title>
-      <link>http://localhost:1313/resume/experience/software-developer/</link>
+      <link>https://krishna-chandran.github.io/resume/experience/software-developer/</link>
       <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/resume/experience/software-developer/</guid>
+      <guid>https://krishna-chandran.github.io/resume/experience/software-developer/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-log.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
@@ -141,10 +141,10 @@ Chennai, TamilNadu, India&lt;/p&gt;
     
     <item>
       <title>Bachelor of Engineering, Rajalakshmi Engineering College</title>
-      <link>http://localhost:1313/resume/education/rajalakshmi-engineering-college/</link>
+      <link>https://krishna-chandran.github.io/resume/education/rajalakshmi-engineering-college/</link>
       <pubDate>Fri, 20 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/resume/education/rajalakshmi-engineering-college/</guid>
+      <guid>https://krishna-chandran.github.io/resume/education/rajalakshmi-engineering-college/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;program-details&#34;&gt;Program Details&lt;/h3&gt;
 &lt;p&gt;Bachelor of Engineering in Aeronautical Engineering&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
