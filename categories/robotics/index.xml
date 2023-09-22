@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Robotics on Krishna Chandran</title>
-    <link>https://krishna-chandran.github.io/resume/categories/robotics/</link>
-    <description>Recent content in Robotics on Krishna Chandran</description>
+    <title>Robotics on Krishnakumar Chandran</title>
+    <link>http://localhost:1313/resume/categories/robotics/</link>
+    <description>Recent content in Robotics on Krishnakumar Chandran</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/resume/categories/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/resume/categories/robotics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lead Data Engineer, ThorDrive Inc</title>
-      <link>https://krishna-chandran.github.io/resume/experience/lead-data-engineer/</link>
+      <link>http://localhost:1313/resume/experience/lead-data-engineer/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/experience/lead-data-engineer/</guid>
+      <guid>http://localhost:1313/resume/experience/lead-data-engineer/</guid>
       <description>&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
 Cincinnati, Ohio&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
@@ -29,10 +29,10 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
     
     <item>
       <title>Perception Engineer, ThorDrive Inc</title>
-      <link>https://krishna-chandran.github.io/resume/experience/perception-engineer/</link>
+      <link>http://localhost:1313/resume/experience/perception-engineer/</link>
       <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/experience/perception-engineer/</guid>
+      <guid>http://localhost:1313/resume/experience/perception-engineer/</guid>
       <description>&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
 Cincinnati, Ohio, US&lt;!-- raw HTML omitted --&gt;&lt;br&gt;

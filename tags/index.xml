@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Krishna Chandran</title>
-    <link>https://krishna-chandran.github.io/resume/tags/</link>
-    <description>Recent content in Tags on Krishna Chandran</description>
+    <title>Tags on Krishnakumar Chandran</title>
+    <link>http://localhost:1313/resume/tags/</link>
+    <description>Recent content in Tags on Krishnakumar Chandran</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/resume/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/resume/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>c</title>
-      <link>https://krishna-chandran.github.io/resume/tags/c/</link>
+      <link>http://localhost:1313/resume/tags/c/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/tags/c/</guid>
+      <guid>http://localhost:1313/resume/tags/c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CSS</title>
-      <link>https://krishna-chandran.github.io/resume/tags/css/</link>
+      <link>http://localhost:1313/resume/tags/css/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/tags/css/</guid>
+      <guid>http://localhost:1313/resume/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTML</title>
-      <link>https://krishna-chandran.github.io/resume/tags/html/</link>
+      <link>http://localhost:1313/resume/tags/html/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/tags/html/</guid>
+      <guid>http://localhost:1313/resume/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Javascript</title>
-      <link>https://krishna-chandran.github.io/resume/tags/javascript/</link>
+      <link>http://localhost:1313/resume/tags/javascript/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/tags/javascript/</guid>
+      <guid>http://localhost:1313/resume/tags/javascript/</guid>
       <description></description>
     </item>
     
