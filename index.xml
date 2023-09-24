@@ -15,9 +15,9 @@
       <guid>https://krishna-chandran.github.io/resume/experience/lead-data-engineer/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
-&lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
-Cincinnati, Ohio&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
-Mar 2022 to Mar 2023&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Cincinnati, Ohio&lt;br&gt;&lt;br&gt;
+Mar 2022 to Mar 2023&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Designed an internal Big Data platform to collect and store Petabytes of ROS bag data, live vehicle telemetry, and
@@ -36,9 +36,9 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
       <guid>https://krishna-chandran.github.io/resume/experience/perception-engineer/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
-&lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
-Cincinnati, Ohio, US&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
-Oct 2021 to Mar 2022&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Cincinnati, Ohio, US&lt;br&gt;&lt;br&gt;
+Oct 2021 to Mar 2022&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Developed FLIR thermal camera grabber ROS Node for perception stack&lt;/li&gt;
@@ -58,8 +58,8 @@ Oct 2021 to Mar 2022&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&g
       <guid>https://krishna-chandran.github.io/resume/experience/solution-architect/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
-&lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
-Jul 2019 to Sep 2021&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
 Farmington hills, Michigan, US&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
@@ -80,9 +80,9 @@ Farmington hills, Michigan, US&lt;/p&gt;
       <guid>https://krishna-chandran.github.io/resume/experience/full-stack-developer/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
-&lt;p&gt;Internship&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
-Jun 2018 to Dec 2018&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
-Intelligent Maintenance Systems Lab, UC CEAS&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;p&gt;Internship&lt;br&gt;&lt;br&gt;
+Jun 2018 to Dec 2018&lt;br&gt;&lt;br&gt;
+Intelligent Maintenance Systems Lab, UC CEAS&lt;br&gt;&lt;br&gt;
 Cincinnati, Ohio, US&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
@@ -103,7 +103,7 @@ Cincinnati, Ohio, US&lt;/p&gt;
       <guid>https://krishna-chandran.github.io/resume/education/university-of-cincinnati/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;program-details&#34;&gt;Program Details&lt;/h3&gt;
-&lt;p&gt;Master of Engineering in Aerospace Engineering&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;p&gt;Master of Engineering in Aerospace Engineering&lt;br&gt;&lt;br&gt;
 Aug 2017 - Dec 2018
 Cincinnati, Ohio, US
 GPA: 3.5/4.0&lt;/p&gt;
@@ -129,8 +129,8 @@ GPA: 3.5/4.0&lt;/p&gt;
       <guid>https://krishna-chandran.github.io/resume/experience/software-developer/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
-&lt;p&gt;Full-time&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
-Sep 2014 to Jul 2017&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Sep 2014 to Jul 2017&lt;br&gt;&lt;br&gt;
 Chennai, TamilNadu, India&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
@@ -147,10 +147,10 @@ Chennai, TamilNadu, India&lt;/p&gt;
       <guid>https://krishna-chandran.github.io/resume/education/rajalakshmi-engineering-college/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/rec.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;program-details&#34;&gt;Program Details&lt;/h3&gt;
-&lt;p&gt;Bachelor of Engineering in Aeronautical Engineering&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
-Affliated to Anna Universiy&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
-Aug 2010 - Apr 2014&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
-Chennai, TamilNadu, India&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;p&gt;Bachelor of Engineering in Aeronautical Engineering&lt;br&gt;&lt;br&gt;
+Affliated to Anna Universiy&lt;br&gt;&lt;br&gt;
+Aug 2010 - Apr 2014&lt;br&gt;&lt;br&gt;
+Chennai, TamilNadu, India&lt;br&gt;&lt;br&gt;
 GPA: 7.6/10&lt;/p&gt;
 &lt;h3 id=&#34;courses&#34;&gt;Courses&lt;/h3&gt;
 &lt;ul&gt;
