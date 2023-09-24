@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aws on Krishnakumar Chandran</title>
+    <link>https://krishna-chandran.github.io/resume/tags/aws/</link>
+    <description>Recent content in aws on Krishnakumar Chandran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/resume/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deployment of distributed web application in Cloud Administration</title>
+      <link>https://krishna-chandran.github.io/resume/projects/distributed-app-cloud-deployment/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/distributed-app-cloud-deployment/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed Ansible scripts to validate Linux VM capacity and installation prerequisites&lt;/li&gt;
+&lt;li&gt;Provisioned Linux VM in Cloud environment using automated scripts&lt;/li&gt;
+&lt;li&gt;Performed post-provisioning activities such as IAM, LDAP integration, updating security roles, filesystem creation and Linux patching&lt;/li&gt;
+&lt;li&gt;Used Ansible to install prerequistes and infra components in all 12 VMs including JAVA JRE, Postgresql, Hadoop ecosystems and Neo4j database&lt;/li&gt;
+&lt;li&gt;Used Ansible to install java application, creation of services, update configurations and installation of Elasticsearch, Logstash and Kibana&lt;/li&gt;
+&lt;li&gt;Performed deployment validation checks using Ansible powered tool called Enigma&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to install ignio with High Availability Architecture in distributed cloud environment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

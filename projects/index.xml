@@ -7,5 +7,847 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 May 2022 11:19:08 +0800</lastBuildDate><atom:link href="https://krishna-chandran.github.io/resume/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thermal Camera intrinsic calibration</title>
+      <link>https://krishna-chandran.github.io/resume/projects/eitri-av-data-management-platform/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/eitri-av-data-management-platform/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed and Developed end-to-end robotics data management platform&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to develop an end-to-end robotics data management platform&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lidar Tracking enhancement</title>
+      <link>https://krishna-chandran.github.io/resume/projects/av-lidar-tracking/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/av-lidar-tracking/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Development and improved lidar tracking algorithm to handle steady state error in dynamic object states estimation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to handle steady state error in very large dynamic object states&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lidar segmentation enhancement</title>
+      <link>https://krishna-chandran.github.io/resume/projects/av-lidar-segmentation/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/av-lidar-segmentation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Development and improved lidar segmentation algorithm to handle very large objects such as airplanes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to segment airplanes from Lidar point cloud&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lidar to Thermal Camera extrinsic calibration</title>
+      <link>https://krishna-chandran.github.io/resume/projects/av-l2t-extrinsic-calibration/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/av-l2t-extrinsic-calibration/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Estimated Lidar to Thermal camera extrinsic calibration matrix using autoware software&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to estimate Lidar to Thermal camera extrinsic calibration matrix&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>RGB Camera modeling for Fixed wing UAV</title>
+      <link>https://krishna-chandran.github.io/resume/projects/camera-modelling-fixedwing-uav/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/camera-modelling-fixedwing-uav/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for camera attached to fixed wing uav and used for body frame to camera frame transformations&lt;/li&gt;
+&lt;li&gt;Equations are verified using MATLAB and Simulink simulations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to model camera attached to fixed wing uav&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/07is1DhGH3o?si=4PpILQxor3LKumux&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dynamic object tracking using Deepsort</title>
+      <link>https://krishna-chandran.github.io/resume/projects/deepsort-dynamic-obstacle-tracker-av/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/deepsort-dynamic-obstacle-tracker-av/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Adapted and enhanced Deepsort algorithm for tracking dynamic objects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to track moving objects for autonomous vehicle using camera data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lidar to Lidar calibration</title>
+      <link>https://krishna-chandran.github.io/resume/projects/av-l2l-extrinsic-calibration/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/av-l2l-extrinsic-calibration/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Estimated Lidar to Lidar extrinsic calibration matrix using autoware software&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to estimate Right Lidar to Left Lidar extrinsic calibration matrix&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lidar to RGB Camera calibration</title>
+      <link>https://krishna-chandran.github.io/resume/projects/av-l2c-extrinsic-calibration/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/av-l2c-extrinsic-calibration/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Estimated Lidar to RGB camera extrinsic calibration matrix using autoware software&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to estimate Lidar to RGB camera extrinsic calibration matrix&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Thermal Camera intrinsic calibration</title>
+      <link>https://krishna-chandran.github.io/resume/projects/av-thermal-camera-intrinsic-calibration/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/av-thermal-camera-intrinsic-calibration/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Estimated Thermal camera intrinsic calibration parameters using open-cv python library&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to estimate Thermal camera intrinsic calibration parameters&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flir Thermal Camera ROS grabber</title>
+      <link>https://krishna-chandran.github.io/resume/projects/av-flir-thermal-camera-grabber/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/av-flir-thermal-camera-grabber/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed Flir Thermal camera grabber ros node for Perception stack&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to collect thermal data stream from hardware and publish it to rostopics, so that perception stack can used it for detecting thermally sensitive objects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deployment of distributed web application in Cloud Administration</title>
+      <link>https://krishna-chandran.github.io/resume/projects/distributed-app-cloud-deployment/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/distributed-app-cloud-deployment/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed Ansible scripts to validate Linux VM capacity and installation prerequisites&lt;/li&gt;
+&lt;li&gt;Provisioned Linux VM in Cloud environment using automated scripts&lt;/li&gt;
+&lt;li&gt;Performed post-provisioning activities such as IAM, LDAP integration, updating security roles, filesystem creation and Linux patching&lt;/li&gt;
+&lt;li&gt;Used Ansible to install prerequistes and infra components in all 12 VMs including JAVA JRE, Postgresql, Hadoop ecosystems and Neo4j database&lt;/li&gt;
+&lt;li&gt;Used Ansible to install java application, creation of services, update configurations and installation of Elasticsearch, Logstash and Kibana&lt;/li&gt;
+&lt;li&gt;Performed deployment validation checks using Ansible powered tool called Enigma&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to install ignio with High Availability Architecture in distributed cloud environment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/estimation-states-ekf-tiltrotor/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/estimation-states-ekf-tiltrotor/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/estimation-states-fixedwing-uav/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/estimation-states-fixedwing-uav/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/full-stack-web-realtime-cnc-monitoring/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/full-stack-web-realtime-cnc-monitoring/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/graphslam-av-navigation/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/graphslam-av-navigation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/guidance-model-fiedwing-uav/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/guidance-model-fiedwing-uav/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/hal-design-analysis-actuator-link/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/hal-design-analysis-actuator-link/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/ignio-alert-automation/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/ignio-alert-automation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/image-captioning-cnn-lstm/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/image-captioning-cnn-lstm/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/intelligent-log-debugging/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/intelligent-log-debugging/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/landing-quadcopter-on-moving-ground-vehicle/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/landing-quadcopter-on-moving-ground-vehicle/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/linux-server-provisioning/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/linux-server-provisioning/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/linux-user-onboarding/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/linux-user-onboarding/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/log-monitoring-elk/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/log-monitoring-elk/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/path-tracking-finxedwing-uav/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/path-tracking-finxedwing-uav/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/pathmanager-multi-waypoiny-navigation/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/pathmanager-multi-waypoiny-navigation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/prediction-of-bearing-failure-cnc/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/prediction-of-bearing-failure-cnc/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/service-now-adapter-integration/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/service-now-adapter-integration/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/trajectory-navigation-quadcopter/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/trajectory-navigation-quadcopter/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/ups-kpi-report-demo/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/ups-kpi-report-demo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/veeva-vault-automation/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/veeva-vault-automation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/vehicle-crash-troubleshooting/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/vehicle-crash-troubleshooting/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/windows-patching-automation/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/windows-patching-automation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solution Architect, Tata Consultancy Services</title>
+      <link>https://krishna-chandran.github.io/resume/projects/yolov4-object-detection-av/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/yolov4-object-detection-av/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
+Jul 2019 to Sep 2021&lt;br&gt;
+Farmington hills, Michigan, US&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
+&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
+&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
+&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
+&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
+&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Facial Keypoint Detection using CNN</title>
+      <link>https://krishna-chandran.github.io/resume/projects/cnn-facial-keypoint-prediction/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/cnn-facial-keypoint-prediction/</guid>
+      <description>&lt;!-- ![UC Logo](./images/uc-logo.png) --&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Build a custom CNN Deep learning regression model and trained to predict facial keypoints&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to predict facial keypoints from a given image&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Estimation of geolocation using Sensor fusion of Camera, GPS and IMU sensor for fixed wing aircraft</title>
+      <link>https://krishna-chandran.github.io/resume/projects/estimation-geolocation-fixedwing-uav/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/estimation-geolocation-fixedwing-uav/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for EKF using camera model and dynamics of fixed wing aircraft&lt;/li&gt;
+&lt;li&gt;Equations are verified using MATLAB and Simulink simulations&lt;/li&gt;
+&lt;li&gt;Estimation algorithm is developed in Python/C++ and simulated in gazebo environment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to estimate geolocation of fixed wing aircraft&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/TCp14nmGwEc?si=0QcBqI4_j26YGXGK&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;  
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/oi_eGilhZBA?si=1i6Cv5EMOxOy5NLc&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Design and development of autopilot for controlling attitude and air-speed of fixed wing UAV</title>
+      <link>https://krishna-chandran.github.io/resume/projects/autopilot-fixedwing-uav/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/autopilot-fixedwing-uav/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equation of the motion is derived with 12 DOF, analyzed for stability and PID controllers are constructed for controlling roll, pitch, altitude, course, airspeed with throttle and airspeed with pitch, considering trim conditions. State machine is build for switching between different flying modes. Controller gains are tuned, and code implemented in python/C++ and tested with Gazebo simulation in ROS environment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;p&gt;• Aim is to get elevator, aileron and throttle commands, for different flight conditions of fixed wing aircraft such as takeoff, climbing, cruise, and landing.&lt;/p&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/7bexe2ZTbrM?si=N3MegxdIMFwZlY9Z&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Application Development : Netbackup report generation</title>
+      <link>https://krishna-chandran.github.io/resume/projects/app-development-netbackup/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/app-development-netbackup/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;p&gt;Developed a tool for extraction of backup data which connects to master servers provisioned globally, and process the big-data to generate report and dispatch to multiple users all over the world. Actively being used saving as much as 80% of the time.&lt;/p&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Application Development : Network Automation</title>
+      <link>https://krishna-chandran.github.io/resume/projects/app-development-network-automation/</link>
+      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/app-development-network-automation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;p&gt;Designed and developed an end-to-end software application for self-managing inventory for a pharmaceutical client.&lt;/p&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Application Development : Pharmacy Management System</title>
+      <link>https://krishna-chandran.github.io/resume/projects/app-development-pharmacy-management-system/</link>
+      <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/app-development-pharmacy-management-system/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;p&gt;Designed and developed an end-to-end software application for self-managing inventory for a pharmaceutical client.&lt;/p&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
   </channel>
 </rss>

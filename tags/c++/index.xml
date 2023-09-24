@@ -6,7 +6,27 @@
     <description>Recent content in c&#43;&#43; on Krishnakumar Chandran</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/resume/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/resume/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thermal Camera intrinsic calibration</title>
+      <link>https://krishna-chandran.github.io/resume/projects/eitri-av-data-management-platform/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/eitri-av-data-management-platform/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed and Developed end-to-end robotics data management platform&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to develop an end-to-end robotics data management platform&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
     <item>
       <title>Lead Data Engineer, ThorDrive Inc</title>
       <link>https://krishna-chandran.github.io/resume/experience/lead-data-engineer/</link>
@@ -29,6 +49,128 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
     </item>
     
     <item>
+      <title>Lidar Tracking enhancement</title>
+      <link>https://krishna-chandran.github.io/resume/projects/av-lidar-tracking/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/av-lidar-tracking/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Development and improved lidar tracking algorithm to handle steady state error in dynamic object states estimation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to handle steady state error in very large dynamic object states&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lidar segmentation enhancement</title>
+      <link>https://krishna-chandran.github.io/resume/projects/av-lidar-segmentation/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/av-lidar-segmentation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Development and improved lidar segmentation algorithm to handle very large objects such as airplanes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to segment airplanes from Lidar point cloud&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lidar to Thermal Camera extrinsic calibration</title>
+      <link>https://krishna-chandran.github.io/resume/projects/av-l2t-extrinsic-calibration/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/av-l2t-extrinsic-calibration/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Estimated Lidar to Thermal camera extrinsic calibration matrix using autoware software&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to estimate Lidar to Thermal camera extrinsic calibration matrix&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>RGB Camera modeling for Fixed wing UAV</title>
+      <link>https://krishna-chandran.github.io/resume/projects/camera-modelling-fixedwing-uav/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/camera-modelling-fixedwing-uav/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for camera attached to fixed wing uav and used for body frame to camera frame transformations&lt;/li&gt;
+&lt;li&gt;Equations are verified using MATLAB and Simulink simulations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to model camera attached to fixed wing uav&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/07is1DhGH3o?si=4PpILQxor3LKumux&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lidar to Lidar calibration</title>
+      <link>https://krishna-chandran.github.io/resume/projects/av-l2l-extrinsic-calibration/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/av-l2l-extrinsic-calibration/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Estimated Lidar to Lidar extrinsic calibration matrix using autoware software&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to estimate Right Lidar to Left Lidar extrinsic calibration matrix&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lidar to RGB Camera calibration</title>
+      <link>https://krishna-chandran.github.io/resume/projects/av-l2c-extrinsic-calibration/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/av-l2c-extrinsic-calibration/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Estimated Lidar to RGB camera extrinsic calibration matrix using autoware software&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to estimate Lidar to RGB camera extrinsic calibration matrix&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
       <title>Perception Engineer, ThorDrive Inc</title>
       <link>https://krishna-chandran.github.io/resume/experience/perception-engineer/</link>
       <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
@@ -48,6 +190,85 @@ Oct 2021 to Mar 2022&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;li&gt;Trained and deployed Yolo v4 model for detection of pedestrian, Cones, K-Loader and airplanes&lt;/li&gt;
 &lt;li&gt;Worked on sensor fusion of 5 RBG cameras and 2 Lidars&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flir Thermal Camera ROS grabber</title>
+      <link>https://krishna-chandran.github.io/resume/projects/av-flir-thermal-camera-grabber/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/av-flir-thermal-camera-grabber/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed Flir Thermal camera grabber ros node for Perception stack&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to collect thermal data stream from hardware and publish it to rostopics, so that perception stack can used it for detecting thermally sensitive objects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Estimation of geolocation using Sensor fusion of Camera, GPS and IMU sensor for fixed wing aircraft</title>
+      <link>https://krishna-chandran.github.io/resume/projects/estimation-geolocation-fixedwing-uav/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/estimation-geolocation-fixedwing-uav/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for EKF using camera model and dynamics of fixed wing aircraft&lt;/li&gt;
+&lt;li&gt;Equations are verified using MATLAB and Simulink simulations&lt;/li&gt;
+&lt;li&gt;Estimation algorithm is developed in Python/C++ and simulated in gazebo environment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to estimate geolocation of fixed wing aircraft&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/TCp14nmGwEc?si=0QcBqI4_j26YGXGK&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;  
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/oi_eGilhZBA?si=1i6Cv5EMOxOy5NLc&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Design and development of autopilot for controlling attitude and air-speed of fixed wing UAV</title>
+      <link>https://krishna-chandran.github.io/resume/projects/autopilot-fixedwing-uav/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/autopilot-fixedwing-uav/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equation of the motion is derived with 12 DOF, analyzed for stability and PID controllers are constructed for controlling roll, pitch, altitude, course, airspeed with throttle and airspeed with pitch, considering trim conditions. State machine is build for switching between different flying modes. Controller gains are tuned, and code implemented in python/C++ and tested with Gazebo simulation in ROS environment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;p&gt;• Aim is to get elevator, aileron and throttle commands, for different flight conditions of fixed wing aircraft such as takeoff, climbing, cruise, and landing.&lt;/p&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/7bexe2ZTbrM?si=N3MegxdIMFwZlY9Z&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Application Development : Pharmacy Management System</title>
+      <link>https://krishna-chandran.github.io/resume/projects/app-development-pharmacy-management-system/</link>
+      <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/resume/projects/app-development-pharmacy-management-system/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;p&gt;Designed and developed an end-to-end software application for self-managing inventory for a pharmaceutical client.&lt;/p&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
     </item>
     
   </channel>
