@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robotics on Krishnakumar Chandran</title>
-    <link>https://krishna-chandran.github.io/resume/categories/robotics/</link>
+    <link>https://krishna-chandran.github.io/portfolio/categories/robotics/</link>
     <description>Recent content in Robotics on Krishnakumar Chandran</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/resume/categories/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/portfolio/categories/robotics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thermal Camera intrinsic calibration</title>
-      <link>https://krishna-chandran.github.io/resume/projects/eitri-av-data-management-platform/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/eitri-av-data-management-platform/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/eitri-av-data-management-platform/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/eitri-av-data-management-platform/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
@@ -29,10 +29,10 @@
     
     <item>
       <title>Lead Data Engineer, ThorDrive Inc</title>
-      <link>https://krishna-chandran.github.io/resume/experience/lead-data-engineer/</link>
+      <link>https://krishna-chandran.github.io/portfolio/experience/lead-data-engineer/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/experience/lead-data-engineer/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/experience/lead-data-engineer/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -50,10 +50,10 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
     
     <item>
       <title>Lidar Tracking enhancement</title>
-      <link>https://krishna-chandran.github.io/resume/projects/av-lidar-tracking/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/av-lidar-tracking/</link>
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/av-lidar-tracking/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/av-lidar-tracking/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
@@ -70,10 +70,10 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
     
     <item>
       <title>Lidar segmentation enhancement</title>
-      <link>https://krishna-chandran.github.io/resume/projects/av-lidar-segmentation/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/av-lidar-segmentation/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/av-lidar-segmentation/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/av-lidar-segmentation/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
@@ -90,10 +90,10 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
     
     <item>
       <title>Lidar to Thermal Camera extrinsic calibration</title>
-      <link>https://krishna-chandran.github.io/resume/projects/av-l2t-extrinsic-calibration/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/av-l2t-extrinsic-calibration/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/av-l2t-extrinsic-calibration/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/av-l2t-extrinsic-calibration/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
@@ -110,10 +110,10 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
     
     <item>
       <title>RGB Camera modeling for Fixed wing UAV</title>
-      <link>https://krishna-chandran.github.io/resume/projects/camera-modelling-fixedwing-uav/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/camera-modelling-fixedwing-uav/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/camera-modelling-fixedwing-uav/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/camera-modelling-fixedwing-uav/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
@@ -132,10 +132,10 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
     
     <item>
       <title>Dynamic object tracking using Deepsort</title>
-      <link>https://krishna-chandran.github.io/resume/projects/deepsort-dynamic-obstacle-tracker-av/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/deepsort-dynamic-obstacle-tracker-av/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/deepsort-dynamic-obstacle-tracker-av/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/deepsort-dynamic-obstacle-tracker-av/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
@@ -152,10 +152,10 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
     
     <item>
       <title>Lidar to Lidar calibration</title>
-      <link>https://krishna-chandran.github.io/resume/projects/av-l2l-extrinsic-calibration/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/av-l2l-extrinsic-calibration/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/av-l2l-extrinsic-calibration/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/av-l2l-extrinsic-calibration/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
@@ -172,10 +172,10 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
     
     <item>
       <title>Lidar to RGB Camera calibration</title>
-      <link>https://krishna-chandran.github.io/resume/projects/av-l2c-extrinsic-calibration/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/av-l2c-extrinsic-calibration/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/av-l2c-extrinsic-calibration/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/av-l2c-extrinsic-calibration/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
@@ -192,10 +192,10 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
     
     <item>
       <title>Thermal Camera intrinsic calibration</title>
-      <link>https://krishna-chandran.github.io/resume/projects/av-thermal-camera-intrinsic-calibration/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/av-thermal-camera-intrinsic-calibration/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/av-thermal-camera-intrinsic-calibration/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/av-thermal-camera-intrinsic-calibration/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
@@ -212,10 +212,10 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
     
     <item>
       <title>Perception Engineer, ThorDrive Inc</title>
-      <link>https://krishna-chandran.github.io/resume/experience/perception-engineer/</link>
+      <link>https://krishna-chandran.github.io/portfolio/experience/perception-engineer/</link>
       <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/experience/perception-engineer/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/experience/perception-engineer/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -234,10 +234,10 @@ Oct 2021 to Mar 2022&lt;br&gt;&lt;br&gt;&lt;/p&gt;
     
     <item>
       <title>Flir Thermal Camera ROS grabber</title>
-      <link>https://krishna-chandran.github.io/resume/projects/av-flir-thermal-camera-grabber/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/av-flir-thermal-camera-grabber/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/av-flir-thermal-camera-grabber/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/av-flir-thermal-camera-grabber/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
@@ -254,10 +254,10 @@ Oct 2021 to Mar 2022&lt;br&gt;&lt;br&gt;&lt;/p&gt;
     
     <item>
       <title>Facial Keypoint Detection using CNN</title>
-      <link>https://krishna-chandran.github.io/resume/projects/cnn-facial-keypoint-prediction/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/cnn-facial-keypoint-prediction/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/cnn-facial-keypoint-prediction/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/cnn-facial-keypoint-prediction/</guid>
       <description>&lt;!-- ![UC Logo](./images/uc-logo.png) --&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
@@ -274,10 +274,10 @@ Oct 2021 to Mar 2022&lt;br&gt;&lt;br&gt;&lt;/p&gt;
     
     <item>
       <title>Estimation of geolocation using Sensor fusion of Camera, GPS and IMU sensor for fixed wing aircraft</title>
-      <link>https://krishna-chandran.github.io/resume/projects/estimation-geolocation-fixedwing-uav/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/estimation-geolocation-fixedwing-uav/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/estimation-geolocation-fixedwing-uav/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/estimation-geolocation-fixedwing-uav/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
@@ -292,17 +292,17 @@ Oct 2021 to Mar 2022&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
 &lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
 &lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/TCp14nmGwEc?si=0QcBqI4_j26YGXGK&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;700&#34; height=&#34;500&#34; src=&#34;https://www.youtube.com/embed/TCp14nmGwEc?si=0QcBqI4_j26YGXGK&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;br&gt;  
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/oi_eGilhZBA?si=1i6Cv5EMOxOy5NLc&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     
     <item>
       <title>Design and development of autopilot for controlling attitude and air-speed of fixed wing UAV</title>
-      <link>https://krishna-chandran.github.io/resume/projects/autopilot-fixedwing-uav/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/autopilot-fixedwing-uav/</link>
       <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/autopilot-fixedwing-uav/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/autopilot-fixedwing-uav/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: *
 
-Sitemap: https://krishna-chandran.github.io/resume/sitemap.xml
+Sitemap: https://krishna-chandran.github.io/portfolio/sitemap.xml

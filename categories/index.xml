@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Krishnakumar Chandran</title>
-    <link>https://krishna-chandran.github.io/resume/categories/</link>
+    <link>https://krishna-chandran.github.io/portfolio/categories/</link>
     <description>Recent content in Categories on Krishnakumar Chandran</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/resume/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data science</title>
-      <link>https://krishna-chandran.github.io/resume/categories/data-science/</link>
+      <link>https://krishna-chandran.github.io/portfolio/categories/data-science/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/categories/data-science/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/categories/data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information Technology</title>
-      <link>https://krishna-chandran.github.io/resume/categories/information-technology/</link>
+      <link>https://krishna-chandran.github.io/portfolio/categories/information-technology/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/categories/information-technology/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/categories/information-technology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robotics</title>
-      <link>https://krishna-chandran.github.io/resume/categories/robotics/</link>
+      <link>https://krishna-chandran.github.io/portfolio/categories/robotics/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/categories/robotics/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/categories/robotics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>https://krishna-chandran.github.io/resume/categories/machine-learning/</link>
+      <link>https://krishna-chandran.github.io/portfolio/categories/machine-learning/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/categories/machine-learning/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/categories/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Education</title>
-      <link>https://krishna-chandran.github.io/resume/categories/education/</link>
+      <link>https://krishna-chandran.github.io/portfolio/categories/education/</link>
       <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/categories/education/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/categories/education/</guid>
       <description></description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>python on Krishnakumar Chandran</title>
-    <link>https://krishna-chandran.github.io/resume/tags/python/</link>
+    <link>https://krishna-chandran.github.io/portfolio/tags/python/</link>
     <description>Recent content in python on Krishnakumar Chandran</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/resume/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/portfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thermal Camera intrinsic calibration</title>
-      <link>https://krishna-chandran.github.io/resume/projects/eitri-av-data-management-platform/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/eitri-av-data-management-platform/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/eitri-av-data-management-platform/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/eitri-av-data-management-platform/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
@@ -29,10 +29,10 @@
     
     <item>
       <title>Lead Data Engineer, ThorDrive Inc</title>
-      <link>https://krishna-chandran.github.io/resume/experience/lead-data-engineer/</link>
+      <link>https://krishna-chandran.github.io/portfolio/experience/lead-data-engineer/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/experience/lead-data-engineer/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/experience/lead-data-engineer/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -50,10 +50,10 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
     
     <item>
       <title>RGB Camera modeling for Fixed wing UAV</title>
-      <link>https://krishna-chandran.github.io/resume/projects/camera-modelling-fixedwing-uav/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/camera-modelling-fixedwing-uav/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/camera-modelling-fixedwing-uav/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/camera-modelling-fixedwing-uav/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
@@ -72,10 +72,10 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
     
     <item>
       <title>Dynamic object tracking using Deepsort</title>
-      <link>https://krishna-chandran.github.io/resume/projects/deepsort-dynamic-obstacle-tracker-av/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/deepsort-dynamic-obstacle-tracker-av/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/deepsort-dynamic-obstacle-tracker-av/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/deepsort-dynamic-obstacle-tracker-av/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
@@ -92,10 +92,10 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
     
     <item>
       <title>Thermal Camera intrinsic calibration</title>
-      <link>https://krishna-chandran.github.io/resume/projects/av-thermal-camera-intrinsic-calibration/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/av-thermal-camera-intrinsic-calibration/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/av-thermal-camera-intrinsic-calibration/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/av-thermal-camera-intrinsic-calibration/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
@@ -112,10 +112,10 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
     
     <item>
       <title>Perception Engineer, ThorDrive Inc</title>
-      <link>https://krishna-chandran.github.io/resume/experience/perception-engineer/</link>
+      <link>https://krishna-chandran.github.io/portfolio/experience/perception-engineer/</link>
       <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/experience/perception-engineer/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/experience/perception-engineer/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -134,10 +134,10 @@ Oct 2021 to Mar 2022&lt;br&gt;&lt;br&gt;&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/experience/solution-architect/</link>
+      <link>https://krishna-chandran.github.io/portfolio/experience/solution-architect/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/experience/solution-architect/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/experience/solution-architect/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -156,10 +156,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/estimation-states-ekf-tiltrotor/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/estimation-states-ekf-tiltrotor/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/estimation-states-ekf-tiltrotor/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/estimation-states-ekf-tiltrotor/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -178,10 +178,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/estimation-states-fixedwing-uav/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/estimation-states-fixedwing-uav/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/estimation-states-fixedwing-uav/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/estimation-states-fixedwing-uav/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -200,10 +200,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/full-stack-web-realtime-cnc-monitoring/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/full-stack-web-realtime-cnc-monitoring/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/full-stack-web-realtime-cnc-monitoring/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/full-stack-web-realtime-cnc-monitoring/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -222,10 +222,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/graphslam-av-navigation/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/graphslam-av-navigation/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/graphslam-av-navigation/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/graphslam-av-navigation/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -244,10 +244,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/guidance-model-fiedwing-uav/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/guidance-model-fiedwing-uav/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/guidance-model-fiedwing-uav/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/guidance-model-fiedwing-uav/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -266,10 +266,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/hal-design-analysis-actuator-link/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/hal-design-analysis-actuator-link/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/hal-design-analysis-actuator-link/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/hal-design-analysis-actuator-link/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -288,10 +288,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/ignio-alert-automation/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/ignio-alert-automation/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/ignio-alert-automation/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/ignio-alert-automation/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -310,10 +310,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/image-captioning-cnn-lstm/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/image-captioning-cnn-lstm/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/image-captioning-cnn-lstm/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/image-captioning-cnn-lstm/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -332,10 +332,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/intelligent-log-debugging/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/intelligent-log-debugging/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/intelligent-log-debugging/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/intelligent-log-debugging/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -354,10 +354,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/landing-quadcopter-on-moving-ground-vehicle/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/landing-quadcopter-on-moving-ground-vehicle/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/landing-quadcopter-on-moving-ground-vehicle/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/landing-quadcopter-on-moving-ground-vehicle/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -376,10 +376,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/linux-server-provisioning/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/linux-server-provisioning/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/linux-server-provisioning/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/linux-server-provisioning/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -398,10 +398,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/linux-user-onboarding/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/linux-user-onboarding/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/linux-user-onboarding/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/linux-user-onboarding/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -420,10 +420,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/log-monitoring-elk/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/log-monitoring-elk/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/log-monitoring-elk/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/log-monitoring-elk/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -442,10 +442,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/path-tracking-finxedwing-uav/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/path-tracking-finxedwing-uav/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/path-tracking-finxedwing-uav/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/path-tracking-finxedwing-uav/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -464,10 +464,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/pathmanager-multi-waypoiny-navigation/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/pathmanager-multi-waypoiny-navigation/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/pathmanager-multi-waypoiny-navigation/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/pathmanager-multi-waypoiny-navigation/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -486,10 +486,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/prediction-of-bearing-failure-cnc/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/prediction-of-bearing-failure-cnc/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/prediction-of-bearing-failure-cnc/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/prediction-of-bearing-failure-cnc/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -508,10 +508,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/service-now-adapter-integration/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/service-now-adapter-integration/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/service-now-adapter-integration/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/service-now-adapter-integration/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -530,10 +530,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/trajectory-navigation-quadcopter/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/trajectory-navigation-quadcopter/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/trajectory-navigation-quadcopter/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/trajectory-navigation-quadcopter/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -552,10 +552,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/ups-kpi-report-demo/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/ups-kpi-report-demo/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/ups-kpi-report-demo/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/ups-kpi-report-demo/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -574,10 +574,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/veeva-vault-automation/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/veeva-vault-automation/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/veeva-vault-automation/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/veeva-vault-automation/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -596,10 +596,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/vehicle-crash-troubleshooting/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/vehicle-crash-troubleshooting/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/vehicle-crash-troubleshooting/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/vehicle-crash-troubleshooting/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -618,10 +618,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/windows-patching-automation/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/windows-patching-automation/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/windows-patching-automation/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/windows-patching-automation/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -640,10 +640,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Solution Architect, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/projects/yolov4-object-detection-av/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/yolov4-object-detection-av/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/yolov4-object-detection-av/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/yolov4-object-detection-av/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
@@ -662,10 +662,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Facial Keypoint Detection using CNN</title>
-      <link>https://krishna-chandran.github.io/resume/projects/cnn-facial-keypoint-prediction/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/cnn-facial-keypoint-prediction/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/cnn-facial-keypoint-prediction/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/cnn-facial-keypoint-prediction/</guid>
       <description>&lt;!-- ![UC Logo](./images/uc-logo.png) --&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
@@ -682,10 +682,10 @@ Farmington hills, Michigan, US&lt;/p&gt;
     
     <item>
       <title>Full Stack Developer, University of Cincinnati</title>
-      <link>https://krishna-chandran.github.io/resume/experience/full-stack-developer/</link>
+      <link>https://krishna-chandran.github.io/portfolio/experience/full-stack-developer/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/experience/full-stack-developer/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/experience/full-stack-developer/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Internship&lt;br&gt;&lt;br&gt;
@@ -705,10 +705,10 @@ Cincinnati, Ohio, US&lt;/p&gt;
     
     <item>
       <title>Estimation of geolocation using Sensor fusion of Camera, GPS and IMU sensor for fixed wing aircraft</title>
-      <link>https://krishna-chandran.github.io/resume/projects/estimation-geolocation-fixedwing-uav/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/estimation-geolocation-fixedwing-uav/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/estimation-geolocation-fixedwing-uav/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/estimation-geolocation-fixedwing-uav/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
@@ -723,17 +723,17 @@ Cincinnati, Ohio, US&lt;/p&gt;
 &lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
 &lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
 &lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/TCp14nmGwEc?si=0QcBqI4_j26YGXGK&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;700&#34; height=&#34;500&#34; src=&#34;https://www.youtube.com/embed/TCp14nmGwEc?si=0QcBqI4_j26YGXGK&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;br&gt;  
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/oi_eGilhZBA?si=1i6Cv5EMOxOy5NLc&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     
     <item>
       <title>Design and development of autopilot for controlling attitude and air-speed of fixed wing UAV</title>
-      <link>https://krishna-chandran.github.io/resume/projects/autopilot-fixedwing-uav/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/autopilot-fixedwing-uav/</link>
       <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/autopilot-fixedwing-uav/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/autopilot-fixedwing-uav/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
@@ -749,10 +749,10 @@ Cincinnati, Ohio, US&lt;/p&gt;
     
     <item>
       <title>Application Development : Netbackup report generation</title>
-      <link>https://krishna-chandran.github.io/resume/projects/app-development-netbackup/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/app-development-netbackup/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/app-development-netbackup/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/app-development-netbackup/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;p&gt;Developed a tool for extraction of backup data which connects to master servers provisioned globally, and process the big-data to generate report and dispatch to multiple users all over the world. Actively being used saving as much as 80% of the time.&lt;/p&gt;
@@ -764,10 +764,10 @@ Cincinnati, Ohio, US&lt;/p&gt;
     
     <item>
       <title>Application Development : Network Automation</title>
-      <link>https://krishna-chandran.github.io/resume/projects/app-development-network-automation/</link>
+      <link>https://krishna-chandran.github.io/portfolio/projects/app-development-network-automation/</link>
       <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/projects/app-development-network-automation/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/projects/app-development-network-automation/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;p&gt;Designed and developed an end-to-end software application for self-managing inventory for a pharmaceutical client.&lt;/p&gt;
@@ -779,10 +779,10 @@ Cincinnati, Ohio, US&lt;/p&gt;
     
     <item>
       <title>Software Developer, Tata Consultancy Services</title>
-      <link>https://krishna-chandran.github.io/resume/experience/software-developer/</link>
+      <link>https://krishna-chandran.github.io/portfolio/experience/software-developer/</link>
       <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/resume/experience/software-developer/</guid>
+      <guid>https://krishna-chandran.github.io/portfolio/experience/software-developer/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
 &lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
