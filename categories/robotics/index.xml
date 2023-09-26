@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/portfolio/categories/robotics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Thermal Camera intrinsic calibration</title>
+      <title>Autonomous vehicle end-to-end data management platform</title>
       <link>https://krishna-chandran.github.io/portfolio/projects/eitri-av-data-management-platform/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://krishna-chandran.github.io/portfolio/projects/eitri-av-data-management-platform/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Designed and Developed end-to-end robotics data management platform&lt;/li&gt;
@@ -28,33 +28,12 @@
     </item>
     
     <item>
-      <title>Lead Data Engineer, ThorDrive Inc</title>
-      <link>https://krishna-chandran.github.io/portfolio/experience/lead-data-engineer/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://krishna-chandran.github.io/portfolio/experience/lead-data-engineer/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
-&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
-Cincinnati, Ohio&lt;br&gt;&lt;br&gt;
-Mar 2022 to Mar 2023&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Designed an internal Big Data platform to collect and store Petabytes of ROS bag data, live vehicle telemetry, and
-operator log data from autonomous tractors, improving data capacity by 250 times.&lt;/li&gt;
-&lt;li&gt;Built data search, visualization, snapshot, parse, label, query, clip, and download features in the above platform,
-improving data workflow time efficiency by 91.4%.&lt;/li&gt;
-&lt;li&gt;Architected data pipelines with ELK stack for troubleshooting Vehicle computers, reducing vehicle crashes by 90%.&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
       <title>Lidar Tracking enhancement</title>
       <link>https://krishna-chandran.github.io/portfolio/projects/av-lidar-tracking/</link>
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://krishna-chandran.github.io/portfolio/projects/av-lidar-tracking/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Development and improved lidar tracking algorithm to handle steady state error in dynamic object states estimation&lt;/li&gt;
@@ -74,7 +53,7 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://krishna-chandran.github.io/portfolio/projects/av-lidar-segmentation/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Development and improved lidar segmentation algorithm to handle very large objects such as airplanes&lt;/li&gt;
@@ -94,7 +73,7 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://krishna-chandran.github.io/portfolio/projects/av-l2t-extrinsic-calibration/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Estimated Lidar to Thermal camera extrinsic calibration matrix using autoware software&lt;/li&gt;
@@ -114,7 +93,7 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://krishna-chandran.github.io/portfolio/projects/camera-modelling-fixedwing-uav/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Equations are derived for camera attached to fixed wing uav and used for body frame to camera frame transformations&lt;/li&gt;
@@ -136,7 +115,7 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://krishna-chandran.github.io/portfolio/projects/deepsort-dynamic-obstacle-tracker-av/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Adapted and enhanced Deepsort algorithm for tracking dynamic objects&lt;/li&gt;
@@ -156,7 +135,7 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://krishna-chandran.github.io/portfolio/projects/av-l2l-extrinsic-calibration/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Estimated Lidar to Lidar extrinsic calibration matrix using autoware software&lt;/li&gt;
@@ -176,7 +155,7 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://krishna-chandran.github.io/portfolio/projects/av-l2c-extrinsic-calibration/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Estimated Lidar to RGB camera extrinsic calibration matrix using autoware software&lt;/li&gt;
@@ -196,7 +175,7 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://krishna-chandran.github.io/portfolio/projects/av-thermal-camera-intrinsic-calibration/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Estimated Thermal camera intrinsic calibration parameters using open-cv python library&lt;/li&gt;
@@ -211,34 +190,12 @@ improving data workflow time efficiency by 91.4%.&lt;/li&gt;
     </item>
     
     <item>
-      <title>Perception Engineer, ThorDrive Inc</title>
-      <link>https://krishna-chandran.github.io/portfolio/experience/perception-engineer/</link>
-      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://krishna-chandran.github.io/portfolio/experience/perception-engineer/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
-&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
-Cincinnati, Ohio, US&lt;br&gt;&lt;br&gt;
-Oct 2021 to Mar 2022&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Developed FLIR thermal camera grabber ROS Node for perception stack&lt;/li&gt;
-&lt;li&gt;Developed Lidar segmentation, Lidar Tracker and Sensor fusion algorithm for autonomous tractor&lt;/li&gt;
-&lt;li&gt;Worked on Lidar ground segmentation algorithm by following state-of-art research papers&lt;/li&gt;
-&lt;li&gt;Worked on enhancement of PointPillar and mmdetection3d Deep learning models for 3D Object detection&lt;/li&gt;
-&lt;li&gt;Trained and deployed Yolo v4 model for detection of pedestrian, Cones, K-Loader and airplanes&lt;/li&gt;
-&lt;li&gt;Worked on sensor fusion of 5 RBG cameras and 2 Lidars&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
       <title>Flir Thermal Camera ROS grabber</title>
       <link>https://krishna-chandran.github.io/portfolio/projects/av-flir-thermal-camera-grabber/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://krishna-chandran.github.io/portfolio/projects/av-flir-thermal-camera-grabber/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Developed Flir Thermal camera grabber ros node for Perception stack&lt;/li&gt;
@@ -258,10 +215,9 @@ Oct 2021 to Mar 2022&lt;br&gt;&lt;br&gt;&lt;/p&gt;
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://krishna-chandran.github.io/portfolio/projects/cnn-facial-keypoint-prediction/</guid>
-      <description>&lt;!-- ![UC Logo](./images/uc-logo.png) --&gt;
-&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Build a custom CNN Deep learning regression model and trained to predict facial keypoints&lt;/li&gt;
+&lt;li&gt;Built a custom CNN Deep learning regression model and trained to predict facial keypoints&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
 &lt;ul&gt;
@@ -278,7 +234,7 @@ Oct 2021 to Mar 2022&lt;br&gt;&lt;br&gt;&lt;/p&gt;
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://krishna-chandran.github.io/portfolio/projects/estimation-geolocation-fixedwing-uav/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Equations are derived for EKF using camera model and dynamics of fixed wing aircraft&lt;/li&gt;
@@ -298,12 +254,206 @@ Oct 2021 to Mar 2022&lt;br&gt;&lt;br&gt;&lt;/p&gt;
     </item>
     
     <item>
+      <title>Estimation of geolocation using Sensor fusion of Camera, GPS and IMU sensor for fixed wing aircraft</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/guidance-model-fiedwing-uav/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/guidance-model-fiedwing-uav/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for simple yet powerful guidance model using dynamics of fixed wing aircraft&lt;/li&gt;
+&lt;li&gt;Guidance model control equations are tested in MATLAB and Simulink environment&lt;/li&gt;
+&lt;li&gt;Guidance model is implemented in Python/C++ and ROS and tested in Gazebo Environment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to build controller using guidance model for fixed wing aircraft&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Estimation of states for autonomous fixed wing aircraft</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/estimation-states-fixedwing-uav/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/estimation-states-fixedwing-uav/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for EKF using dynamics of fixed wing aircraft&lt;/li&gt;
+&lt;li&gt;Equations are verified using MATLAB and Simulink simulations for the scenarios of takeoff, cruise and landing&lt;/li&gt;
+&lt;li&gt;Algorithm implemented in Python/C++, ROS and tested in Gazebo environment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to estimate states of the autonomous fixed wing aircraft&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Estimation of states for autonomous fixed wing aircraft</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/full-stack-web-realtime-cnc-monitoring/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/full-stack-web-realtime-cnc-monitoring/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for EKF using dynamics of tiltrotor drone&lt;/li&gt;
+&lt;li&gt;Equations are verified using MATLAB and Simulink simulations for the scenarios of takeoff, cruise and landing&lt;/li&gt;
+&lt;li&gt;Algorithm implemented in Python/C++, ROS and tested in Gazebo environment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to estimate states of the autonomous fixed wing aircraft&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Estimation of states for autonomous tiltrotor drone</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/estimation-states-ekf-tiltrotor/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/estimation-states-ekf-tiltrotor/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for EKF using dynamics of tiltrotor drone&lt;/li&gt;
+&lt;li&gt;Equations are verified using MATLAB and Simulink simulations for the scenario of trajectory tracking&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to estimate states of the autonomous tilt rotor drone&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Graph SLAM for autonomous vehicle localization navigation</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/graphslam-av-navigation/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/graphslam-av-navigation/</guid>
+      <description>&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Demonstrated a simple graph based SLAM algorithm (Simultaneous Localization and Mapping)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to build simultaneous localization and mapping for autonomous cars&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Landing quadcopter on the moving vehicle</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/landing-quadcopter-on-moving-ground-vehicle/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/landing-quadcopter-on-moving-ground-vehicle/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for landing controller using camera sensor and moving target model&lt;/li&gt;
+&lt;li&gt;Landing controller equations are tested in MATLAB and Simulink environment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to build a controller algorithm for landing quadcopter on a moving ground vehicle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Path manager algorithm for fixed wing aircraft</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/pathmanager-multi-waypoiny-navigation/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/pathmanager-multi-waypoiny-navigation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for path manager to track multi waypoint navigation&lt;/li&gt;
+&lt;li&gt;Path manager algorithms are tested in MATLAB and Simulink environment&lt;/li&gt;
+&lt;li&gt;Path manager is implemented in Python/C++ and ROS and tested in Gazebo Environment&lt;/li&gt;
+&lt;li&gt;Algorithm tested in Hardware-in-loop testing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to build path manager to track multiple waypoints for fixed wing aircraft&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Path tracking algorithm for fixed wing aircraft</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/path-tracking-finxedwing-uav/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/path-tracking-finxedwing-uav/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for straight line and circular path tracking using dynamics of fixed wing aircraft&lt;/li&gt;
+&lt;li&gt;Path tracker control equations are tested in MATLAB and Simulink environment&lt;/li&gt;
+&lt;li&gt;Path tracker is implemented in Python/C++ and ROS and tested in Gazebo Environment&lt;/li&gt;
+&lt;li&gt;Algorithm tested in Hardware-in-loop testing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to build straight line and circular orbit path tracker for fixed wing aircraft&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Trajectory navigation for quadcopter</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/trajectory-navigation-quadcopter/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/trajectory-navigation-quadcopter/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for differential flatness based controller&lt;/li&gt;
+&lt;li&gt;Controller algorithms are tested in MATLAB and Simulink environment for different trajectory paths&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to build trajectory path controller for quadcopter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
       <title>Design and development of autopilot for controlling attitude and air-speed of fixed wing UAV</title>
       <link>https://krishna-chandran.github.io/portfolio/projects/autopilot-fixedwing-uav/</link>
       <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://krishna-chandran.github.io/portfolio/projects/autopilot-fixedwing-uav/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Equation of the motion is derived with 12 DOF, analyzed for stability and PID controllers are constructed for controlling roll, pitch, altitude, course, airspeed with throttle and airspeed with pitch, considering trim conditions. State machine is build for switching between different flying modes. Controller gains are tuned, and code implemented in python/C++ and tested with Gazebo simulation in ROS environment&lt;/li&gt;

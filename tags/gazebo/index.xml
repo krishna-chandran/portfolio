@@ -13,7 +13,7 @@
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://krishna-chandran.github.io/portfolio/projects/estimation-geolocation-fixedwing-uav/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Equations are derived for EKF using camera model and dynamics of fixed wing aircraft&lt;/li&gt;
@@ -33,12 +33,80 @@
     </item>
     
     <item>
+      <title>Estimation of geolocation using Sensor fusion of Camera, GPS and IMU sensor for fixed wing aircraft</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/guidance-model-fiedwing-uav/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/guidance-model-fiedwing-uav/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for simple yet powerful guidance model using dynamics of fixed wing aircraft&lt;/li&gt;
+&lt;li&gt;Guidance model control equations are tested in MATLAB and Simulink environment&lt;/li&gt;
+&lt;li&gt;Guidance model is implemented in Python/C++ and ROS and tested in Gazebo Environment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to build controller using guidance model for fixed wing aircraft&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Path manager algorithm for fixed wing aircraft</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/pathmanager-multi-waypoiny-navigation/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/pathmanager-multi-waypoiny-navigation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for path manager to track multi waypoint navigation&lt;/li&gt;
+&lt;li&gt;Path manager algorithms are tested in MATLAB and Simulink environment&lt;/li&gt;
+&lt;li&gt;Path manager is implemented in Python/C++ and ROS and tested in Gazebo Environment&lt;/li&gt;
+&lt;li&gt;Algorithm tested in Hardware-in-loop testing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to build path manager to track multiple waypoints for fixed wing aircraft&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Path tracking algorithm for fixed wing aircraft</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/path-tracking-finxedwing-uav/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/path-tracking-finxedwing-uav/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for straight line and circular path tracking using dynamics of fixed wing aircraft&lt;/li&gt;
+&lt;li&gt;Path tracker control equations are tested in MATLAB and Simulink environment&lt;/li&gt;
+&lt;li&gt;Path tracker is implemented in Python/C++ and ROS and tested in Gazebo Environment&lt;/li&gt;
+&lt;li&gt;Algorithm tested in Hardware-in-loop testing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to build straight line and circular orbit path tracker for fixed wing aircraft&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
       <title>Design and development of autopilot for controlling attitude and air-speed of fixed wing UAV</title>
       <link>https://krishna-chandran.github.io/portfolio/projects/autopilot-fixedwing-uav/</link>
       <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://krishna-chandran.github.io/portfolio/projects/autopilot-fixedwing-uav/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Equation of the motion is derived with 12 DOF, analyzed for stability and PID controllers are constructed for controlling roll, pitch, altitude, course, airspeed with throttle and airspeed with pitch, considering trim conditions. State machine is build for switching between different flying modes. Controller gains are tuned, and code implemented in python/C++ and tested with Gazebo simulation in ROS environment&lt;/li&gt;

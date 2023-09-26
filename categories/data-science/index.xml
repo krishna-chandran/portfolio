@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/portfolio/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Thermal Camera intrinsic calibration</title>
+      <title>Autonomous vehicle end-to-end data management platform</title>
       <link>https://krishna-chandran.github.io/portfolio/projects/eitri-av-data-management-platform/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://krishna-chandran.github.io/portfolio/projects/eitri-av-data-management-platform/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Designed and Developed end-to-end robotics data management platform&lt;/li&gt;
@@ -33,7 +33,7 @@
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://krishna-chandran.github.io/portfolio/projects/deepsort-dynamic-obstacle-tracker-av/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Adapted and enhanced Deepsort algorithm for tracking dynamic objects&lt;/li&gt;
@@ -48,15 +48,93 @@
     </item>
     
     <item>
+      <title>Alert automation and self-healing</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/ignio-alert-automation/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/ignio-alert-automation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reduced duplicate alerts by 80%&lt;/li&gt;
+&lt;li&gt;Smart handling of alerts by using Probable cause analysis to find the root cause and fix them, ignoring other dependant tasks&lt;/li&gt;
+&lt;li&gt;Created adapters to integrate ignio with ServiceNow, Solarwinds and AppDynamics using REST API&lt;/li&gt;
+&lt;li&gt;Created dynamic profiling of systems, VMs, Applications, Databases, Network and storage entities&lt;/li&gt;
+&lt;li&gt;Using dynamic profiles, predicting if the alert is valid for the given conditions&lt;/li&gt;
+&lt;li&gt;Auto verify and apply self-healing scripts to address those alerts&lt;/li&gt;
+&lt;li&gt;Automated more than 90% of repeated IT Alert and hence enabling technical team to work on solutioning rather than monitoring and troubleshooting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to reduce workload of IT Operations and Monitoring team, by reducing duplicate tickets, reduce troubleshooting and automation using AI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Image captioning using CNN and LSTM</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/image-captioning-cnn-lstm/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/image-captioning-cnn-lstm/</guid>
+      <description>&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Image captioning is achieved by using Convolutional Neural Networks and Long Short Time Memory model&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to create image captioning system using Deep learning and computer vision methods&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Log monitoring and Dashboard creation using ELK stack</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/log-monitoring-elk/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/log-monitoring-elk/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed data pipelines for log data streams using filebeat and metricbeat&lt;/li&gt;
+&lt;li&gt;Developed grok filters in logstash for pattern matching and log filtering&lt;/li&gt;
+&lt;li&gt;Collected metrics and analytics are displayed in the dashboard created in&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to reduce workload of IT Operations and Monitoring team, by reducing duplicate tickets, reduce troubleshooting and automation using AI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Prediction of CNC machine failire</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/prediction-of-bearing-failure-cnc/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/prediction-of-bearing-failure-cnc/</guid>
+      <description>&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed ML algorithm for prediction of CNC bearing failures&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>Facial Keypoint Detection using CNN</title>
       <link>https://krishna-chandran.github.io/portfolio/projects/cnn-facial-keypoint-prediction/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://krishna-chandran.github.io/portfolio/projects/cnn-facial-keypoint-prediction/</guid>
-      <description>&lt;!-- ![UC Logo](./images/uc-logo.png) --&gt;
-&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Build a custom CNN Deep learning regression model and trained to predict facial keypoints&lt;/li&gt;
+&lt;li&gt;Built a custom CNN Deep learning regression model and trained to predict facial keypoints&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
 &lt;ul&gt;

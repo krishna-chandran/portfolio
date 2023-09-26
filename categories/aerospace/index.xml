@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aerospace on Krishnakumar Chandran</title>
+    <link>https://krishna-chandran.github.io/portfolio/categories/aerospace/</link>
+    <description>Recent content in Aerospace on Krishnakumar Chandran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/portfolio/categories/aerospace/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RGB Camera modeling for Fixed wing UAV</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/camera-modelling-fixedwing-uav/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/camera-modelling-fixedwing-uav/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for camera attached to fixed wing uav and used for body frame to camera frame transformations&lt;/li&gt;
+&lt;li&gt;Equations are verified using MATLAB and Simulink simulations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to model camera attached to fixed wing uav&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/07is1DhGH3o?si=4PpILQxor3LKumux&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Estimation of geolocation using Sensor fusion of Camera, GPS and IMU sensor for fixed wing aircraft</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/estimation-geolocation-fixedwing-uav/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/estimation-geolocation-fixedwing-uav/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for EKF using camera model and dynamics of fixed wing aircraft&lt;/li&gt;
+&lt;li&gt;Equations are verified using MATLAB and Simulink simulations&lt;/li&gt;
+&lt;li&gt;Estimation algorithm is developed in Python/C++ and simulated in gazebo environment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to estimate geolocation of fixed wing aircraft&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;
+&lt;iframe width=&#34;700&#34; height=&#34;500&#34; src=&#34;https://www.youtube.com/embed/TCp14nmGwEc?si=0QcBqI4_j26YGXGK&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;  
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/oi_eGilhZBA?si=1i6Cv5EMOxOy5NLc&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Estimation of geolocation using Sensor fusion of Camera, GPS and IMU sensor for fixed wing aircraft</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/guidance-model-fiedwing-uav/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/guidance-model-fiedwing-uav/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for simple yet powerful guidance model using dynamics of fixed wing aircraft&lt;/li&gt;
+&lt;li&gt;Guidance model control equations are tested in MATLAB and Simulink environment&lt;/li&gt;
+&lt;li&gt;Guidance model is implemented in Python/C++ and ROS and tested in Gazebo Environment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to build controller using guidance model for fixed wing aircraft&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Estimation of states for autonomous fixed wing aircraft</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/estimation-states-fixedwing-uav/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/estimation-states-fixedwing-uav/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for EKF using dynamics of fixed wing aircraft&lt;/li&gt;
+&lt;li&gt;Equations are verified using MATLAB and Simulink simulations for the scenarios of takeoff, cruise and landing&lt;/li&gt;
+&lt;li&gt;Algorithm implemented in Python/C++, ROS and tested in Gazebo environment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to estimate states of the autonomous fixed wing aircraft&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Estimation of states for autonomous tiltrotor drone</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/estimation-states-ekf-tiltrotor/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/estimation-states-ekf-tiltrotor/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for EKF using dynamics of tiltrotor drone&lt;/li&gt;
+&lt;li&gt;Equations are verified using MATLAB and Simulink simulations for the scenario of trajectory tracking&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to estimate states of the autonomous tilt rotor drone&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Landing quadcopter on the moving vehicle</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/landing-quadcopter-on-moving-ground-vehicle/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/landing-quadcopter-on-moving-ground-vehicle/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for landing controller using camera sensor and moving target model&lt;/li&gt;
+&lt;li&gt;Landing controller equations are tested in MATLAB and Simulink environment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to build a controller algorithm for landing quadcopter on a moving ground vehicle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Path manager algorithm for fixed wing aircraft</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/pathmanager-multi-waypoiny-navigation/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/pathmanager-multi-waypoiny-navigation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for path manager to track multi waypoint navigation&lt;/li&gt;
+&lt;li&gt;Path manager algorithms are tested in MATLAB and Simulink environment&lt;/li&gt;
+&lt;li&gt;Path manager is implemented in Python/C++ and ROS and tested in Gazebo Environment&lt;/li&gt;
+&lt;li&gt;Algorithm tested in Hardware-in-loop testing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to build path manager to track multiple waypoints for fixed wing aircraft&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Path tracking algorithm for fixed wing aircraft</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/path-tracking-finxedwing-uav/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/path-tracking-finxedwing-uav/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for straight line and circular path tracking using dynamics of fixed wing aircraft&lt;/li&gt;
+&lt;li&gt;Path tracker control equations are tested in MATLAB and Simulink environment&lt;/li&gt;
+&lt;li&gt;Path tracker is implemented in Python/C++ and ROS and tested in Gazebo Environment&lt;/li&gt;
+&lt;li&gt;Algorithm tested in Hardware-in-loop testing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to build straight line and circular orbit path tracker for fixed wing aircraft&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Trajectory navigation for quadcopter</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/trajectory-navigation-quadcopter/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/trajectory-navigation-quadcopter/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equations are derived for differential flatness based controller&lt;/li&gt;
+&lt;li&gt;Controller algorithms are tested in MATLAB and Simulink environment for different trajectory paths&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to build trajectory path controller for quadcopter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Design and Analysis of mechanical link for Tejas flight actuator</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/hal-design-analysis-actuator-link/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://krishna-chandran.github.io/portfolio/projects/hal-design-analysis-actuator-link/</guid>
+      <description>&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Contributed to component design in Autonomous flight control system&lt;/li&gt;
+&lt;li&gt;Focused on prediction of structural failure in aircraft structures&lt;/li&gt;
+&lt;li&gt;Designed structural component in CATIA and performed analysis in ANSYS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to improve structural strength and address the issue of flight control actuator play&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Published research work on &amp;quot; Conceptual Design and Analysis of Link for Arresting&lt;/li&gt;
+&lt;li&gt;Slat actuator Play in Tejas Aircraft &amp;quot; in an International Journal of Basic and Applied Engineering Research - Print
+ISSN: 2350-0077; Online ISSN: 2350-0255;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

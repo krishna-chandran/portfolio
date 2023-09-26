@@ -18,12 +18,22 @@
   </url>
   
   <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/beats/</loc>
+    <loc>https://krishna-chandran.github.io/portfolio/about/</loc>
+    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/</loc>
+    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/projects/eitri-av-data-management-platform/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/c/</loc>
+    <loc>https://krishna-chandran.github.io/portfolio/tags/beats/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,11 +123,6 @@
   </url>
   
   <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/eitri-av-data-management-platform/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://krishna-chandran.github.io/portfolio/tags/typescript/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url>
@@ -128,47 +133,7 @@
   </url>
   
   <url>
-    <loc>https://krishna-chandran.github.io/portfolio/about/</loc>
-    <lastmod>2022-04-27T21:01:43+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/</loc>
-    <lastmod>2022-04-27T21:01:43+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/aws/</loc>
-    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/aws-ec2/</loc>
-    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/aws-s3/</loc>
-    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/ci-cd-pipeline/</loc>
-    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://krishna-chandran.github.io/portfolio/experience/lead-data-engineer/</loc>
-    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/postgresql/</loc>
-    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/streamlit/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -183,8 +148,18 @@
   </url>
   
   <url>
+    <loc>https://krishna-chandran.github.io/portfolio/categories/self-driving-car/</loc>
+    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://krishna-chandran.github.io/portfolio/projects/av-lidar-segmentation/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/categories/aerospace/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -243,78 +218,13 @@
   </url>
   
   <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/airport-domain/</loc>
-    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/artificial-intelligence/</loc>
-    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/camera-calibration/</loc>
-    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/extended-kalman-filter/</loc>
-    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/ground-segmentation/</loc>
-    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/lidar/</loc>
-    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/lidar-segmentation/</loc>
-    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/lidar-tracking/</loc>
-    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/mmdetection3d/</loc>
-    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://krishna-chandran.github.io/portfolio/experience/perception-engineer/</loc>
     <lastmod>2021-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/pointpillar/</loc>
-    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/pytorch/</loc>
-    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/sensor-fusion/</loc>
-    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/tensorflow/</loc>
-    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/yolov5/</loc>
-    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+    <loc>https://krishna-chandran.github.io/portfolio/tags/ci-cd-pipeline/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -324,6 +234,11 @@
   
   <url>
     <loc>https://krishna-chandran.github.io/portfolio/tags/ansible/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/tags/aws/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -403,6 +318,11 @@
   </url>
   
   <url>
+    <loc>https://krishna-chandran.github.io/portfolio/tags/postgresql/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://krishna-chandran.github.io/portfolio/tags/rabbitmq/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url>
@@ -428,12 +348,12 @@
   </url>
   
   <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/active-directory/</loc>
+    <loc>https://krishna-chandran.github.io/portfolio/tags/activemq/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/activemq/</loc>
+    <loc>https://krishna-chandran.github.io/portfolio/projects/ignio-alert-automation/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -443,12 +363,22 @@
   </url>
   
   <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/email/</loc>
+    <loc>https://krishna-chandran.github.io/portfolio/tags/artificial-intelligence/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/firewall/</loc>
+    <loc>https://krishna-chandran.github.io/portfolio/projects/linux-server-provisioning/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/projects/ups-kpi-report-demo/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/tags/email/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -458,12 +388,17 @@
   </url>
   
   <url>
+    <loc>https://krishna-chandran.github.io/portfolio/projects/image-captioning-cnn-lstm/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://krishna-chandran.github.io/portfolio/tags/integration/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/load-balancer/</loc>
+    <loc>https://krishna-chandran.github.io/portfolio/projects/log-monitoring-elk/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -473,12 +408,7 @@
   </url>
   
   <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/redmine/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/routing/</loc>
+    <loc>https://krishna-chandran.github.io/portfolio/tags/pytorch/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -498,128 +428,18 @@
   </url>
   
   <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/estimation-states-ekf-tiltrotor/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/estimation-states-fixedwing-uav/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/full-stack-web-realtime-cnc-monitoring/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/graphslam-av-navigation/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/guidance-model-fiedwing-uav/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/hal-design-analysis-actuator-link/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/ignio-alert-automation/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/image-captioning-cnn-lstm/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/intelligent-log-debugging/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/landing-quadcopter-on-moving-ground-vehicle/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/linux-server-provisioning/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/linux-user-onboarding/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/log-monitoring-elk/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/path-tracking-finxedwing-uav/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/pathmanager-multi-waypoiny-navigation/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/prediction-of-bearing-failure-cnc/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/service-now-adapter-integration/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/trajectory-navigation-quadcopter/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/ups-kpi-report-demo/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/veeva-vault-automation/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/vehicle-crash-troubleshooting/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/windows-patching-automation/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/projects/yolov4-object-detection-av/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/switching/</loc>
+    <loc>https://krishna-chandran.github.io/portfolio/tags/streamlit/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://krishna-chandran.github.io/portfolio/tags/windows/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/projects/prediction-of-bearing-failure-cnc/</loc>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -633,22 +453,27 @@
   </url>
   
   <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/jquery/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/categories/machine-learning/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/mysql/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://krishna-chandran.github.io/portfolio/projects/estimation-geolocation-fixedwing-uav/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/projects/guidance-model-fiedwing-uav/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/projects/estimation-states-fixedwing-uav/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/projects/full-stack-web-realtime-cnc-monitoring/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/projects/estimation-states-ekf-tiltrotor/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -658,22 +483,42 @@
   </url>
   
   <url>
+    <loc>https://krishna-chandran.github.io/portfolio/projects/graphslam-av-navigation/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/projects/landing-quadcopter-on-moving-ground-vehicle/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/projects/pathmanager-multi-waypoiny-navigation/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/projects/path-tracking-finxedwing-uav/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/tags/simulink/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/projects/trajectory-navigation-quadcopter/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://krishna-chandran.github.io/portfolio/projects/autopilot-fixedwing-uav/</loc>
     <lastmod>2017-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://krishna-chandran.github.io/portfolio/categories/education/</loc>
-    <lastmod>2017-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://krishna-chandran.github.io/portfolio/education/university-of-cincinnati/</loc>
-    <lastmod>2017-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krishna-chandran.github.io/portfolio/tags/simulink/</loc>
     <lastmod>2017-08-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -684,6 +529,26 @@
   
   <url>
     <loc>https://krishna-chandran.github.io/portfolio/projects/app-development-network-automation/</loc>
+    <lastmod>2014-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/tags/firewall/</loc>
+    <lastmod>2014-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/tags/load-balancer/</loc>
+    <lastmod>2014-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/tags/routing/</loc>
+    <lastmod>2014-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/tags/switching/</loc>
     <lastmod>2014-12-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -703,8 +568,42 @@
   </url>
   
   <url>
+    <loc>https://krishna-chandran.github.io/portfolio/tags/aircraft-structures/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/tags/ansys/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/tags/catia/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/projects/hal-design-analysis-actuator-link/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/tags/flight-control-system/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/tags/strength-of-materials/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://krishna-chandran.github.io/portfolio/education/rajalakshmi-engineering-college/</loc>
     <lastmod>2010-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishna-chandran.github.io/portfolio/projects/linux-user-onboarding/</loc>
   </url>
   
 </urlset>

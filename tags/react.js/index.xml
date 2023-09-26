@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/portfolio/tags/react.js/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Thermal Camera intrinsic calibration</title>
+      <title>Autonomous vehicle end-to-end data management platform</title>
       <link>https://krishna-chandran.github.io/portfolio/projects/eitri-av-data-management-platform/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://krishna-chandran.github.io/portfolio/projects/eitri-av-data-management-platform/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Designed and Developed end-to-end robotics data management platform&lt;/li&gt;
@@ -25,50 +25,6 @@
 &lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
 &lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
 &lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
-    </item>
-    
-    <item>
-      <title>Lead Data Engineer, ThorDrive Inc</title>
-      <link>https://krishna-chandran.github.io/portfolio/experience/lead-data-engineer/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://krishna-chandran.github.io/portfolio/experience/lead-data-engineer/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
-&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
-Cincinnati, Ohio&lt;br&gt;&lt;br&gt;
-Mar 2022 to Mar 2023&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Designed an internal Big Data platform to collect and store Petabytes of ROS bag data, live vehicle telemetry, and
-operator log data from autonomous tractors, improving data capacity by 250 times.&lt;/li&gt;
-&lt;li&gt;Built data search, visualization, snapshot, parse, label, query, clip, and download features in the above platform,
-improving data workflow time efficiency by 91.4%.&lt;/li&gt;
-&lt;li&gt;Architected data pipelines with ELK stack for troubleshooting Vehicle computers, reducing vehicle crashes by 90%.&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>Full Stack Developer, University of Cincinnati</title>
-      <link>https://krishna-chandran.github.io/portfolio/experience/full-stack-developer/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://krishna-chandran.github.io/portfolio/experience/full-stack-developer/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/uc-logo.png&#34; alt=&#34;UC Logo&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
-&lt;p&gt;Internship&lt;br&gt;&lt;br&gt;
-Jun 2018 to Dec 2018&lt;br&gt;&lt;br&gt;
-Intelligent Maintenance Systems Lab, UC CEAS&lt;br&gt;&lt;br&gt;
-Cincinnati, Ohio, US&lt;/p&gt;
-&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace&lt;/li&gt;
-&lt;li&gt;Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs&lt;/li&gt;
-&lt;li&gt;Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process&lt;/li&gt;
-&lt;li&gt;Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook&lt;/li&gt;
-&lt;li&gt;Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry&lt;/li&gt;
-&lt;li&gt;Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
     
   </channel>

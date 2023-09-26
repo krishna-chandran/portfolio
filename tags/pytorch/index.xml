@@ -6,27 +6,24 @@
     <description>Recent content in pytorch on Krishnakumar Chandran</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/portfolio/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://krishna-chandran.github.io/portfolio/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Perception Engineer, ThorDrive Inc</title>
-      <link>https://krishna-chandran.github.io/portfolio/experience/perception-engineer/</link>
-      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      <title>Image captioning using CNN and LSTM</title>
+      <link>https://krishna-chandran.github.io/portfolio/projects/image-captioning-cnn-lstm/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://krishna-chandran.github.io/portfolio/experience/perception-engineer/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;Thordrive Logo&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
-&lt;p&gt;Full-time&lt;br&gt;&lt;br&gt;
-Cincinnati, Ohio, US&lt;br&gt;&lt;br&gt;
-Oct 2021 to Mar 2022&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+      <guid>https://krishna-chandran.github.io/portfolio/projects/image-captioning-cnn-lstm/</guid>
+      <description>&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Developed FLIR thermal camera grabber ROS Node for perception stack&lt;/li&gt;
-&lt;li&gt;Developed Lidar segmentation, Lidar Tracker and Sensor fusion algorithm for autonomous tractor&lt;/li&gt;
-&lt;li&gt;Worked on Lidar ground segmentation algorithm by following state-of-art research papers&lt;/li&gt;
-&lt;li&gt;Worked on enhancement of PointPillar and mmdetection3d Deep learning models for 3D Object detection&lt;/li&gt;
-&lt;li&gt;Trained and deployed Yolo v4 model for detection of pedestrian, Cones, K-Loader and airplanes&lt;/li&gt;
-&lt;li&gt;Worked on sensor fusion of 5 RBG cameras and 2 Lidars&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;li&gt;Image captioning is achieved by using Convolutional Neural Networks and Long Short Time Memory model&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aim is to create image captioning system using Deep learning and computer vision methods&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation&lt;/h3&gt;
+&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology&lt;/h3&gt;
+&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion&lt;/h3&gt;</description>
     </item>
     
   </channel>
