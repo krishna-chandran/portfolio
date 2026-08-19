@@ -1,35 +1,30 @@
 {{ define "main" }}
 
-<div>
-    {{ if trim .Content " \n" }}
-        <div class="content archive-hint">{{ .Content }}</div>
+<header class="page-head">
+    {{ with .Data.Singular }}
+        <p class="kicker">{{ . | humanize }}</p>
+    {{ else }}
+        <p class="kicker">{{ .Section | humanize | default "Edition" }}</p>
     {{ end }}
+    <h1>{{ .Title }}</h1>
+</header>
 
-    <section id="archive">
-        {{ range .Data.Pages.GroupByDate "2006" }}
-            <div class="group">
-                <h3 class="key">
-                    {{ .Key }}
-                </h3>
-
+<section id="archive" aria-label="{{ .Title }}">
+    {{ range .Pages.GroupByDate "2006" }}
+        <div class="group">
+            <h2 class="key">{{ .Key }}</h2>
+            <ul class="entries">
                 {{ range .Pages }}
-                    <div class="value">
-                        <time class="date" datetime="{{ .PublishDate }}">{{ .PublishDate.Format "02 Jan" }}</time>
+                    <li class="value">
+                        <time class="date" datetime="{{ .PublishDate.Format "2006-01-02" }}">{{ .PublishDate.Format "02 Jan" }}</time>
                         <div class="title">
-                            <a href="{{ .Permalink }}">{{ .Title }}</a>
-                            {{ with .Params.tags }}
-                                {{ range . }}
-                                    <a class="tags" href="{{ "tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>
-                                {{ end }}
-                            {{ end }}
+                            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
                         </div>
-                    </div>
+                    </li>
                 {{ end }}
-
-            </div>
-        {{ end }}
-
-    </section>
-</div>
+            </ul>
+        </div>
+    {{ end }}
+</section>
 
 {{ end }}

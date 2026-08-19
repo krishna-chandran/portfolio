@@ -1,24 +1,21 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ site.Language.Lang | default "en" }}">
     <head>
         {{ partial "head.html" . }}
     </head>
-
-    <body>
-        {{ partial "header.html" . }}
-        <main class="main-wrapper">
-            <div class="main">
+    <body class="{{ if .IsHome }}is-home{{ else }}is-page{{ end }}">
+        <a class="skip-link" href="#main">Skip to content</a>
+        <div class="sheet">
+            {{ partial "masthead.html" . }}
+            <main id="main">
                 {{ block "main" . }}{{ end }}
-            </div>
-            <div class="side">
-                {{ partial "profile.html" . }}
-                <!-- {{ range .Site.Sections }}
-                    {{ partial "side-recent.html" . }}
-                {{ end }} -->
-                {{ partial "side-categories.html" . }}
-                {{ partial "side-tags.html" . }}
-            </div>
-        </main>
-        {{ partial "footer.html" . }}
+            </main>
+            <footer class="paper-foot">
+                <p>© {{ now.Year }} {{ .Site.Title }} &nbsp;·&nbsp; Printed from Cincinnati</p>
+                <p>
+                    {{ with .Site.Params.email }}<a href="mailto:{{ . }}">{{ . }}</a>{{ end }}
+                </p>
+            </footer>
+        </div>
     </body>
 </html>

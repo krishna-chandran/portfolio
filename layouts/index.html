@@ -1,53 +1,111 @@
 {{ define "main" }}
 
-<div class="max-wrapper">
-    <div id="list-page">
-    {{ if ( eq $.Paginator.PageNumber 1) }}  
-  
-    {{ end }}
-        <h1>Timeline</h1>
-        {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-        {{ $paginator := .Paginate $pages }}
-        {{ range $paginator.Pages }}
-            <section class="list-item">
-                <h1 class="title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+{{ $lead := .Site.GetPage "experience/software-engineer-agtonomy" }}
 
-                <div class="tips">
-                    <div class="date">
-                        <time datetime="{{ .PublishDate }}">{{ .PublishDate.Format "01/02/2006" }}</time>
-                    </div>
-
-                    {{ with .Params.Categories }}
-                        <div class="categories">
-                            <span>Categories:</span>
-                            {{ range first 2 . }}
-                                <a href="{{ "categories/" | relURL }}{{ . | urlize }}">{{ . }}</a>
-                            {{ end }}
-                        </div>
-                    {{ end }}
-
-                    {{ with .Params.Tags }}
-                        <div class="tags">
-                            <span>Skills:</span>
-                            {{ range first 5 . }}
-                                <a href="{{ "tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>
-                            {{ end }}
-                        </div>
-                    {{ end }}
-                </div>
-
-                <div class="summary">
-                    {{ with .Description }}
-                        {{ . }}
-                    {{ else }}
-                        {{ .Summary }}
-                    {{ end }}
-                </div>
-                <a href="{{ .RelPermalink }}">more...</a>
-            </section>
+<section class="ticker" aria-label="Inside this edition">
+    {{ range $item := .Site.Params.ticker }}
+        {{ with $.Site.GetPage $item.path }}
+        <a class="ticker-item" href="{{ .RelPermalink }}">
+            {{ partial "cut.html" (dict "page" . "class" "ticker-cut" "alt" $item.headline) }}
+            <span>
+                <span class="lab">{{ $item.kicker }}</span>
+                <strong>{{ $item.headline }}</strong>
+            </span>
+        </a>
         {{ end }}
+    {{ end }}
+</section>
 
-    </div>
-    {{ partial "pagination.html" . }}
+<div class="front">
+    {{ with $lead }}
+    <article class="story lead">
+        <p class="lab">Now</p>
+        <h2><a href="{{ .RelPermalink }}">Software engineer joins Agtonomy to scale farm-robot telemetry</a></h2>
+        <p class="byline">Cincinnati &nbsp;|&nbsp; {{ .Date.Format "January 2006" }} &nbsp;|&nbsp; Agtech</p>
+        <figure class="cut lead-cut">
+            <img src="{{ "images/krishna.jpg" | relURL }}" alt="Portrait of {{ $.Site.Title }}" width="900" height="600">
+            <figcaption>{{ $.Site.Title }}, photographed in Cincinnati. He builds data platforms and perception software for autonomous machines.</figcaption>
+        </figure>
+        <div class="cols">
+            <p>Krishnakumar Chandran, a Cincinnati engineer trained in aerospace, has joined Agtonomy to work on vehicle telemetry. The brief is practical: pipelines that stay up when a fleet of autonomous farm machines starts talking all at once.</p>
+            <p>He comes from ThorDrive, where he led data engineering on an internal platform for ROS bags, live logs and labels at tractor scale, after a stint as perception engineer on lidar, thermal cameras and sensor fusion.</p>
+            <p><a class="jump" href="{{ .RelPermalink }}">Continued on Experience →</a></p>
+        </div>
+    </article>
+    {{ end }}
+
+    <aside class="story nearby" aria-labelledby="nearby-heading">
+        <p class="lab" id="nearby-heading">Career</p>
+        {{ range where .Site.RegularPages "Type" "experience" }}
+        <a class="nearby-item" href="{{ .RelPermalink }}">
+            {{ partial "cut.html" (dict "page" . "class" "nearby-cut" "decorative" true) }}
+            <span class="nearby-copy">
+                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006" }}</time>
+                <span>{{ .Title }}</span>
+            </span>
+        </a>
+        {{ end }}
+        <p><a class="jump" href="{{ "experience/" | relURL }}">Full history →</a></p>
+    </aside>
+
+    {{ range $year := slice "2022" "2021" "2019" "2017" }}
+    <section class="story edition yr-{{ $year }}" aria-labelledby="yr-{{ $year }}">
+        <p class="lab" id="yr-{{ $year }}">{{ $year }}</p>
+        {{ $shown := false }}
+        {{ range where $.Site.Params.briefs "year" $year }}
+            {{ $brief := . }}
+            {{ with $.Site.GetPage $brief.path }}
+            <h3><a href="{{ .RelPermalink }}">{{ $brief.headline }}</a></h3>
+            {{ if not $shown }}
+                {{ partial "cut.html" (dict "page" . "class" "edition-cut" "alt" $brief.headline "caption" "File photo") }}
+                {{ $shown = true }}
+            {{ end }}
+            <p>{{ $brief.deck }}</p>
+            <p><a class="jump" href="{{ .RelPermalink }}">Continued →</a></p>
+            {{ end }}
+        {{ end }}
+    </section>
+    {{ end }}
 </div>
+
+{{ $posts := where .Site.RegularPages "Section" "blog" }}
+{{ if $posts }}
+<section class="dispatches" aria-labelledby="dispatches-heading">
+    <div class="dispatches-head">
+        <p class="lab" id="dispatches-heading">Dispatches</p>
+        <a class="jump" href="{{ "blog/" | relURL }}">All columns →</a>
+    </div>
+    <div class="dispatch-grid">
+        {{ range first 3 $posts }}
+        <article class="dispatch">
+            {{ partial "cut.html" (dict "page" . "class" "dispatch-cut" "alt" .Title) }}
+            <p class="lab">Opinion</p>
+            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            <p class="byline">{{ .Date.Format "January 2, 2006" }}</p>
+            <p>{{ .Summary | plainify | truncate 140 }}</p>
+            <p><a class="jump" href="{{ .RelPermalink }}">Continued →</a></p>
+        </article>
+        {{ end }}
+    </div>
+</section>
+{{ end }}
+
+<section class="files" aria-labelledby="files-heading">
+    <p class="lab" id="files-heading">From the files</p>
+    <ul>
+        {{ with .Site.GetPage "experience/software-engineer-agtonomy" }}
+            {{ with .Resources.GetMatch "*agtonomy*" }}
+        <li><img src="{{ .RelPermalink }}" alt="Agtonomy"></li>
+            {{ end }}
+        {{ end }}
+        <li><img src="{{ "images/thordrive-logo.png" | relURL }}" alt="ThorDrive"></li>
+        <li><img src="{{ "images/tcs-logo.png" | relURL }}" alt="Tata Consultancy Services"></li>
+        <li><img src="{{ "images/uc-logo.png" | relURL }}" alt="University of Cincinnati"></li>
+        <li><img src="{{ "images/HAL_logo.png" | relURL }}" alt="Hindustan Aeronautics Limited"></li>
+        <li><img src="{{ "images/pragmr-logo.avif" | relURL }}" alt="Pragmr"></li>
+        <li><img src="{{ "images/ups-logo.png" | relURL }}" alt="UPS"></li>
+        <li><img src="{{ "images/mazak-logo.png" | relURL }}" alt="Mazak"></li>
+    </ul>
+</section>
+
 {{ end }}

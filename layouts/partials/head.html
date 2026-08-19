@@ -1,20 +1,19 @@
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,minimum-scale=1">
-
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<meta name="theme-color" content="#fbfaf4">
 
 {{ $title := .Site.Title -}}
-{{ if .Params.Title -}}
-    {{ $title = printf "%s | %s" .Params.Title $title -}}
+{{ if and .Params.Title (not .IsHome) -}}
+    {{ $title = printf "%s · %s" .Params.Title .Site.Title -}}
 {{ end -}}
 
-{{ $description := "" -}}
-{{ if .IsHome -}}
-    {{ with .Site.Params.description }}{{ $description = . }}{{ end -}}
-{{ else if .IsPage -}}
+{{ $description := .Site.Params.description -}}
+{{ if .IsPage -}}
     {{ if .Description -}}
         {{ $description = .Description -}}
     {{ else -}}
-        {{ $description = .Summary -}}
+        {{ $description = .Summary | plainify | truncate 160 -}}
     {{ end -}}
 {{ end }}
 
@@ -24,13 +23,17 @@
     <meta name="description" content="{{ $description }}" />
 {{ end -}}
 
-<meta property="og:type" content="article" />
 <meta property="og:title" content="{{ $title }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 {{ if $description -}}
     <meta property="og:description" content="{{ $description }}" />
 {{ end -}}
-<!-- Google tag (gtag.js) -->
+<meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}" />
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-KCL89V8V20"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -43,40 +46,13 @@
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 {{ end -}}
 
-
-
-{{/* load katex if enabled on front matter */}}
 {{ if .Params.katex }}
     <link rel="stylesheet" href="{{ "lib/katex/katex.min.css" | relURL }}">
-
-    <!-- The loading of KaTeX is deferred to speed up page rendering -->
     <script defer src="{{ "lib/katex/katex.min.js" | relURL }}"></script>
-
-    <!-- To automatically render math in text elements, include the auto-render extension: -->
     <script defer src="{{ "lib/katex/contrib/auto-render.min.js" | relURL }}"
         onload="renderMathInElement(document.body);"></script>
 {{ end }}
 
-{{ with and .Site.Params.remark42 .Params.show_comments }}
-    {{ $remark42 := $.Site.Params.remark42 }}
-    <script>
-        var remark_config = {
-            host: '{{ $remark42.host }}',
-            site_id: '{{ $remark42.site_id }}',
-            components: ['embed', 'last-comments'],
-            max_shown_comments: {{ $remark42.max_shown_comments }},
-            theme: '{{ $remark42.theme }}',
-            page_title: '{{ $remark42.Title }}',
-            locale: '{{ $remark42.locale }}',
-            show_email_subscription: {{ $remark42.show_email_subscription }},
-            simple_view: {{ $remark42.simple_view }}
-        };
-
-        !function(e,n){for(var o=0;o<e.length;o++){var r=n.createElement("script"),c=".js",d=n.head||n.body;"noModule"in r?(r.type="module",c=".mjs"):r.async=!0,r.defer=!0,r.src=remark_config.host+"/web/"+e[o]+c,d.appendChild(r)}}(remark_config.components||["embed"],document);
-    </script>
-{{ end }}
-
-<link rel="stylesheet" href="{{ "lib/icofont/icofont.min.css" | relURL }}" />
 <link rel="stylesheet" href="{{ "css/syntax.css" | relURL }}" />
 <link rel="stylesheet" href="{{ "css/style.css" | relURL }}" />
 <link rel="shortcut icon" href="{{ "images/favicon.ico" | relURL }}" type="image/x-icon" />

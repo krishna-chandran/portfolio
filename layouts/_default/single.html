@@ -1,48 +1,36 @@
 {{ define "main" }}
 
-<section class="single">
+<article class="single{{ if eq .Section "blog" }} dispatch-page{{ end }}">
+    {{ if eq .Section "blog" }}
+        <p class="kicker">Dispatch</p>
+    {{ else if .Section }}
+        <p class="kicker">From the {{ .Date.Format "2006" }} edition · {{ .Section | humanize }}</p>
+    {{ end }}
     <h1 class="title">{{ .Title }}</h1>
 
-    <div class="tip">
-        <time datetime="{{ .PublishDate }}">{{ .PublishDate.Format "2006/01/02" }}</time>
-        <span class="split">·</span>
-        <span> {{ .WordCount }} words </span>
-        <span class="split">·</span>
-        <span>
-            {{ .ReadingTime }} minutes to read
-        </span>
-    </div>
-
     <div class="taxonomies">
-        {{ with .Params.categories }}
-        <div>
-            Category:
-            {{ range . }}
-                <a href="{{ "categories/" | relURL }}{{ . | urlize }}">{{ . }}</a>
-            {{ end }}
-        </div>
+        {{ with .Date }}
+            <time datetime="{{ .Format "2006-01-02" }}">{{ .Format "January 2006" }}</time>
         {{ end }}
-
-        {{ with .Params.tags }}
-            <div>
-                Skills:
-                {{ range . }}
-                    <a href="{{ "tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>
+        {{ $topics := .Params.categories | default .Params.fields }}
+        {{ with $topics }}
+            {{ range . }}
+                {{ if $.Params.categories }}
+                    <a href="{{ "categories/" | relURL }}{{ . | urlize }}/">{{ . }}</a>
+                {{ else }}
+                    <span>{{ . }}</span>
                 {{ end }}
-            </div>
+            {{ end }}
         {{ end }}
     </div>
 
-    <hr />
+    {{ if eq .Section "blog" }}
+        {{ partial "cut.html" (dict "page" . "class" "dispatch-hero" "alt" .Title) }}
+    {{ end }}
 
     <div class="content">
         {{ .Content }}
     </div>
-
-    {{ with and .Site.Params.remark42 .Params.show_comments }}
-        <hr />
-        {{ partial "comment.html" . }}
-    {{ end }}
-</section>
+</article>
 
 {{ end }}

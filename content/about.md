@@ -10,22 +10,22 @@ I am a Senior Software Engineer in the field of Information Technology and Robot
 
 <!--more-->
 <div class="logo">
-    <a href="https://hal-india.co.in/"><img src="../images/HAL_logo.png"></a>
-    <a href="https://www.tcs.com"><img src="../images/tcs-logo.png"></a>
-    <a href="https://digitate.com/"><img src="../images/digitate-logo.png"></a>
-    <a href="https://researchdirectory.uc.edu/facilities/85"><img src="../images/ims-center-logo.png"></a>
-    <a href="https://www.mazakusa.com/"><img src="../images/mazak-logo.png"></a>
-    <a href="https://www.mbfs.com/home"><img src="../images/mbfs-logo.png"></a>
-    <a href="https://www.belk.com/"><img src="../images/belk-logo.png"></a>
-    <a href="https://www.toyota.com/usa/"><img src="../images/toyota-logo.jpeg"></a>
-    <a href="https://www.astellas.com/en/"><img src="../images/astellas-logo.png"></a>
-    <a href="https://www.exeloncorp.com/"><img src="../images/exelon-logo.png"></a>
-    <a href="https://thordrive.ai"><img src="../images/thordrive-logo.png"></a>
-    <a href="https://www.ups.com/"><img src="../images/ups-logo.png"></a>
-    <a href="https://www.dhl.com/"><img src="../images/dhl-logo.png"></a>
-    <a href="https://www.cvgairport.com/"><img src="../images/cvg-logo.png"></a>
-    <a href="https://pragmr.com"><img style="background-color:rgb(81, 78, 179)" src="../images/pragmr-logo.avif"></a>
-    <a href="https://peopletaxis.com"><img src="../images/peopletaxis-logo.png"></a>
+    <a href="https://hal-india.co.in/"><img src="../images/HAL_logo.png" alt="Hindustan Aeronautics Limited"></a>
+    <a href="https://www.tcs.com"><img src="../images/tcs-logo.png" alt="Tata Consultancy Services"></a>
+    <a href="https://digitate.com/"><img src="../images/digitate-logo.png" alt="Digitate"></a>
+    <a href="https://researchdirectory.uc.edu/facilities/85"><img src="../images/ims-center-logo.png" alt="IMS Center, University of Cincinnati"></a>
+    <a href="https://www.mazakusa.com/"><img src="../images/mazak-logo.png" alt="Mazak"></a>
+    <a href="https://www.mbfs.com/home"><img src="../images/mbfs-logo.png" alt="Mercedes-Benz Financial Services"></a>
+    <a href="https://www.belk.com/"><img src="../images/belk-logo.png" alt="Belk"></a>
+    <a href="https://www.toyota.com/usa/"><img src="../images/toyota-logo.jpeg" alt="Toyota"></a>
+    <a href="https://www.astellas.com/en/"><img src="../images/astellas-logo.png" alt="Astellas"></a>
+    <a href="https://www.exeloncorp.com/"><img src="../images/exelon-logo.png" alt="Exelon"></a>
+    <a href="https://thordrive.ai"><img src="../images/thordrive-logo.png" alt="ThorDrive"></a>
+    <a href="https://www.ups.com/"><img src="../images/ups-logo.png" alt="UPS"></a>
+    <a href="https://www.dhl.com/"><img src="../images/dhl-logo.png" alt="DHL"></a>
+    <a href="https://www.cvgairport.com/"><img src="../images/cvg-logo.png" alt="CVG Airport"></a>
+    <a href="https://pragmr.com"><img src="../images/pragmr-logo.avif" alt="Pragmr"></a>
+    <a href="https://peopletaxis.com"><img src="../images/peopletaxis-logo.png" alt="People Taxis"></a>
 </div>
 <div style="clear:both"></div>
 
@@ -53,22 +53,22 @@ I am currently working with Agtonomy, an Agtech Roboticscompany.
 
 
 <div class="logo">
-    <a href="https://hal-india.co.in/"><img src="../images/HAL_logo.png"></a>
-    <a href="https://www.tcs.com"><img src="../images/tcs-logo.png"></a>
-    <a href="https://digitate.com/"><img src="../images/digitate-logo.png"></a>
-    <a href="https://researchdirectory.uc.edu/facilities/85"><img src="../images/ims-center-logo.png"></a>
-    <a href="https://www.mazakusa.com/"><img src="../images/mazak-logo.png"></a>
-    <a href="https://www.mbfs.com/home"><img src="../images/mbfs-logo.png"></a>
-    <a href="https://www.belk.com/"><img src="../images/belk-logo.png"></a>
-    <a href="https://www.toyota.com/usa/"><img src="../images/toyota-logo.jpeg"></a>
-    <a href="https://www.astellas.com/en/"><img src="../images/astellas-logo.png"></a>
-    <a href="https://www.exeloncorp.com/"><img src="../images/exelon-logo.png"></a>
-    <a href="https://thordrive.ai"><img src="../images/thordrive-logo.png"></a>
-    <a href="https://www.ups.com/"><img src="../images/ups-logo.png"></a>
-    <a href="https://www.dhl.com/"><img src="../images/dhl-logo.png"></a>
-    <a href="https://www.cvgairport.com/"><img src="../images/cvg-logo.png"></a>
-    <a href="https://pragmr.com"><img style="background-color:rgb(81, 78, 179)" src="../images/pragmr-logo.avif"></a>
-    <a href="https://peopletaxis.com"><img src="../images/peopletaxis-logo.png"></a>
+    <a href="https://hal-india.co.in/"><img src="../images/HAL_logo.png" alt="Hindustan Aeronautics Limited"></a>
+    <a href="https://www.tcs.com"><img src="../images/tcs-logo.png" alt="Tata Consultancy Services"></a>
+    <a href="https://digitate.com/"><img src="../images/digitate-logo.png" alt="Digitate"></a>
+    <a href="https://researchdirectory.uc.edu/facilities/85"><img src="../images/ims-center-logo.png" alt="IMS Center, University of Cincinnati"></a>
+    <a href="https://www.mazakusa.com/"><img src="../images/mazak-logo.png" alt="Mazak"></a>
+    <a href="https://www.mbfs.com/home"><img src="../images/mbfs-logo.png" alt="Mercedes-Benz Financial Services"></a>
+    <a href="https://www.belk.com/"><img src="../images/belk-logo.png" alt="Belk"></a>
+    <a href="https://www.toyota.com/usa/"><img src="../images/toyota-logo.jpeg" alt="Toyota"></a>
+    <a href="https://www.astellas.com/en/"><img src="../images/astellas-logo.png" alt="Astellas"></a>
+    <a href="https://www.exeloncorp.com/"><img src="../images/exelon-logo.png" alt="Exelon"></a>
+    <a href="https://thordrive.ai"><img src="../images/thordrive-logo.png" alt="ThorDrive"></a>
+    <a href="https://www.ups.com/"><img src="../images/ups-logo.png" alt="UPS"></a>
+    <a href="https://www.dhl.com/"><img src="../images/dhl-logo.png" alt="DHL"></a>
+    <a href="https://www.cvgairport.com/"><img src="../images/cvg-logo.png" alt="CVG Airport"></a>
+    <a href="https://pragmr.com"><img src="../images/pragmr-logo.avif" alt="Pragmr"></a>
+    <a href="https://peopletaxis.com"><img src="../images/peopletaxis-logo.png" alt="People Taxis"></a>
 </div>
 
 
@@ -78,15 +78,15 @@ I am currently working with Agtonomy, an Agtech Roboticscompany.
 <br>
 <h2>Contact</h2>
 <div class="about-contact">  
-    <img src="../images/email-logo.png">
+    <img src="../images/email-logo.png" alt="">
     <a href="mailto:chandrkm@mail.uc.edu">chandrkm@mail.uc.edu</a>
 </div>
 <div class="about-contact">
-    <img src="../images/linkedin-logo.png">
-    <a href="https://linkedin.com/in/krish-na">https://linkedin.com/in/krish-na</a>
+    <img src="../images/linkedin-logo.png" alt="">
+    <a href="https://linkedin.com/in/krish-na">LinkedIn</a>
 </div>
 <div class="about-contact">
-    <img src="../images/github-logo.png">
-    <a href="https://github.com/krishna-chandran">https://github.com/krishna-chandran</a>
+    <img src="../images/github-logo.png" alt="">
+    <a href="https://github.com/krishna-chandran">GitHub</a>
 </div>
 </div>

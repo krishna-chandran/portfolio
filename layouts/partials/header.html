@@ -1,22 +1,10 @@
-<header class="header-wrapper">
-    <div class="header">
-        <a class="site-title" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
-
-        <nav class="menu">
-            {{ range .Site.Menus.main }}
-                <div class="menu-item">
-                    {{ if not .Children }}
-                        <a href="{{ .URL }}">{{ .Name }}</a>
-                    {{ else }}
-                        <a>{{ .Name }}↓</a>
-                        <nav class="sub-menu">
-                            {{ range .Children }}
-                            <div class="menu-item"><a href="{{ .URL }}">{{ .Name }}</a></div>
-                            {{ end }}
-                        </nav>
-                    {{ end }}
-                </div>
-            {{ end }}
-        </nav>
-    </div>
+<header class="site-header">
+    <a class="wordmark" href="{{ .Site.Home.RelPermalink }}" aria-label="{{ .Site.Title }} home">{{ .Site.Params.shortName | default .Site.Title }}</a>
+    <nav class="site-nav" aria-label="Primary">
+        {{ $current := . }}
+        {{ range .Site.Menus.main }}
+            {{ $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}
+            <a href="{{ .URL }}"{{ if $active }} aria-current="page"{{ end }}>{{ .Name }}</a>
+        {{ end }}
+    </nav>
 </header>

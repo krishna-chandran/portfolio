@@ -1,0 +1,19 @@
+{{- $page := .page -}}
+{{- $class := .class | default "cut" -}}
+{{- $src := "" -}}
+{{- with $page.Params.image -}}
+  {{- $src = . | relURL -}}
+{{- else -}}
+  {{- with $page.Resources.ByType "image" -}}
+    {{- $src = (index . 0).RelPermalink -}}
+  {{- end -}}
+{{- end -}}
+{{- $fit := .fit | default (cond $page.Params.photo "cover" "contain") -}}
+{{- if $src -}}
+<figure class="{{ $class }}" data-fit="{{ $fit }}">
+    <img src="{{ $src }}" alt="{{ if .decorative }}{{ else }}{{ .alt | default $page.Title }}{{ end }}">
+    {{- with .caption -}}
+    <figcaption>{{ . }}</figcaption>
+    {{- end -}}
+</figure>
+{{- end -}}

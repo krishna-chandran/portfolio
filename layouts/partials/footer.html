@@ -1,35 +1,8 @@
-<footer class="footer">
-    <div class="footer-row">
-        {{ range .Site.Sections }}
-            {{ $section := . }}
-            {{ with .OutputFormats.Get "rss" }}
-                <a class="footer-item" href="{{ .Permalink }}">
-                    Feed of {{ $section.Section | humanize }}
-                    <i class="icofont-rss"></i>
-                </a>
-            {{ end }}
-        {{ end }}
-
-        {{ if not (or .IsHome .IsSection) }}
-            {{ $term := . }}
-            {{ with .OutputFormats.Get "rss" }}
-                <a class="footer-item" href="{{ .Permalink }}">
-                    Feed of "{{ $term.Title }}"
-                    <i class="icofont-rss"></i>
-                </a>
-            {{ end }}
-        {{ end }}
-    </div>
-
-    {{ range .Site.Params.footer_rows }}
-        <div class="footer-row">
-            {{ range .items }}
-                {{ with .pre }}
-                    <span class="footer-item">{{ . | safeHTML }}</span>
-                {{ else }}
-                    <a class="footer-item" href="{{ .url }}">{{ .name }}</a>
-                {{ end }}
-            {{ end }}
-        </div>
-    {{ end }}
+<footer class="site-footer">
+    <p>© {{ now.Year }} {{ .Site.Title }}</p>
+    <nav aria-label="Contact">
+        {{ with .Site.Params.email }}<a href="mailto:{{ . }}">Email</a>{{ end }}
+        {{ with .Site.Params.linkedin }}<a href="{{ . }}" rel="noopener noreferrer">LinkedIn</a>{{ end }}
+        {{ with .Site.Params.github }}<a href="{{ . }}" rel="noopener noreferrer">GitHub</a>{{ end }}
+    </nav>
 </footer>

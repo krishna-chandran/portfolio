@@ -1,14 +1,15 @@
 baseURL = "https://krishna-chandran.github.io/portfolio/"
 
 # baseURL = "http://localhost:1313/resume"
-languageCode = "en-us"
+defaultContentLanguage = "en"
 title = "Krishnakumar Chandran"
 theme = 'hugo-theme-flat'
 
-
 enableRobotsTXT = true
 hasCJKLanguage = true
-paginate = 8
+
+[pagination]
+pagerSize = 8
 
 # these values are hugo built in markup config
 [markup.highlight]
@@ -29,47 +30,128 @@ tabWidth = 4
 unsafe= true
 
 [params]
-description = "Krishnakumar Chandran's technical portfolio"
-mainSections = ['experience']
+description = "Software engineer working on robotics, autonomous vehicles, and data platforms."
+mainSections = ['experience', 'blog']
+shortName = "Krishna"
+tagline = "Software engineer · robotics and data"
+intro = "I design perception software and data platforms for autonomous machines — from lidar pipelines to telemetry systems that have to hold up in the field."
+location = "Cincinnati, Ohio"
+currentRole = "Agtonomy"
+portrait = "images/krishna-profile.jpg"
+email = "chandrkm@mail.uc.edu"
+linkedin = "https://linkedin.com/in/krish-na"
+github = "https://github.com/krishna-chandran"
+
+[[params.ticker]]
+kicker = "Now"
+headline = "Agtonomy takes the data desk"
+path = "experience/software-engineer-agtonomy"
+
+[[params.ticker]]
+kicker = "2022"
+headline = "Eitri, a desk for tractor data"
+path = "projects/eitri-av-data-management-platform"
+
+[[params.ticker]]
+kicker = "2021"
+headline = "Perception stack for the airport"
+path = "experience/perception-engineer"
+
+[[params.ticker]]
+kicker = "2017"
+headline = "A quadcopter lands on a truck"
+path = "projects/landing-quadcopter-on-moving-ground-vehicle"
+
+[[params.briefs]]
+year = "2022"
+path = "experience/lead-data-engineer"
+headline = "Lead data engineer for autonomous tractors"
+deck = "ThorDrive’s internal desk took in petabytes of ROS bags, live telemetry and labels, and cut the time to find a clip."
+
+[[params.briefs]]
+year = "2022"
+path = "projects/eitri-av-data-management-platform"
+headline = "Eitri, end to end"
+deck = "Collection, storage, search, clip and download for lidar, cameras and vehicle logs on one platform."
+
+[[params.briefs]]
+year = "2022"
+path = "projects/av-lidar-tracking"
+headline = "Lidar tracking, steadied"
+deck = "The tracker was taught to live with large objects that otherwise left a stubborn error in the state."
+
+[[params.briefs]]
+year = "2021"
+path = "experience/perception-engineer"
+headline = "Perception engineer, ThorDrive"
+deck = "Thermal grabbers, lidar segmentation, ground models and camera-lidar fusion on an autonomous tractor."
+
+[[params.briefs]]
+year = "2021"
+path = "projects/deepsort-dynamic-obstacle-tracker-av"
+headline = "Deepsort for moving obstacles"
+deck = "A camera tracker, adapted from the Deepsort line, for things that do not stay still in the frame."
+
+[[params.briefs]]
+year = "2019"
+path = "experience/solution-architect"
+headline = "Solution architect at TCS"
+deck = "Ignio deployments, self-healing scripts and an ELK path that made vehicle and plant logs readable again."
+
+[[params.briefs]]
+year = "2019"
+path = "projects/log-monitoring-elk"
+headline = "Logs through the ELK stack"
+deck = "Dashboards and pipelines for people who would rather not SSH into a box at two in the morning."
+
+[[params.briefs]]
+year = "2017"
+path = "projects/landing-quadcopter-on-moving-ground-vehicle"
+headline = "Landing a quadcopter on a moving truck"
+deck = "Camera, target model and a controller tried in MATLAB before anyone trusted the air."
+
+[[params.briefs]]
+year = "2017"
+path = "projects/autopilot-fixedwing-uav"
+headline = "An autopilot for a small fixed wing"
+deck = "Twelve degrees of freedom, trim, PID loops and a state machine, flown in Gazebo under ROS."
+
+[[params.skill_groups]]
+name = "Perception"
+items = ["ROS", "C++", "Lidar", "Computer vision", "Sensor fusion"]
+
+[[params.skill_groups]]
+name = "Data platforms"
+items = ["Python", "ELK", "PostgreSQL", "AWS", "Time-series"]
+
+[[params.skill_groups]]
+name = "Infrastructure"
+items = ["Linux", "Docker", "CI/CD", "Distributed systems"]
 
 
-
-
-# you can set multi row of footers like these
-[[params.footer_rows]]
-[[params.footer_rows.items]]
-name = "Creative Commons Attribution 4.0 International"
-url = "https://creativecommons.org/licenses/by/4.0/"
-pre = "Copyright <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY-4.0</a>"
-
-[[params.footer_rows]]
-[[params.footer_rows.items]]
-name = "Hugo"
-url = "https://gohugo.io"
-pre = "Powered by <a href=\"https://gohugo.io\">Hugo</a>"
-[[params.footer_rows.items]]
-name = "theme flat"
-url = "https://cgit.leafee98.com/hugo-theme-flat.git"
-pre = "Theme <a href=\"https://git.leafee98.com/leafee98/hugo-theme-flat.git\">hugo-theme-flat</a>"
 
 
 [[menus.main]]
 name = "Experience"
-url = "/experience/"
+pageRef = "/experience"
 weight = 30
 
 [[menus.main]]
 name = "Education"
-url = "/education/"
+pageRef = "/education"
 weight = 40
 
 [[menus.main]]
 name = "Projects"
-url = "/projects/"
+pageRef = "/projects"
 weight = 40
 
+[[menus.main]]
+name = "Dispatches"
+pageRef = "/blog"
+weight = 50
 
 [[menus.main]]
-url = "/about/"
-name = "About Me"
+name = "About"
+pageRef = "/about"
 weight = 80

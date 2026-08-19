@@ -1,0 +1,34 @@
+<aside class="rail" aria-label="Profile">
+    <p class="rail-kicker">{{ .Site.Params.tagline }}</p>
+    <h1 class="rail-name">
+        <a href="{{ .Site.Home.RelPermalink }}" aria-current="page">{{ .Site.Title }}</a>
+    </h1>
+    <p class="rail-intro">{{ .Site.Params.intro }}</p>
+
+    {{ with .Site.Params.portrait }}
+    <figure class="rail-photo">
+        <img src="{{ . | relURL }}" alt="Portrait of {{ $.Site.Title }}" width="560" height="700">
+    </figure>
+    {{ end }}
+
+    <p class="rail-meta">
+        {{ with .Site.Params.location }}<span>{{ . }}</span>{{ end }}
+        {{ with .Site.Params.currentRole }}<span>{{ . }}</span>{{ end }}
+    </p>
+
+    <ul class="rail-contact">
+        {{ with .Site.Params.email }}<li><a href="mailto:{{ . }}">Email</a></li>{{ end }}
+        {{ with .Site.Params.linkedin }}<li><a href="{{ . }}" rel="noopener noreferrer">LinkedIn</a></li>{{ end }}
+        {{ with .Site.Params.github }}<li><a href="{{ . }}" rel="noopener noreferrer">GitHub</a></li>{{ end }}
+    </ul>
+
+    <nav class="rail-nav" aria-label="Primary">
+        {{ $current := . }}
+        {{ range .Site.Menus.main }}
+            {{ $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}
+            <a href="{{ .URL }}"{{ if $active }} aria-current="page"{{ end }}>{{ .Name }}</a>
+        {{ end }}
+    </nav>
+
+    <p class="rail-copy">© {{ now.Year }} {{ .Site.Params.shortName | default .Site.Title }}</p>
+</aside>
