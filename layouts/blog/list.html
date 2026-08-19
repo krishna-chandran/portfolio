@@ -14,7 +14,8 @@
     {{ partial "cut.html" (dict "page" . "class" "dispatch-hero" "alt" .Title) }}
     <p class="lab">Lead column</p>
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    <p class="byline">{{ .Date.Format "January 2, 2006" }} &nbsp;|&nbsp; Cincinnati</p>
+    {{ with .Params.dek }}<p class="dek">{{ . }}</p>{{ end }}
+    <p class="byline">{{ .Date.Format "January 2, 2006" }} &nbsp;|&nbsp; {{ .Params.dateline | default "Cincinnati" }}</p>
     <p>{{ .Summary | plainify | truncate 220 }}</p>
     <p><a class="jump" href="{{ .RelPermalink }}">Continued →</a></p>
 </article>
@@ -27,6 +28,7 @@
         {{ partial "cut.html" (dict "page" . "class" "dispatch-cut" "alt" .Title) }}
         <p class="lab">Opinion</p>
         <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        {{ with .Params.dek }}<p class="archive-dek">{{ . }}</p>{{ end }}
         <p class="byline">{{ .Date.Format "January 2, 2006" }}</p>
         <p>{{ .Summary | plainify | truncate 140 }}</p>
         <p><a class="jump" href="{{ .RelPermalink }}">Continued →</a></p>

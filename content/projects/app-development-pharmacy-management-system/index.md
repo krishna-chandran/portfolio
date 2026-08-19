@@ -1,20 +1,14 @@
 ---
-title: "Application Development : Pharmacy Management System"
+title: "A pharmacy’s inventory, asked to manage itself"
 date: 2014-09-15
+dek: "An end-to-end application for a pharmaceutical client, written in C++ against Oracle."
+kicker: "Software"
+dateline: "Chennai"
 tags: ['c++','linux','oracle-sql']
 categories: ["Information Technology"]
 ---
-![](./images/tcs-logo.png)
-### Highlights
-Designed and developed an end-to-end software application for self-managing inventory for a pharmaceutical client.
+
+CHENNAI — A pharmaceutical client needed inventory that did not wait for a clerk to notice the shelf. An end-to-end application was designed and built for that self-management.
 <!--more-->
 
-
-### Problem Statement
-
-### Ideation
-
-### Solution Methodology
-
-### Results and Conclusion
-
+{{< well kind="lead" prompt="Wide, 16:9: a quiet pharmacy storeroom, labeled bins, a CRT or early LCD with a plain form UI, documentary, no brand." caption="The shelf, and the form. The client was in pharmaceuticals; the work was the stock." credit="Staff" />}}

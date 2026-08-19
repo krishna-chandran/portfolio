@@ -1,0 +1,33 @@
+{{- $kind := .Get "kind" | default "lead" -}}
+{{- $prompt := .Get "prompt" -}}
+{{- if not $prompt -}}
+  {{- $prompt = strings.TrimSpace .Inner -}}
+{{- end -}}
+{{- $caption := .Get "caption" -}}
+{{- $credit := .Get "credit" | default "Staff" -}}
+{{- $raw := .Get "src" -}}
+{{- $alt := .Get "alt" | default $caption | default $prompt -}}
+{{- $src := "" -}}
+{{- with $raw -}}
+  {{- with $.Page.Resources.GetMatch . -}}
+    {{- $src = .RelPermalink -}}
+  {{- else -}}
+    {{- $src = . | relURL -}}
+  {{- end -}}
+{{- end -}}
+<figure class="well well-{{ $kind }}{{ if $src }} well-has-img{{ else }} well-empty{{ end }}">
+  {{- if $src -}}
+  <img src="{{ $src }}" alt="{{ $alt }}">
+  {{- else -}}
+  <div class="well-hole">
+    <p class="well-kicker">Photo</p>
+    <p class="well-prompt">{{ $prompt }}</p>
+  </div>
+  {{- end -}}
+  {{- if or $caption $credit -}}
+  <figcaption>
+    {{- with $caption -}}<span class="well-cap">{{ . }}</span>{{ end -}}
+    {{- with $credit }} <cite>{{ . }}</cite>{{ end -}}
+  </figcaption>
+  {{- end -}}
+</figure>

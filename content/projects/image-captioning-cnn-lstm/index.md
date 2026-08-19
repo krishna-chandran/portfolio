@@ -1,17 +1,14 @@
 ---
-title: "Image captioning using CNN and LSTM"
+title: "A picture, asked to write its own caption"
 date: 2019-06-15
+dek: "CNN for the image, LSTM for the sentence — a campus exercise in looking and then speaking."
+kicker: "Machine learning"
+dateline: "Cincinnati"
 tags: ['python','artificial-intelligence','pytorch','computer-vision','deep-learning']
 categories: ["Data Science"]
 ---
-### Highlights
-* Image captioning is achieved by using Convolutional Neural Networks and Long Short Time Memory model
 
+CINCINNATI — Image captioning was built with a convolutional network to see and a long short-term memory model to write. The aim was a system that could look at a frame and offer a sentence, using the usual deep-learning tools.
 <!--more-->
-### Problem Statement
-* Aim is to create image captioning system using Deep learning and computer vision methods
-### Ideation
 
-### Solution Methodology
-
-### Results and Conclusion
+{{< well kind="lead" prompt="Wide, 16:9: a still of a street and a one-line generated caption underneath, typeset like a newspaper cutline, fictional caption OK." caption="The model, attempting a sentence. The paper prints the attempt." credit="Staff" />}}

@@ -1,25 +1,16 @@
 ---
-title: "Deployment of distributed web application in Cloud Administration"
+title: "Twelve VMs, one playbook, ignio in high availability"
 date: 2020-01-10
+dek: "Ansible from capacity checks through Hadoop, Neo4j and ELK, then Enigma to say it was true."
+kicker: "IT operations"
+dateline: "Farmington Hills"
 tags: ['linux','aws','azure','ansible','ignio','high-availability','ssl','pgpool','hadoop','haproxy','it-automation','bash','postgresql','rabbitmq','kafka','vmware','cloud-computing','distributed-systems','eureka','neo4j','hdfs','yarn','zookeeper','elasticsearch','logstash','kibana','beats']
 categories: ["Information Technology"]
 ---
-![](./images/tcs-logo.png)
-### Highlights
-* Developed Ansible scripts to validate Linux VM capacity and installation prerequisites
-* Provisioned Linux VM in Cloud environment using automated scripts
-* Performed post-provisioning activities such as IAM, LDAP integration, updating security roles, filesystem creation and Linux patching 
-* Used Ansible to install prerequistes and infra components in all 12 VMs including JAVA JRE, Postgresql, Hadoop ecosystems and Neo4j database 
-* Used Ansible to install java application, creation of services, update configurations and installation of Elasticsearch, Logstash and Kibana
-* Performed deployment validation checks using Ansible powered tool called Enigma
+
+FARMINGTON HILLS, Mich. — The assignment was to land ignio in high availability across a distributed cloud: twelve Linux VMs, a playbook for each layer, and a check at the end that did not trust a hopeful engineer.
 <!--more-->
 
+{{< well kind="lead" prompt="Wide, 16:9: a rack row and a laptop with an Ansible run scrolling, no cloud-console screenshots with account IDs." caption="Twelve machines. Java, Postgres, Hadoop, Neo4j, then the application itself." credit="Staff" />}}
 
-### Problem Statement
-* Aim is to install ignio with High Availability Architecture in distributed cloud environment
-
-### Ideation
-
-### Solution Methodology
-
-### Results and Conclusion
+Ansible scripts validated VM capacity and prerequisites, provisioned Linux in the cloud, then handled IAM, LDAP, security roles, filesystems and patching. The same tool installed Java JRE, PostgreSQL, Hadoop pieces and Neo4j on all twelve boxes, then the Java application, services, configuration, and Elasticsearch, Logstash and Kibana. Enigma, an Ansible-powered checker, ran the deployment validation.

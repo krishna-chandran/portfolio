@@ -30,11 +30,11 @@ tabWidth = 4
 unsafe= true
 
 [params]
-description = "Software engineer working on robotics, autonomous vehicles, and data platforms."
+description = "Software engineer working at the seam of enterprise AI, physical AI, robotics and autonomous vehicles."
 mainSections = ['experience', 'blog']
 shortName = "Krishna"
-tagline = "Software engineer · robotics and data"
-intro = "I design perception software and data platforms for autonomous machines — from lidar pipelines to telemetry systems that have to hold up in the field."
+tagline = "Physical AI · robotics and data"
+intro = "I build production-grade AI and data platforms for rooms where people, models and machines share the work — data centers, shop floors, airport tractors and farm fleets."
 location = "Cincinnati, Ohio"
 currentRole = "Agtonomy"
 portrait = "images/krishna-profile.jpg"
@@ -43,18 +43,23 @@ linkedin = "https://linkedin.com/in/krish-na"
 github = "https://github.com/krishna-chandran"
 
 [[params.ticker]]
+kicker = "The record"
+headline = "A career, told as news"
+path = "news/the-record"
+
+[[params.ticker]]
 kicker = "Now"
-headline = "Agtonomy takes the data desk"
+headline = "A farm fleet learns to report"
 path = "experience/software-engineer-agtonomy"
 
 [[params.ticker]]
 kicker = "2022"
-headline = "Eitri, a desk for tractor data"
+headline = "Eitri, a platform for tractor bags"
 path = "projects/eitri-av-data-management-platform"
 
 [[params.ticker]]
 kicker = "2021"
-headline = "Perception stack for the airport"
+headline = "The apron, named in real time"
 path = "experience/perception-engineer"
 
 [[params.ticker]]
@@ -65,56 +70,56 @@ path = "projects/landing-quadcopter-on-moving-ground-vehicle"
 [[params.briefs]]
 year = "2022"
 path = "experience/lead-data-engineer"
-headline = "Lead data engineer for autonomous tractors"
-deck = "ThorDrive’s internal desk took in petabytes of ROS bags, live telemetry and labels, and cut the time to find a clip."
+headline = "ThorDrive’s data platform takes in the tape"
+deck = "End-to-end infrastructure for airport tractors. The R&D loop shrank by more than 90 percent."
 
 [[params.briefs]]
 year = "2022"
 path = "projects/eitri-av-data-management-platform"
-headline = "Eitri, end to end"
-deck = "Collection, storage, search, clip and download for lidar, cameras and vehicle logs on one platform."
+headline = "Eitri, a platform for every bag"
+deck = "Collection, storage, search, clip and download for lidar, cameras and vehicle logs."
 
 [[params.briefs]]
 year = "2022"
 path = "projects/av-lidar-tracking"
-headline = "Lidar tracking, steadied"
-deck = "The tracker was taught to live with large objects that otherwise left a stubborn error in the state."
+headline = "The lidar tracker, taught a stubborn error"
+deck = "Large moving objects left a stain on the estimate. The tracker had to sit with it."
 
 [[params.briefs]]
 year = "2021"
 path = "experience/perception-engineer"
-headline = "Perception engineer, ThorDrive"
-deck = "Thermal grabbers, lidar segmentation, ground models and camera-lidar fusion on an autonomous tractor."
+headline = "The estimator names the apron"
+deck = "DBSCAN, YOLO and an EKF, rebuilt so a moving tractor can live with moving people and tugs."
 
 [[params.briefs]]
 year = "2021"
 path = "projects/deepsort-dynamic-obstacle-tracker-av"
-headline = "Deepsort for moving obstacles"
-deck = "A camera tracker, adapted from the Deepsort line, for things that do not stay still in the frame."
+headline = "Deepsort, asked to follow the moving"
+deck = "A camera tracker adapted for obstacles that will not stay in the frame."
 
 [[params.briefs]]
 year = "2019"
 path = "experience/solution-architect"
-headline = "Solution architect at TCS"
-deck = "Ignio deployments, self-healing scripts and an ELK path that made vehicle and plant logs readable again."
+headline = "In Farmington Hills, the data center went machine-first"
+deck = "A TCS product architect for ignio: on-prem AIOps, and Mercedes-Benz Financial Services among the accounts."
 
 [[params.briefs]]
 year = "2019"
 path = "projects/log-monitoring-elk"
 headline = "Logs through the ELK stack"
-deck = "Dashboards and pipelines for people who would rather not SSH into a box at two in the morning."
+deck = "Filebeat, grok filters and a Kibana board for people who would rather sleep."
 
 [[params.briefs]]
 year = "2017"
 path = "projects/landing-quadcopter-on-moving-ground-vehicle"
-headline = "Landing a quadcopter on a moving truck"
+headline = "A quadcopter lands on a truck that moves"
 deck = "Camera, target model and a controller tried in MATLAB before anyone trusted the air."
 
 [[params.briefs]]
 year = "2017"
 path = "projects/autopilot-fixedwing-uav"
-headline = "An autopilot for a small fixed wing"
-deck = "Twelve degrees of freedom, trim, PID loops and a state machine, flown in Gazebo under ROS."
+headline = "An autopilot, twelve degrees of freedom"
+deck = "Trim, PID loops and a state machine, flown in Gazebo under ROS."
 
 [[params.skill_groups]]
 name = "Perception"
@@ -131,27 +136,67 @@ items = ["Linux", "Docker", "CI/CD", "Distributed systems"]
 
 
 
-[[menus.main]]
+[[menus.folio]]
+name = "Experience"
+pageRef = "/folio/experience"
+weight = 10
+
+[[menus.folio]]
+name = "Projects"
+pageRef = "/folio/projects"
+weight = 20
+
+[[menus.folio]]
+name = "Education"
+pageRef = "/folio/education"
+weight = 30
+
+[[menus.folio]]
+name = "About"
+pageRef = "/folio/about"
+weight = 40
+
+[[menus.folio]]
+name = "Newspaper"
+pageRef = "/news"
+weight = 90
+
+[[menus.news]]
+name = "Timeline"
+pageRef = "/news"
+weight = 10
+
+[[menus.news]]
+name = "Inside"
+pageRef = "/paper"
+weight = 20
+
+[[menus.news]]
 name = "Experience"
 pageRef = "/experience"
 weight = 30
 
-[[menus.main]]
+[[menus.news]]
 name = "Education"
 pageRef = "/education"
 weight = 40
 
-[[menus.main]]
+[[menus.news]]
 name = "Projects"
 pageRef = "/projects"
-weight = 40
-
-[[menus.main]]
-name = "Dispatches"
-pageRef = "/blog"
 weight = 50
 
-[[menus.main]]
+[[menus.news]]
+name = "Dispatches"
+pageRef = "/blog"
+weight = 60
+
+[[menus.news]]
 name = "About"
 pageRef = "/about"
 weight = 80
+
+[[menus.news]]
+name = "Portfolio"
+pageRef = "/folio"
+weight = 90

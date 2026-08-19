@@ -1,20 +1,18 @@
 ---
-title: "Perception Engineer, ThorDrive Inc"
-date: 2021-10-10
-skills: ['deep-learning','computer-vision','c++','python','ros','extended-kalman-filter','yolov5','lidar','sensor-fusion','camera-calibration','ci-cd-pipeline','pointpillar','mmdetection3d','pytorch','tensorflow','lidar-segmentation','lidar-tracking','ground-segmentation','airport-domain','artificial-intelligence']
-fields: ['Robotics','Self-driving Car']
+title: "Krishna joins ThorDrive as estimation and tracking engineer"
+date: 2021-10-01
+dek: "One job, through March 2023: FLIR, five cameras, two lidars, YOLO v4, then a platform for the bags."
+kicker: "Appointment"
+dateline: "Cincinnati"
+skills: ['deep-learning','computer-vision','c++','python','ros','yolov4','lidar','sensor-fusion','pointpillar','pytorch']
+fields: ['Robotics','Physical AI']
 ---
-![](./images/thordrive-logo.png)
-### Work Experience
-Full-time<br>  
-Cincinnati, Ohio, US<br>  
-Oct 2021 to Mar 2022<br><br>  
-  
-### Highlights
-* Developed FLIR thermal camera grabber ROS Node for perception stack
-* Developed Lidar segmentation, Lidar Tracker and Sensor fusion algorithm for autonomous tractor
-* Worked on Lidar ground segmentation algorithm by following state-of-art research papers
-* Worked on enhancement of PointPillar and mmdetection3d Deep learning models for 3D Object detection
-* Trained and deployed Yolo v4 model for detection of pedestrian, Cones, K-Loader and airplanes
-* Worked on sensor fusion of 5 RBG cameras and 2 Lidars
+
+CINCINNATI — In October 2021 Krishnakumar Chandran joined ThorDrive as an estimation and tracking engineer. The appointment ran through March 2023. It was one job.
 <!--more-->
+
+{{< well kind="lead" prompt="Wide, 16:9, daylight apron: an autonomous tractor near a parked airliner, lidar and cameras on a bar, documentary, no invented branding." caption="CVG’s ground, in the ThorDrive years." credit="Staff" />}}
+
+**The duties.** FLIR thermal grabber as a ROS node. Lidar segmentation, lidar tracking, sensor fusion. Ground segmentation from the papers. PointPillar and mmdetection3d for 3D detection. YOLO v4 for pedestrians, cones, K-loaders and airplanes. Fuse five RGB cameras and two lidars.
+
+**How it was done.** An EKF on fused lidar and camera, redesigned for relative motion. Tests at Cincinnati/Northern Kentucky International. The data platform built in the same appointment is a separate story.

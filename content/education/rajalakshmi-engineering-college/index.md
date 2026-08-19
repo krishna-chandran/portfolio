@@ -1,44 +1,16 @@
 ---
-title: "Bachelor of Engineering, Rajalakshmi Engineering College"
+title: "Krishna enrols at Rajalakshmi to read aeronautical engineering"
 date: 2010-08-20
+dek: "August 2010 to April 2014. GPA 7.6 on 10. CATIA from a Dassault partner, then a Tejas project."
+kicker: "Education"
+dateline: "Chennai"
 skills: []
 fields: ['Aerospace']
 ---
-![](../images/rec.png)
-### Program Details
-Bachelor of Engineering in Aeronautical Engineering<br>  
-Affliated to Anna Universiy<br>  
-Aug 2010 - Apr 2014<br>  
-Chennai, TamilNadu, India<br>  
-GPA: 7.6/10
 
-### Courses
-* Engineering Mechanics
-* Mechanics of Machines
-* Elements of Aeronautics
-* Control Engineering
-* Aircraft Performance and Control
-* Fluid Mechanics
-* Control Engineering
-* Flight Dynamics
+CHENNAI — In August 2010 Krishnakumar Chandran enrolled for a Bachelor of Engineering in aeronautical engineering at Rajalakshmi Engineering College, affiliated to Anna University. He finished in April 2014 with a GPA of 7.6 on 10.
 <!--more-->
-* Avionics
-* Aerodynamics I
-* Aerodynamics II
-* Computational Fluid Dynamics
-* Wind Tunnel Techniques
-* Solid Mechanics
-* Strength of Materials
-* Aircraft Structures I
-* Aircraft Structures II
-* Finite Element Methods
-* Composite Materials and Structures
-* Experimental Stress Analysis
-* Aircraft Maintenance
-* Helicopter Theory
-* Thermodynamics
-* Propulsion 
-* Rockets and Missiles
-* Engine systems and Control
-* Aircraft Systems and Instruments
-* Vibrations and Elements of Elasticity
+
+{{< well kind="lead" prompt="Wide, 16:9: a small wind tunnel or aircraft lab bench in a Chennai engineering college, documentary, no posed group." caption="Wings, not web forms. Software came after the degree." credit="Staff" />}}
+
+The sequence was mechanics, flight dynamics, aerodynamics, CFD, structures, composites, propulsion and avionics. EDS Technologies certified him on CATIA V5 primer and advanced. In 2013 he presented on AI in UAVs at Vellore. In 2014 the Tejas slat-actuator project produced a journal paper. The newspaper timeline has each of those as its own story.

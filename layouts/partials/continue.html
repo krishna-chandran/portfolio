@@ -1,0 +1,9 @@
+{{- $n := .n -}}
+{{- $label := .label | default (printf "Continued on page %d" $n) -}}
+{{- $href := "news/" | relURL -}}
+{{- if eq $n 2 -}}
+  {{- $href = "paper/" | relURL -}}
+{{- else if gt $n 2 -}}
+  {{- $href = printf "paper/page/%d/" (sub $n 1) | relURL -}}
+{{- end -}}
+<a class="jump jump-page" href="{{ $href }}">{{ $label }} →</a>

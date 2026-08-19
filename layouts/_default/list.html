@@ -1,24 +1,34 @@
 {{ define "main" }}
 
 <header class="page-head">
-    {{ with .Data.Singular }}
-        <p class="kicker">{{ . | humanize }}</p>
+    {{ with .Params.kicker }}
+        <p class="kicker">{{ . }}</p>
     {{ else }}
-        <p class="kicker">{{ .Section | humanize | default "Edition" }}</p>
+        {{ with .Data.Singular }}
+            <p class="kicker">{{ . | humanize }}</p>
+        {{ else }}
+            <p class="kicker">{{ .Section | humanize | default "Edition" }}</p>
+        {{ end }}
     {{ end }}
     <h1>{{ .Title }}</h1>
+    {{ with .Params.dek }}
+        <p class="section-deck">{{ . }}</p>
+    {{ end }}
 </header>
 
 <section id="archive" aria-label="{{ .Title }}">
-    {{ range .Pages.GroupByDate "2006" }}
+    {{ range (.Pages.GroupByDate "2006").Reverse }}
         <div class="group">
             <h2 class="key">{{ .Key }}</h2>
             <ul class="entries">
-                {{ range .Pages }}
+                {{ range .Pages.ByDate }}
                     <li class="value">
                         <time class="date" datetime="{{ .PublishDate.Format "2006-01-02" }}">{{ .PublishDate.Format "02 Jan" }}</time>
                         <div class="title">
                             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                            {{ with .Params.dek }}
+                                <p class="archive-dek">{{ . }}</p>
+                            {{ end }}
                         </div>
                     </li>
                 {{ end }}

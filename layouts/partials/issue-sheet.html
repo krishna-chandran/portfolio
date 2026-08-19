@@ -1,0 +1,102 @@
+{{- $issue := . -}}
+{{- $id := $issue.Params.issue | default $issue.File.ContentBaseName -}}
+{{- $stories := partial "stories-in-issue.html" $id -}}
+{{- $lead := false -}}
+{{- $rest := slice -}}
+{{- if $stories -}}
+  {{- $lead = index $stories 0 -}}
+  {{- range $stories -}}
+    {{- if eq .Section "experience" -}}
+      {{- $lead = . -}}
+      {{- break -}}
+    {{- end -}}
+  {{- end -}}
+  {{- range $stories -}}
+    {{- if ne .Permalink $lead.Permalink -}}
+      {{- $rest = $rest | append . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $features := first 4 $rest -}}
+{{- $briefs := after 4 $rest -}}
+{{- $vol := sub ($issue.Params.year | default $issue.Date.Year) 2013 -}}
+{{- $no := $issue.Params.quarter | default 1 -}}
+
+<header class="issue-head">
+    <p class="kicker">{{ $issue.Params.label | default $issue.Title }} &nbsp;·&nbsp; Vol. {{ $vol }} &nbsp;·&nbsp; No. {{ $no }}</p>
+    <h1>{{ $issue.Title }}</h1>
+    {{ with $issue.Params.dek }}<p class="dek">{{ . }}</p>{{ end }}
+</header>
+
+{{ with $issue.Content }}
+<div class="issue-letter">
+    {{ . }}
+</div>
+{{ end }}
+
+{{ with $lead }}
+<article class="issue-lead">
+    <p class="lab">{{ .Params.kicker | default (.Section | humanize) }}</p>
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    {{ with .Params.dek }}<p class="dek">{{ . }}</p>{{ end }}
+    <p class="byline">{{ .Params.dateline | default "Cincinnati" }} &nbsp;|&nbsp; {{ .Date.Format "January 2, 2006" }}</p>
+    {{ partial "cut.html" (dict "page" . "class" "issue-lead-cut" "alt" .Title) }}
+    <div class="issue-lead-copy">
+        <p>{{ .Summary | plainify }}</p>
+        <p><a class="jump" href="{{ .RelPermalink }}">Continued on the inside →</a></p>
+    </div>
+</article>
+{{ end }}
+
+{{ if $features }}
+<div class="issue-features">
+    {{ range $features }}
+    <article class="issue-feature">
+        <p class="lab">{{ .Params.kicker | default (.Section | humanize) }}</p>
+        {{ partial "cut.html" (dict "page" . "class" "issue-feature-cut" "alt" .Title) }}
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        {{ with .Params.dek }}<p class="archive-dek">{{ . }}</p>{{ end }}
+        <p class="excerpt">{{ .Summary | plainify | truncate 220 }}</p>
+        <p><a class="jump" href="{{ .RelPermalink }}">Continued →</a></p>
+    </article>
+    {{ end }}
+</div>
+{{ end }}
+
+{{ if $briefs }}
+<section class="issue-briefs" aria-label="Also in this edition">
+    <p class="lab">Also in this edition</p>
+    <ul>
+        {{ range $briefs }}
+        <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{ with .Params.dek }}<span>{{ . }}</span>{{ end }}
+        </li>
+        {{ end }}
+    </ul>
+</section>
+{{ end }}
+
+{{ $all := where site.RegularPages "Section" "editions" }}
+{{ $prev := false }}
+{{ $next := false }}
+{{ range $i, $p := $all }}
+    {{ if eq $p.Permalink $issue.Permalink }}
+        {{ if gt $i 0 }}{{ $next = index $all (sub $i 1) }}{{ end }}
+        {{ if lt $i (sub (len $all) 1) }}{{ $prev = index $all (add $i 1) }}{{ end }}
+    {{ end }}
+{{ end }}
+<nav class="issue-pager" aria-label="Other editions">
+    <div>
+        {{ if $prev }}
+            <p class="lab">Previous edition</p>
+            <a href="{{ $prev.RelPermalink }}">{{ $prev.Params.label | default $prev.Title }}</a>
+        {{ end }}
+    </div>
+    <div class="issue-pager-next">
+        {{ if $next }}
+            <p class="lab">Next edition</p>
+            <a href="{{ $next.RelPermalink }}">{{ $next.Params.label | default $next.Title }}</a>
+        {{ end }}
+    </div>
+</nav>

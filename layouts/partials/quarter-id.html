@@ -1,0 +1,3 @@
+{{- $t := . -}}
+{{- $q := add 1 (div (sub $t.Month 1) 3) -}}
+{{- return printf "%d-q%d" $t.Year $q -}}

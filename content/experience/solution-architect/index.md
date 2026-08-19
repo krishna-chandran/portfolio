@@ -1,21 +1,18 @@
 ---
-title: "Solution Architect, Tata Consultancy Services"
-date: 2019-06-15
-skills: ['ignio','it-automation','python','powershell','groovy','bash','postgresql','switching','routing','firewall','load-balancer','service-now','email','active-directory','solarwinds','integration','appdynamics','artificial-intelligence','ssl','rabbitmq','kafka','linux','windows','ansible','vmware','cloud-computing','distributed-systems','eureka','neo4j','hdfs','yarn','hadoop','zookeeper','activemq','elasticsearch','logstash','kibana','beats','redmine','ci-cd-pipeline','haproxy']
-fields: ["Information Technology"]
+title: "Krishna returns to TCS as product architect for ignio"
+date: 2019-07-09
+dek: "July 2019 to September 2021: production delivery, CyberArk and Veeva, Kafka–ELK that cut debug time by 90 percent."
+kicker: "Appointment"
+dateline: "Farmington Hills"
+skills: ['ignio','servicenow','cyberark','kafka','elasticsearch','ansible']
+fields: ["Information Technology","Artificial Intelligence"]
 ---
-![](./images/tcs-logo.png)
-### Work Experience
-Full-time<br>  
-Jul 2019 to Sep 2021<br>
-Farmington hills, Michigan, US
 
-### Highlights
-* Lead production deployment of ignio™ AIOps and ignio™ AI.Digital Workspace
-* Coded self-healing apps for handling Linux, Database, and Application alerts, resolving alerts within 10 secs
-* Developed VM provisioning and Linux Administration scripts, automating 90% of the Onboarding process
-* Experience in deploying ignio™ with High availability (HA) in distributed cloud platform using Ansible playbook
-* Deployed Java applications in Apache Tomcat, Wild ly and managed microservices with Eureka Service Registry
-* Built log stream pipeline with Elasticsearch, Logstash, Kibana, and Beats, reducing the debugging time by 90%
-
+FARMINGTON HILLS, Mich. — In July 2019 Krishnakumar Chandran rejoined Tata Consultancy Services as a product architect for ignio AIOps and Digital Workspace. The appointment ran through September 2021.
 <!--more-->
+
+{{< well kind="lead" prompt="Wide, 16:9, night NOC: several monitors with calm dashboards, empty chair, coffee, no readable client names." caption="Lead the delivery. Stay through go-live." credit="Staff" />}}
+
+**The duties.** Lead production deployment. Integrate ignio with ServiceNow, SolarWinds, AppDynamics, Office 365, Active Directory, email and CyberArk. Veeva Vault user automation and chat-based ticket creation. A log stream on Kafka, Elasticsearch, Logstash, Kibana and Beats.
+
+**How it was done.** Debugging time fell by 90 percent on that log path. Mercedes-Benz Financial Services, Belk, Toyota and Astellas sat among the accounts.

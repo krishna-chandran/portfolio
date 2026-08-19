@@ -1,5 +1,7 @@
 ---
 title: "Dispatches"
 date: 2026-08-19
+dek: "Columns. Notes on robots, data, and the work in between."
+kicker: "Opinion"
 ---
-Columns from the desk. Notes on robots, data, and the work in between.
+Columns. Notes on robots, data, and the work in between.

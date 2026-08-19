@@ -1,0 +1,10 @@
+{{- $target := . -}}
+{{- $per := 6 -}}
+{{- $all := (where site.RegularPages "Params.event" true).ByDate -}}
+{{- $n := 1 -}}
+{{- range $i, $p := $all -}}
+  {{- if eq $p.Permalink $target.Permalink -}}
+    {{- $n = add 2 (div $i $per) -}}
+  {{- end -}}
+{{- end -}}
+{{- return $n -}}

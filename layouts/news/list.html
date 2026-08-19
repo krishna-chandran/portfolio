@@ -1,0 +1,97 @@
+{{ define "main" }}
+
+{{ $events := where .Site.RegularPages "Params.event" true }}
+{{ $chrono := $events.ByDate }}
+{{ $lead := .Site.GetPage "news/joins-agtonomy" }}
+{{ if not $lead }}
+    {{ range first 1 $events.ByDate.Reverse }}{{ $lead = . }}{{ end }}
+{{ end }}
+
+<section class="ticker" aria-label="The file, latest first">
+    {{ range first 4 $events.ByDate.Reverse }}
+        <a class="ticker-item" href="{{ .RelPermalink }}">
+            {{ partial "cut.html" (dict "page" . "class" "ticker-cut" "alt" .Title) }}
+            <span>
+                <span class="lab">{{ .Date.Format "2006" }}</span>
+                <strong>{{ .Title }}</strong>
+            </span>
+        </a>
+    {{ end }}
+</section>
+
+<div class="front">
+    {{ with $lead }}
+    <article class="story lead">
+        <p class="lab">{{ .Params.kicker | default "Latest" }}</p>
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <p class="byline">{{ .Params.dateline | default "Cincinnati" }} &nbsp;|&nbsp; {{ .Date.Format "January 2, 2006" }}</p>
+        <figure class="cut lead-cut">
+            <img src="{{ "images/krishna.jpg" | relURL }}" alt="Portrait of {{ $.Site.Title }}" width="900" height="600">
+            <figcaption>{{ $.Site.Title }}. Each appointment, project and paper in this edition is its own story, in order.</figcaption>
+        </figure>
+        <div class="cols">
+            <p>{{ .Params.dek }}</p>
+            <p>{{ .Summary | plainify | truncate 260 }}</p>
+            <p><a class="jump" href="{{ .RelPermalink }}">Read the appointment →</a></p>
+        </div>
+    </article>
+    {{ end }}
+
+    <aside class="story nearby" aria-labelledby="nearby-heading">
+        <p class="lab" id="nearby-heading">The file, in order</p>
+        {{ range $chrono }}
+        <a class="nearby-item" href="{{ .RelPermalink }}">
+            <span class="nearby-copy" style="grid-column: 1 / -1">
+                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2006" }}</time>
+                <span>{{ .Title }}</span>
+            </span>
+        </a>
+        {{ end }}
+        <p><a class="jump" href="{{ "paper/" | relURL }}">The paper, page by page →</a></p>
+        <p><a class="jump" href="{{ "news/the-record/" | relURL }}">The career summary →</a></p>
+    </aside>
+</div>
+
+<section class="timeline-file" aria-labelledby="timeline-heading">
+    <div class="dispatches-head">
+        <p class="lab" id="timeline-heading">Every event, oldest first</p>
+        <a class="jump" href="{{ "paper/" | relURL }}">Open the inside pages →</a>
+    </div>
+    <ol class="timeline-list">
+        {{ range $chrono }}
+        <li>
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+            <div>
+                <p class="lab">{{ .Params.kicker | default "Event" }}</p>
+                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                {{ with .Params.dek }}<p>{{ . }}</p>{{ end }}
+                <p><a class="jump" href="{{ .RelPermalink }}">Continued →</a></p>
+            </div>
+        </li>
+        {{ end }}
+    </ol>
+</section>
+
+{{ $posts := where .Site.RegularPages "Section" "blog" }}
+{{ if $posts }}
+<section class="dispatches" aria-labelledby="dispatches-heading">
+    <div class="dispatches-head">
+        <p class="lab" id="dispatches-heading">Dispatches</p>
+        <a class="jump" href="{{ "blog/" | relURL }}">All columns →</a>
+    </div>
+    <div class="dispatch-grid">
+        {{ range first 3 $posts }}
+        <article class="dispatch">
+            {{ partial "cut.html" (dict "page" . "class" "dispatch-cut" "alt" .Title) }}
+            <p class="lab">Opinion</p>
+            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            <p class="byline">{{ .Date.Format "January 2, 2006" }}</p>
+            <p>{{ .Summary | plainify | truncate 140 }}</p>
+            <p><a class="jump" href="{{ .RelPermalink }}">Continued →</a></p>
+        </article>
+        {{ end }}
+    </div>
+</section>
+{{ end }}
+
+{{ end }}

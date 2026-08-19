@@ -1,19 +1,14 @@
-title: "Automation of Linux user on-boarding"
+---
+title: "A Linux user, boarded with the policy already written"
 date: 2019-06-15
+dek: "Local and LDAP accounts, home directories, groups and password rules — without a second visit."
+kicker: "IT operations"
+dateline: "Farmington Hills"
 tags: ['ignio','it-automation','python','powershell','groovy','bash','postgresql','linux','ansible','vmware','cloud-computing']
 categories: ["Information Technology"]
 ---
-![TCS Logo](./images/tcs-logo.png)
-### Highlights
-* Developed automation solution for linux user on-boarding
-* Local user and LDAP users created in given Linux VM
-* Automated user creation, password creation as per policy, create home directory, add user to given groups and update security files
 
+FARMINGTON HILLS, Mich. — User onboarding on Linux is a small task that becomes a large one when it is done wrong. The automation created local and LDAP users on a given VM, set passwords to policy, made home directories, added groups and updated the security files.
 <!--more-->
-### Problem Statement
-* Aim is to automate linux server provisioning
-### Ideation
 
-### Solution Methodology
-
-### Results and Conclusion
+{{< well kind="lead" prompt="Inline-as-lead, 16:9: /etc/passwd in a terminal, faces not shown, no real usernames." caption="Home directory, groups, policy. Then the admin could do something else." credit="Staff" />}}

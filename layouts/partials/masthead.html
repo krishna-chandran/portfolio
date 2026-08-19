@@ -1,17 +1,25 @@
 <aside class="mast-meta">
     <span>{{ .Site.Params.location }}</span>
     <span>{{ now.Format "Monday, January 2, 2006" }}</span>
-    <span>Robotics &amp; software</span>
+    <span>Physical AI &amp; robotics</span>
 </aside>
 <header class="masthead">
     <p class="mast-rule" aria-hidden="true"></p>
-    <a class="mast-title" href="{{ .Site.Home.RelPermalink }}"{{ if .IsHome }} aria-current="page"{{ end }}>{{ .Site.Title }}</a>
+    {{ $front := "news/" | relURL }}
+    <a class="mast-title" href="{{ $front }}"{{ if and (eq .Section "news") .IsSection }} aria-current="page"{{ end }}>{{ .Site.Title }}</a>
     <p class="mast-tag">{{ .Site.Params.tagline }}</p>
-    <p class="mast-vol">Vol. {{ sub now.Year 2013 }} &nbsp;·&nbsp; No. 1 &nbsp;·&nbsp; Established 2014 &nbsp;·&nbsp; Cincinnati</p>
+    <p class="mast-vol">
+        {{ if and (eq .Section "news") .IsSection }}Page 1
+        {{ else if eq .Section "paper" }}Inside
+        {{ else }}{{ .Section | humanize | default "Inside" }}
+        {{ end }}
+        &nbsp;·&nbsp; {{ now.Format "January 2, 2006" }}
+        &nbsp;·&nbsp; Cincinnati
+    </p>
     <nav class="mast-nav" aria-label="Primary">
         {{ $current := . }}
-        {{ range .Site.Menus.main }}
-            {{ $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}
+        {{ range .Site.Menus.news }}
+            {{ $active := or ($current.IsMenuCurrent "news" .) ($current.HasMenuCurrent "news" .) }}
             <a href="{{ .URL }}"{{ if $active }} aria-current="page"{{ end }}>{{ .Name }}</a>
         {{ end }}
         {{ with .Site.Params.email }}<a href="mailto:{{ . }}">Email</a>{{ end }}

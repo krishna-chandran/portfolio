@@ -3,19 +3,40 @@
     <head>
         {{ partial "head.html" . }}
     </head>
-    <body class="{{ if .IsHome }}is-home{{ else }}is-page{{ end }}">
-        <a class="skip-link" href="#main">Skip to content</a>
-        <div class="sheet">
-            {{ partial "masthead.html" . }}
-            <main id="main">
-                {{ block "main" . }}{{ end }}
+    {{ $mode := "news" }}
+    {{ if .IsHome }}{{ $mode = "gate" }}
+    {{ else if eq .Section "folio" }}{{ $mode = "folio" }}
+    {{ end }}
+    <body class="mode-{{ $mode }}{{ if .IsHome }} is-home{{ end }}">
+        {{ if eq $mode "gate" }}
+            <main id="main">{{ block "main" . }}{{ end }}</main>
+        {{ else if eq $mode "folio" }}
+            {{ partial "folio-header.html" . }}
+            <main class="main-wrapper">
+                <div class="main">{{ block "main" . }}{{ end }}</div>
+                <div class="side">
+                    {{ range where .Site.Sections "Section" "folio" }}
+                        {{ range .Sections }}
+                            {{ partial "folio-side-recent.html" . }}
+                        {{ end }}
+                    {{ end }}
+                </div>
             </main>
-            <footer class="paper-foot">
-                <p>© {{ now.Year }} {{ .Site.Title }} &nbsp;·&nbsp; Printed from Cincinnati</p>
-                <p>
-                    {{ with .Site.Params.email }}<a href="mailto:{{ . }}">{{ . }}</a>{{ end }}
-                </p>
-            </footer>
-        </div>
+            {{ partial "folio-footer.html" . }}
+        {{ else }}
+            <a class="skip-link" href="#main">Skip to content</a>
+            <div class="sheet">
+                {{ partial "masthead.html" . }}
+                <main id="main">{{ block "main" . }}{{ end }}</main>
+                <footer class="paper-foot">
+                    <p>© {{ now.Year }} {{ .Site.Title }} &nbsp;·&nbsp; Printed from Cincinnati</p>
+                    <p>
+                        <a href="{{ "folio/" | relURL }}">Portfolio</a>
+                        &nbsp;·&nbsp;
+                        <a href="{{ .Site.Home.RelPermalink }}">Choose a record</a>
+                    </p>
+                </footer>
+            </div>
+        {{ end }}
     </body>
 </html>

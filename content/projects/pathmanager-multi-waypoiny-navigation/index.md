@@ -1,23 +1,14 @@
 ---
-title: "Path manager algorithm for fixed wing aircraft"
+title: "Many waypoints, one path manager"
 date: 2017-11-01
+dek: "A fixed-wing manager for a list of points, Simulink to Gazebo, then hardware-in-the-loop."
+kicker: "Aerospace"
+dateline: "Cincinnati"
 tags: ['c++','linux','ros','python','matlab','gazebo','simulink']
 categories: ["Robotics","Aerospace"]
 ---
-![](./images/uc-logo.png)
-### Highlights
-* Equations are derived for path manager to track multi waypoint navigation
-* Path manager algorithms are tested in MATLAB and Simulink environment
-* Path manager is implemented in Python/C++ and ROS and tested in Gazebo Environment
-* Algorithm tested in Hardware-in-loop testing
+
+CINCINNATI — A path manager was written so a fixed-wing aircraft could take a list of waypoints and treat them as a job, not as a suggestion. The laws were tested in MATLAB and Simulink, implemented in Python and C++ under ROS, flown in Gazebo, and run hardware-in-the-loop.
 <!--more-->
 
-
-### Problem Statement
-* Aim is to build path manager to track multiple waypoints for fixed wing aircraft
-
-### Ideation
-
-### Solution Methodology
-
-### Results and Conclusion
+{{< well kind="lead" prompt="Wide, 16:9: a waypoint chain over a sim landscape, aircraft between two points, desired path in white." caption="The list. Switching legs is the whole algorithm." credit="Staff" />}}

@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+<header class="page-head">
+    <p class="kicker">{{ .Params.kicker | default "The library" }}</p>
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.dek }}<p class="section-deck">{{ . }}</p>{{ end }}
+</header>
+
+{{ range (where .Pages "Kind" "page").GroupByDate "2006" }}
+<section class="issue-year" aria-labelledby="lib-{{ .Key }}">
+    <h2 class="key" id="lib-{{ .Key }}">{{ .Key }}</h2>
+    <ol class="issue-index">
+        {{ range .Pages }}
+        <li>
+            <a href="{{ .RelPermalink }}">
+                <span class="lab">{{ .Params.label }} &nbsp;·&nbsp; Vol. {{ sub (.Params.year | default .Date.Year) 2013 }} &nbsp;·&nbsp; No. {{ .Params.quarter }}</span>
+                <strong>{{ .Title }}</strong>
+                {{ with .Params.dek }}<span class="archive-dek">{{ . }}</span>{{ end }}
+            </a>
+        </li>
+        {{ end }}
+    </ol>
+</section>
+{{ end }}
+
+{{ end }}

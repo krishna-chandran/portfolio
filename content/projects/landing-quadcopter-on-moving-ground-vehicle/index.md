@@ -1,20 +1,16 @@
 ---
-title: "Landing quadcopter on the moving vehicle"
+title: "A quadcopter is asked to land on a truck that will not sit still"
 date: 2017-11-01
+dek: "Camera, target model and a controller tried in MATLAB before anyone trusted the air."
+kicker: "Aerospace"
+dateline: "Cincinnati"
 tags: ['matlab','simulink']
 categories: ["Robotics","Aerospace"]
 ---
-![](./images/uc-logo.png)
-### Highlights
-* Equations are derived for landing controller using camera sensor and moving target model
-* Landing controller equations are tested in MATLAB and Simulink environment
+
+CINCINNATI — The assignment was a landing controller for a quadcopter onto a moving ground vehicle: a camera on the aircraft, a model of the target, and equations that had to close the gap without drama.
 <!--more-->
 
+{{< well kind="lead" prompt="Wide, 16:9: a small quadcopter above a pickup bed marked with a landing target, suburban test lot, still, documentary." caption="The truck keeps moving. That is the point of the controller." credit="Staff" />}}
 
-### Problem Statement
-* Aim is to build a controller algorithm for landing quadcopter on a moving ground vehicle
-### Ideation
-
-### Solution Methodology
-
-### Results and Conclusion
+The landing laws were derived from the camera measurement and the moving-target model, then exercised in MATLAB and Simulink. Hardware came later, if it came; the paper of record here is the simulation that had to be believed first.

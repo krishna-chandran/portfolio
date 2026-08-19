@@ -1,0 +1,11 @@
+{{- $id := . -}}
+{{- $out := slice -}}
+{{- range site.RegularPages -}}
+  {{- if in (slice "experience" "projects" "education" "blog") .Section -}}
+    {{- $key := partial "quarter-id.html" .Date -}}
+    {{- if eq $key $id -}}
+      {{- $out = $out | append . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $out -}}

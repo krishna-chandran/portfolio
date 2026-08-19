@@ -1,22 +1,14 @@
 ---
-title: "Path tracking algorithm for fixed wing aircraft"
+title: "Straight lines and circles, held by a small airplane"
 date: 2017-11-01
+dek: "A path tracker for a fixed wing, from Simulink to Gazebo, then hardware-in-the-loop."
+kicker: "Aerospace"
+dateline: "Cincinnati"
 tags: ['c++','linux','ros','python','matlab','gazebo','simulink']
 categories: ["Robotics","Aerospace"]
 ---
-![](./images/uc-logo.png)
-### Highlights
-* Equations are derived for straight line and circular path tracking using dynamics of fixed wing aircraft
-* Path tracker control equations are tested in MATLAB and Simulink environment
-* Path tracker is implemented in Python/C++ and ROS and tested in Gazebo Environment
-* Algorithm tested in Hardware-in-loop testing
+
+CINCINNATI — Path tracking for a fixed-wing aircraft was written for two shapes that matter: a straight line and a circular orbit. The laws came from the dynamics, were tested in MATLAB and Simulink, implemented in Python and C++ under ROS, flown in Gazebo, and then run hardware-in-the-loop.
 <!--more-->
 
-
-### Problem Statement
-* Aim is to build straight line and circular orbit path tracker for fixed wing aircraft
-### Ideation
-
-### Solution Methodology
-
-### Results and Conclusion
+{{< well kind="lead" prompt="Wide, 16:9: a sim aircraft holding a circular orbit, desired circle in white, actual path in red." caption="The orbit. Hardware-in-the-loop came after the circle closed." credit="Staff" />}}

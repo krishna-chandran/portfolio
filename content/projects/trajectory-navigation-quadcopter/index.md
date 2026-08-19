@@ -1,22 +1,14 @@
 ---
-title: "Trajectory navigation for quadcopter"
+title: "A quadcopter, held to a path by differential flatness"
 date: 2017-11-01
+dek: "Controller laws in MATLAB and Simulink, tried on more than one trajectory."
+kicker: "Aerospace"
+dateline: "Cincinnati"
 tags: ['matlab','simulink']
 categories: ["Robotics","Aerospace"]
 ---
-![](./images/uc-logo.png)
-### Highlights
-* Equations are derived for differential flatness based controller
-* Controller algorithms are tested in MATLAB and Simulink environment for different trajectory paths
 
+CINCINNATI — Trajectory navigation for a quadcopter was written from a differential-flatness controller. The laws were tested in MATLAB and Simulink on more than one path.
 <!--more-->
 
-
-### Problem Statement
-* Aim is to build trajectory path controller for quadcopter
-
-### Ideation
-
-### Solution Methodology
-
-### Results and Conclusion
+{{< well kind="lead" prompt="Wide, 16:9: a quadcopter following a figure-eight in a sim gym, desired path as a thin line." caption="The figure eight. Flatness is a claim the plots have to keep." credit="Staff" />}}

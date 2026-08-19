@@ -1,20 +1,16 @@
 ---
-title: "Estimation of states for autonomous tiltrotor drone"
+title: "A tiltrotor, estimated while it changes its mind"
 date: 2017-11-01
-tags: ['ros','matlab','simulink']
+dek: "An EKF on tiltrotor dynamics, verified on a trajectory-tracking case in Simulink."
+kicker: "Aerospace"
+dateline: "Cincinnati"
+tags: ['matlab','simulink','python','c++']
 categories: ["Robotics","Aerospace"]
 ---
-![](./images/uc-logo.png)
-### Highlights
-* Equations are derived for EKF using dynamics of tiltrotor drone
-* Equations are verified using MATLAB and Simulink simulations for the scenario of trajectory tracking
+
+CINCINNATI — A tiltrotor is a worse narrator than a fixed wing. An extended Kalman filter was derived from its dynamics and checked in MATLAB and Simulink on a trajectory-tracking case.
 <!--more-->
 
+{{< well kind="lead" prompt="Wide, 16:9: a tiltrotor in transition, sim still, rotors tilting, no brand." caption="Transition. The filter has to survive the change of mind." credit="Staff" />}}
 
-### Problem Statement
-* Aim is to estimate states of the autonomous tilt rotor drone
-### Ideation
-
-### Solution Methodology
-
-### Results and Conclusion
+The aim was the states of the autonomous tiltrotor, not a flight that looked good in a still.
