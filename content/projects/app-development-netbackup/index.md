@@ -11,4 +11,4 @@ categories: ["Information Technology"]
 CHENNAI — Backup data lived on master servers provisioned globally. A tool was written to reach them, process the haul and dispatch a report to users who were not in the same time zone.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9: a Windows report UI, a world map of backup jobs, no real hostnames." caption="The dispatch. The record says it saved as much as 80 percent of the time, and stayed in use." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9: a Windows report UI, a world map of backup jobs, no real hostnames." caption="The dispatch. The record says it saved as much as 80 percent of the time, and stayed in use." src="images/wells/well-backup-map.png" />}}

@@ -4,7 +4,6 @@
   {{- $prompt = strings.TrimSpace .Inner -}}
 {{- end -}}
 {{- $caption := .Get "caption" -}}
-{{- $credit := .Get "credit" | default "Staff" -}}
 {{- $raw := .Get "src" -}}
 {{- $alt := .Get "alt" | default $caption | default $prompt -}}
 {{- $src := "" -}}
@@ -24,10 +23,12 @@
     <p class="well-prompt">{{ $prompt }}</p>
   </div>
   {{- end -}}
-  {{- if or $caption $credit -}}
+  {{- if or $caption $src -}}
   <figcaption>
     {{- with $caption -}}<span class="well-cap">{{ . }}</span>{{ end -}}
-    {{- with $credit }} <cite>{{ . }}</cite>{{ end -}}
+    {{- if $src -}}
+    <cite>Photo illustration — descriptive, not an exact photograph</cite>
+    {{- end -}}
   </figcaption>
   {{- end -}}
 </figure>

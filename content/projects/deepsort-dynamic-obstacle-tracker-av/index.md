@@ -11,4 +11,4 @@ categories: ["Robotics","Data science"]
 CINCINNATI — Deepsort was built for people in corridors. The tractor needed it for obstacles that do not stay still in a camera frame. The algorithm was adapted and enhanced for that work.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9: camera still with track IDs on a cone, a loader and a person, airport apron, muted overlay." caption="IDs that last a few seconds. That is a success on an apron." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9: camera still with track IDs on a cone, a loader and a person, airport apron, muted overlay." caption="IDs that last a few seconds. That is a success on an apron." src="images/wells/well-deepsort.png" />}}

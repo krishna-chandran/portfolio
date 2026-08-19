@@ -11,4 +11,4 @@ categories: ["Robotics","Self-driving Car"]
 CINCINNATI — Two lidars on one bar will disagree if nobody measures the disagreement. The extrinsic calibration from the right unit to the left was estimated with Autoware.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9: two lidar pucks on a sensor bar, overlapping clouds in two tints, shop light." caption="Right to left. Fusion begins with this boredom." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9: two lidar pucks on a sensor bar, overlapping clouds in two tints, shop light." caption="Right to left. Fusion begins with this boredom." src="images/wells/well-two-lidars.png" />}}

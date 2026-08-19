@@ -12,7 +12,7 @@ categories: ["Physical AI"]
 CINCINNATI — While he held the estimation-and-tracking card at ThorDrive, Krishnakumar Chandran also designed the company’s internal big-data platform. Autonomous tractors were producing ROS bags, live telemetry and operator logs faster than the shop could keep them. Field testing still meant a person on the apron. He built the place those files went, and the path that let an engineer troubleshoot a vehicle from the cloud.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9, night shop: an airport tractor under work lights, lidar spinning, a laptop on the fender, documentary." caption="Field testing used to mean a person on the apron. The platform tried to make it a query." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9, night shop: an airport tractor under work lights, lidar spinning, a laptop on the fender, documentary." caption="Field testing used to mean a person on the apron. The platform tried to make it a query." src="images/wells/well-night-shop-tractor.png" />}}
 
 The perception work needed tape. The tape had nowhere honest to live. He took the data job end to end — the career file says he built the infrastructure himself — so perception could train, debug and clip without waiting on a drive in a bag.
 
@@ -24,4 +24,4 @@ The same principles he had used on ignio — reliability, scalability, observabi
 
 Once the tractor left the lot, the data path was the product.
 
-{{< well kind="inline" prompt="Overhead, 4:3: a ROS bag timeline, yellow clips, dark UI, no faces." caption="Find the clip. That is the whole product." credit="Staff" />}}
+{{< well kind="inline" prompt="Overhead, 4:3: a ROS bag timeline, yellow clips, dark UI, no faces." caption="Find the clip. That is the whole product." src="images/wells/well-ros-timeline.png" />}}

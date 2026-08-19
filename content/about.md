@@ -10,7 +10,7 @@ draft: false
 LOS ANGELES — Krishnakumar Chandran works in artificial intelligence, physical AI, robotics and autonomous vehicles. He lives in this city. He is not at Agtonomy now; that was the last full-time card, from March 2024, as a software engineer in data analytics — C++ on the tractor, Vector and AWS in the cloud, gRPC between the two. What separates the file from a typical software résumé is the seam: enterprise AI systems and machines that have to behave in a field, a factory or an apron.
 <!--more-->
 
-{{< well kind="lead" src="images/krishna.jpg" prompt="Portrait, 16:9, Cincinnati, natural window light, engineer in plain clothes, no grin for the camera." caption="Krishnakumar Chandran, now in Los Angeles. Formal training in aerospace dynamics and controls; the rest of the paper is production." credit="Staff" />}}
+{{< well kind="lead" src="images/krishna.jpg" prompt="Portrait, 16:9, Cincinnati, natural window light, engineer in plain clothes, no grin for the camera." caption="Krishnakumar Chandran, now in Los Angeles. Formal training in aerospace dynamics and controls; the rest of the paper is production." />}}
 
 Most people in this trade specialize on one side of that seam. He has sat both: ignio in a data center, a Mazak spindle on a shop floor, airport tractors on an apron, farm machines in a vineyard. The formal training is aerospace — dynamics and controls — so the argument is not only about a model. It is about how an AI-driven system behaves when the room is physical. The habit, in every sector on this page, is the same: take AI from a pilot to production, make it observable, and leave an operation different from how it was found.
 
@@ -20,7 +20,7 @@ He returned to TCS in Farmington Hills as a product architect — end-to-end des
 
 What he is after is not another job title. It is a digital platform for rooms where people, models and machines already share the work: hook legacy systems to modern AI, watch an end-to-end process, and show whether a gain came from a skill gap, a machine limit, inventory or something outside the building. As AI, language models and robots take the repetitive layer, the old project boards stop describing how work is actually made. Junior roles thin out; new ones appear around supervising and validating the stack; fewer paths remain for a new engineer to get time on a live system. The platform he describes would treat human, AI and robotic contributions as one operational file — throughput, cost, constraints, competency — and feed that file back as on-the-job training, so automation does not only replace a person. It keeps a way to become one.
 
-{{< well kind="inline" prompt="Mug, 4:5: a second portrait, three-quarter, same room as the lead, quieter." caption="The profile shot. The paper uses it when the lead is a machine." credit="Staff" src="images/krishna-profile.jpg" />}}
+{{< well kind="inline" prompt="Mug, 4:5: a second portrait, three-quarter, same room as the lead, quieter." caption="The profile shot. The paper uses it when the lead is a machine." src="images/krishna-profile.jpg" />}}
 
 **From the files.** A 2014 journal paper on the Tejas slat-actuator link, with Manikandan C and Niranjana S. A 2013 seminar paper on AI in unmanned aerial vehicles. IMTS 2018, with Hossein Davari and Vibhor Pandhare, for the Mazak spindle monitor — [noted by the university](https://www.uc.edu/news/articles/2019/01/n2063491.html). CATIA V5 primer and advanced certificates from EDS Technologies.
 

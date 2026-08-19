@@ -30,7 +30,10 @@
             <p class="byline">{{ .Params.dateline | default "South San Francisco" }} &nbsp;|&nbsp; {{ .Date.Format "January 2, 2006" }}</p>
             <figure class="cut lead-cut">
                 <img src="{{ "images/krishna.jpg" | relURL }}" alt="{{ $.Site.Title }}" width="900" height="600">
-                <figcaption>{{ $.Site.Title }}, now in Los Angeles. The stories in this paper are the same career, newest first.</figcaption>
+                <figcaption>
+                    {{ $.Site.Title }}, now in Los Angeles. The stories in this paper are the same career, newest first.
+                    <cite>Photo illustration — descriptive, not an exact photograph</cite>
+                </figcaption>
             </figure>
             {{ with .Params.dek }}<p class="lead-dek">{{ . }}</p>{{ end }}
             <div class="lead-body">

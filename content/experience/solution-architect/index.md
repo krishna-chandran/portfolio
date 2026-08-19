@@ -12,7 +12,7 @@ fields: ["Information Technology","Artificial Intelligence"]
 FARMINGTON HILLS, Mich. — In July 2019 Krishnakumar Chandran rejoined Tata Consultancy Services as a product architect for ignio AIOps and Digital Workspace. The appointment ran through September 2021. The brief was production deployment in on-prem data centers, not a slide.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9, night NOC: several monitors with calm dashboards, empty chair, coffee, no readable client names." caption="Lead the delivery. Stay through go-live." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9, night NOC: several monitors with calm dashboards, empty chair, coffee, no readable client names." caption="Lead the delivery. Stay through go-live." src="images/wells/well-noc-night.png" />}}
 
 The card was end-to-end: understand the problem, read the existing landscape, design and configure the solution on ignio, coordinate offshore teams, write the migration and integration plan, and stay through go-live and change management. He also sat AI and cognitive use cases on the product itself.
 

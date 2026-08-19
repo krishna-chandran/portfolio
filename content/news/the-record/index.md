@@ -11,7 +11,7 @@ categories: ["Career"]
 LOS ANGELES — Krishnakumar Chandran works in artificial intelligence, physical AI, robotics and autonomous vehicles. The present dateline is this city. He is out of Agtonomy; that role, from March 2024 in South San Francisco, was the last full-time card — data paths from autonomous farm machines back to a cloud growers and engineers could use. The file behind that sentence is longer than a job title: a first degree in aeronautical engineering, a decade of production software, and a habit of making a system observable before asking anyone to trust it.
 <!--more-->
 
-{{< well kind="lead" src="images/krishna.jpg" prompt="Portrait, 16:9, Cincinnati, natural window light, engineer in plain clothes." caption="Krishnakumar Chandran. Formal training in aerospace; the rest of the paper is production." credit="Staff" />}}
+{{< well kind="lead" src="images/krishna.jpg" prompt="Portrait, 16:9, Cincinnati, natural window light, engineer in plain clothes." caption="Krishnakumar Chandran. Formal training in aerospace; the rest of the paper is production." />}}
 
 What follows is the public record — education, projects and the jobs in between — written as a single story. Each of those events also has its own page in this paper, dated and filed in order. Salaries, visas and private reasons are not in this file.
 
@@ -91,4 +91,4 @@ The next problem on this file is not a particular employer. It is a digital plat
 
 As language models, autonomy and robots take the repetitive layer, project boards stop describing how work is actually made. Junior roles thin out. New ones appear around supervising and validating the stack. Fewer paths remain for a new engineer to get time on a live system. The platform he describes would treat human, AI and robotic contributions as one operational file — throughput, cost, constraints, competency — identify whether a stall came from a skill gap, a machine limit, inventory or something outside the building, and feed that file back as on-the-job training. Automation, on that argument, should not only replace a person. It should keep a way to become one.
 
-{{< well kind="inline" src="images/krishna-profile.jpg" prompt="Mug, 4:5: a second portrait, three-quarter, quieter." caption="The profile shot. The paper uses it when the lead is a machine." credit="Staff" />}}
+{{< well kind="inline" src="images/krishna-profile.jpg" prompt="Mug, 4:5: a second portrait, three-quarter, quieter." caption="The profile shot. The paper uses it when the lead is a machine." />}}

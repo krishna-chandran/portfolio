@@ -11,4 +11,4 @@ categories: ["Information Technology"]
 CHENNAI — Network automation, in this filing, is the application that sat beside the hundred and sixty scripts: Python, PowerShell, bash and Postgres against switches, routes, firewalls and load balancers.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9: a network closet, blinking switches, a laptop with a PowerShell window, Chennai office night." caption="The closet. The work was to visit it less." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9: a network closet, blinking switches, a laptop with a PowerShell window, Chennai office night." caption="The closet. The work was to visit it less." src="images/wells/well-network-closet.png" />}}

@@ -12,7 +12,7 @@ categories: ["Physical AI"]
 SOUTH SAN FRANCISCO — On 12 March 2024 Krishnakumar Chandran joined Agtonomy as a software engineer in data analytics. He has since left that role. Agtonomy builds autonomy for agricultural machines — Bobcat and Kubota among the OEMs — and the brief was not another dashboard. It was to get telemetry off the tractor and into a cloud that engineers and growers could actually use: watch the stack under weather, soil and crop, and show a farmer a number that looked like return.
 <!--more-->
 
-{{< well kind="lead" prompt="Dusk, wide, 16:9: an autonomous tractor on a vineyard row, dust in the headlights, no people, documentary still." caption="Permanent crops. Mowing, spraying and scientific collection — if the data arrives." credit="Staff" />}}
+{{< well kind="lead" prompt="Dusk, wide, 16:9: an autonomous tractor on a vineyard row, dust in the headlights, no people, documentary still." caption="Permanent crops. Mowing, spraying and scientific collection — if the data arrives." src="images/wells/well-tractor-vineyard.png" />}}
 
 Labor is short and the row is long. A tractor that cannot report is only half a robot. Farming has run on the same habits for a century; physical AI is new to that field. The platforms he built were how a grower was asked to believe the machines, and how the company was asked to scale them.
 
@@ -24,4 +24,4 @@ Three pipes had to exist: high-frequency telemetry, customer-value metrics, and 
 
 Agtonomy automated Bobcat AT and CT machines and the Kubota M5N, in vineyards and olives, for mowing, spraying and scientific collection. During this period the company closed a Series B, took a partnership with Kubota, and put the work on a stage at CES 2025, FIRA 2025 and CES 2026. The next column is the pipeline season in detail.
 
-{{< well kind="inline" prompt="Close, 4:3: Grafana-style board of fleet metrics, acres and stops, no customer names, documentary." caption="Throughput and stops. That is how a grower is asked to believe in physical AI." credit="Staff" />}}
+{{< well kind="inline" prompt="Close, 4:3: Grafana-style board of fleet metrics, acres and stops, no customer names, documentary." caption="Throughput and stops. That is how a grower is asked to believe in physical AI." src="images/wells/well-grafana-fleet.png" />}}

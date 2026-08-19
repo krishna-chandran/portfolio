@@ -12,7 +12,7 @@ categories: ["Enterprise AI"]
 FARMINGTON HILLS, Mich. — In July 2019 Krishnakumar Chandran rejoined Tata Consultancy Services as a product architect. The appointment ran through September 2021. The products were ignio AIOps and ignio AI Digital Workspace — and, in the family, ignio Butterfly. The brief was production deployment in on-prem data centers, not a slide. He had the Chennai years and a master’s in aerospace behind him. The job was to sit with a client estate and walk it from a ticket queue toward a machine-first model.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9, night NOC: several monitors with calm dashboards, empty chair, coffee, no readable client names." caption="Lead the delivery. Stay through go-live." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9, night NOC: several monitors with calm dashboards, empty chair, coffee, no readable client names." caption="Lead the delivery. Stay through go-live." src="images/wells/well-noc-night.png" />}}
 
 The architect’s card is longer than an integration list. He was the ignio product architect for a customer environment: understand the problem and the opportunity, then design, configure and deploy the solution on ignio. That meant reading the existing landscape for redundant or ineffective systems, writing an end-to-end design for information and operations systems, and staying with the client long enough to get organizational commitment and to choose the technologies the plan actually required.
 
@@ -24,4 +24,4 @@ Mercedes-Benz Financial Services, Belk, Toyota Motors North America and Astellas
 
 [Digitate’s brochure](https://digitate.com/assets/2024/Digitate_ignio_AIOps_Brochure_6.0.pdf) and [TCS’s note on an industry award](https://www.tcs.com/who-we-are/newsroom/press-release/digitate-ignio-named-best-overall-ai-platform-at-ai-breakthrough-awards) are the product’s public clips, not a personal medal.
 
-{{< well kind="inline" prompt="Detail, 4:3: a terminal and an Ansible playbook on paper, rack LEDs behind, documentary." caption="CyberArk, Veeva, Kafka. The estate was already there; ignio had to join it." credit="Staff" />}}
+{{< well kind="inline" prompt="Detail, 4:3: a terminal and an Ansible playbook on paper, rack LEDs behind, documentary." caption="CyberArk, Veeva, Kafka. The estate was already there; ignio had to join it." src="images/wells/well-ansible-desk.png" />}}

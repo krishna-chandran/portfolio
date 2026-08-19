@@ -11,7 +11,7 @@ categories: ["Data Science"]
 CINCINNATI — Mazak’s machines cost what a shop cannot casually idle. Weekly and monthly checklists stop the spindle on a calendar. The 2018 project, funded by Mazak, asked whether vibration and current could call maintenance before the calendar did.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9: a bearing, a vibration cable, and a 0-100 health plot, lab bench, no vendor marks." caption="Below 50, service. Below 30, stop. The floor wanted a number, not a paper." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9: a bearing, a vibration cable, and a 0-100 health plot, lab bench, no vendor marks." caption="Below 50, service. Below 30, stop. The floor wanted a number, not a paper." src="images/wells/well-bearing.png" />}}
 
 Sensors went on a Mazak CNC through Advantech acquisition. Runs were taken healthy, dry, imbalanced and broken. Features were pulled from the time series; FFT, principal components and logistic regression classified health from fault.
 

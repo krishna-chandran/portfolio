@@ -11,4 +11,4 @@ categories: ["Information Technology"]
 FARMINGTON HILLS, Mich. — Linux servers were still being born by hand. The work was an automation path for provisioning in the on-prem data center and in the cloud, so the checklist became a script.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9: a blank Linux installer on a KVM and a second pane with a playbook, documentary." caption="On-prem or cloud. The provisioning was not supposed to remember who clicked." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9: a blank Linux installer on a KVM and a second pane with a playbook, documentary." caption="On-prem or cloud. The provisioning was not supposed to remember who clicked." src="images/wells/well-linux-install.png" />}}

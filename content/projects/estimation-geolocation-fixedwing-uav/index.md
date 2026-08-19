@@ -11,6 +11,6 @@ categories: ["Robotics","Aerospace"]
 CINCINNATI — Geolocation for a fixed-wing aircraft was estimated by fusing a camera model with GPS and IMU through an extended Kalman filter built on the airframe’s dynamics.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9: a downward camera still of a field, a GPS pin overlay, IMU sparkline, academic." caption="Three witnesses. The filter is the cross-examination." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9: a downward camera still of a field, a GPS pin overlay, IMU sparkline, academic." caption="Three witnesses. The filter is the cross-examination." src="images/wells/well-geolocation.png" />}}
 
 The equations were checked in MATLAB and Simulink. The estimator was written in Python and C++ and flown in Gazebo.

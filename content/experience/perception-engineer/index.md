@@ -12,7 +12,7 @@ fields: ['Robotics','Physical AI']
 CINCINNATI — In October 2021 Krishnakumar Chandran joined ThorDrive as an estimation and tracking engineer. The appointment ran through March 2023. It was one job. The company was retrofitting airport trucks into autonomous baggage tractors. This was the first long season in physical AI.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9, daylight apron: an autonomous tractor near a parked airliner, lidar and cameras on a bar, documentary, no invented branding." caption="CVG’s ground, in the ThorDrive years." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9, daylight apron: an autonomous tractor near a parked airliner, lidar and cameras on a bar, documentary, no invented branding." caption="CVG’s ground, in the ThorDrive years." src="images/wells/well-apron-tractor.png" />}}
 
 The inherited system fused DBSCAN lidar and YOLO camera detections into an extended Kalman filter. He redesigned the tracker for relative motion — tractor and obstacle both moving — with motion models and speed limits a pedestrian or a tug would obey. Each object kept an identifier across cycles. The planner received a live list of position and velocity, and used it to keep going, change path, or stop.
 

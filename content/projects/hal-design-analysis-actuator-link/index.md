@@ -11,7 +11,7 @@ categories: ["Aerospace"]
 CHENNAI — On the Tejas, a slat actuator was developing play after about 300 operational runs. Unwanted motion damaged the parts around it. The aircraft, in that condition, was not fit to keep flying on the old geometry. The 2014 project at Hindustan Aeronautics asked for a root cause and a fix that could be proven.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9: a CATIA rendering of a compact actuator link, neutral gray, no proprietary dimensions, studio lighting." caption="The redundant link. Cantilever theory first, then the mesh." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9: a CATIA rendering of a compact actuator link, neutral gray, no proprietary dimensions, studio lighting." caption="The redundant link. Cantilever theory first, then the mesh." src="images/wells/well-actuator-link.png" />}}
 
 He derived approximate equations for the existing actuator under load — geometry, material, forces and moments near the lug that was taking the damage. A redundant member, a link, was proposed to spread that load. Hand calculations said the play would fall.
 

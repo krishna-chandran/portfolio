@@ -11,4 +11,4 @@ categories: ["Robotics"]
 CINCINNATI — Before extrinsics, the thermal camera needed its intrinsics. Those parameters were estimated with OpenCV in Python.
 <!--more-->
 
-{{< well kind="lead" prompt="Inline-as-lead, 16:9: a calibration target held in a lab, thermal false-color, corners marked faintly." caption="The camera, confessing. Distortion is not a personality." credit="Staff" />}}
+{{< well kind="lead" prompt="Inline-as-lead, 16:9: a calibration target held in a lab, thermal false-color, corners marked faintly." caption="The camera, confessing. Distortion is not a personality." src="images/wells/well-calib-target.png" />}}

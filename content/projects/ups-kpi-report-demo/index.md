@@ -11,4 +11,4 @@ categories: ["Information Technology"]
 CINCINNATI — A demo for UPS needed a key-performance board that could be shown without apology. The work was that dashboard.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9: a clean KPI board, four big numbers, a small time series, no UPS confidential figures, fictional values OK." caption="The demo run. The numbers had to be readable from the back of the room." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9: a clean KPI board, four big numbers, a small time series, no UPS confidential figures, fictional values OK." caption="The demo run. The numbers had to be readable from the back of the room." src="images/wells/well-kpi-board.png" />}}

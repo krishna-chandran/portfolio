@@ -12,8 +12,9 @@
 {{- if $src -}}
 <figure class="{{ $class }}" data-fit="{{ $fit }}">
     <img src="{{ $src }}" alt="{{ if .decorative }}{{ else }}{{ .alt | default $page.Title }}{{ end }}">
-    {{- with .caption -}}
-    <figcaption>{{ . }}</figcaption>
-    {{- end -}}
+    <figcaption>
+        {{- with .caption -}}{{ . }}{{ end -}}
+        <cite>Photo illustration — descriptive, not an exact photograph</cite>
+    </figcaption>
 </figure>
 {{- end -}}

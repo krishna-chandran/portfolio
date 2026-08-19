@@ -12,7 +12,7 @@ categories: ["Aerospace"]
 CHENNAI — In the first months of 2014 Krishnakumar Chandran worked with Hindustan Aeronautics on the Tejas. A slat actuator — the mechanism that drives a leading-edge control surface — was developing play after about 300 operational runs. Unwanted motion damaged the parts around the lug. In that condition the aircraft was not fit to keep flying on the old geometry.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9: CATIA-style actuator link, neutral gray, studio, no proprietary dimensions." caption="The redundant link. Cantilever theory first, then the mesh." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9: CATIA-style actuator link, neutral gray, studio, no proprietary dimensions." caption="The redundant link. Cantilever theory first, then the mesh." src="images/wells/well-actuator-link.png" />}}
 
 The project ran from January through April 2014, as a collaboration with HAL’s assembly line. The brief was a root cause and a fix that could be proven. If the analysis matched the case on the aircraft, and if a finite-element check in ANSYS backed the fix, the lifetime of the mechanism could be extended. Funding was none; the college project was the vehicle.
 
@@ -22,4 +22,4 @@ The team modeled both configurations in CATIA V5 — the existing assembly and t
 
 His part of the job was the mathematics and the argument for the link, then the CATIA assembly with the team. The paper that recorded the method, with Manikandan C and Niranjana S, ran on 1 October 2014 in the *Journal of Basic and Applied Engineering Research*.
 
-{{< well kind="inline" prompt="Inline, 4:3: ANSYS-style stress plot, muted colors, no readable dimensions." caption="Hand calculations, then the finite-element check. HAL took the file forward." credit="Staff" />}}
+{{< well kind="inline" prompt="Inline, 4:3: ANSYS-style stress plot, muted colors, no readable dimensions." caption="Hand calculations, then the finite-element check. HAL took the file forward." src="images/wells/well-ansys-plot.png" />}}

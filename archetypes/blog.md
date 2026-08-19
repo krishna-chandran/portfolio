@@ -11,6 +11,6 @@ categories: ["Dispatch"]
 Lead graf.
 <!--more-->
 
-{{ "{{< well kind=\"lead\" prompt=\"Describe the picture to shoot or generate.\" caption=\"Cutline.\" credit=\"Staff\" />}}" | safeHTML }}
+{{ "{{< well kind=\"lead\" prompt=\"Describe the picture to shoot or generate.\" caption=\"Cutline.\" />}}" | safeHTML }}
 
 Body graf.

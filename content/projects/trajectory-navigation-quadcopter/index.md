@@ -11,4 +11,4 @@ categories: ["Robotics","Aerospace"]
 CINCINNATI — Trajectory navigation for a quadcopter was written from a differential-flatness controller. The laws were tested in MATLAB and Simulink on more than one path.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9: a quadcopter following a figure-eight in a sim gym, desired path as a thin line." caption="The figure eight. Flatness is a claim the plots have to keep." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9: a quadcopter following a figure-eight in a sim gym, desired path as a thin line." caption="The figure eight. Flatness is a claim the plots have to keep." src="images/wells/well-quad-eight.png" />}}

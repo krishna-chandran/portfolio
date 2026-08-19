@@ -12,7 +12,7 @@ fields: ["Information Technology","Artificial Intelligence"]
 CHENNAI — In September 2014 Krishnakumar Chandran joined Tata Consultancy Services as a software developer. The product was ignio AIOps. The appointment ran through July 2017.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9, Chennai office night: cubicles, network diagrams on a whiteboard, a single desk lamp, documentary." caption="ignio Service Operations for the closet." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9, Chennai office night: cubicles, network diagrams on a whiteboard, a single desk lamp, documentary." caption="ignio Service Operations for the closet." src="images/wells/well-chennai-office.png" />}}
 
 The platform’s pitch was network automation and the quieter AI work: event triage, incident prediction, automatic resolution. He wrote about 160 ignio scripts covering some 90 percent of the network-administration list, and built Service Operations for L2 and L3 switches, firewalls, load balancers, F5 and Infoblox. Python, PowerShell, Groovy and bash. Windows and Linux. The network and Windows Server modules from this line later sat in the backbone of a product used at more than 260 Fortune 500 and Global 2000 shops.
 

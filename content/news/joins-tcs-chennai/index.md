@@ -12,7 +12,7 @@ categories: ["Enterprise AI"]
 CHENNAI — In September 2014 Krishnakumar Chandran joined Tata Consultancy Services as a software developer. The product was ignio AIOps, Digitate’s platform for data-center operations. The appointment ran through July 2017. He had a first degree in aeronautical engineering and a Tejas paper behind him. The new brief was a closet that should not need a person at two in the morning.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9, Chennai office night: cubicles, network diagrams on a whiteboard, a single desk lamp, documentary." caption="TCS, Chennai. Network automation and ignio service operations." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9, Chennai office night: cubicles, network diagrams on a whiteboard, a single desk lamp, documentary." caption="TCS, Chennai. Network automation and ignio service operations." src="images/wells/well-chennai-office.png" />}}
 
 ignio’s pitch was already an AI digital platform: network automation, then the quieter work of event triage, incident prediction and automatic resolution. He wrote the scripts and the service operations that made that pitch a night list a machine could run.
 
@@ -24,4 +24,4 @@ In 2016 the same product went to Nielsen Media India for NetBackup automation an
 
 The habit — observe the estate, automate the night list — is the one he later took to a spindle, a tractor and a farm.
 
-{{< well kind="inline" prompt="Detail, 4:3: a terminal and a network diagram on paper, rack LEDs behind, documentary." caption="L2, L3, firewall, load balancer, F5, Infoblox. The closet was supposed to get quieter." credit="Staff" />}}
+{{< well kind="inline" prompt="Detail, 4:3: a terminal and a network diagram on paper, rack LEDs behind, documentary." caption="L2, L3, firewall, load balancer, F5, Infoblox. The closet was supposed to get quieter." src="images/wells/well-terminal-network.png" />}}

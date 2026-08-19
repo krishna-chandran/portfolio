@@ -12,7 +12,7 @@ categories: ['Robotics','Physical AI','Agtech']
 SOUTH SAN FRANCISCO — On 12 March 2024 Krishnakumar Chandran joined Agtonomy as a software engineer in data analytics. He has since left that role. The brief was to get telemetry off autonomous farm machines and into a cloud engineers and growers could use — watch the stack, and show a number that looked like return.
 <!--more-->
 
-{{< well kind="lead" prompt="Dusk, wide, 16:9: an autonomous tractor on a vineyard row, dust in the headlights, no people, documentary still." caption="Bobcat and Kubota machines in permanent crops — if the data arrives." credit="Staff" />}}
+{{< well kind="lead" prompt="Dusk, wide, 16:9: an autonomous tractor on a vineyard row, dust in the headlights, no people, documentary still." caption="Bobcat and Kubota machines in permanent crops — if the data arrives." src="images/wells/well-tractor-vineyard.png" />}}
 
 On the vehicle he wrote custom C++ applications, Docker images, and a real-time state agent that published snapshots to Redis. In the cloud he designed vehicle-to-cloud telemetry on Vector, InfluxDB, Timestream, OpenSearch, S3, ClickHouse and Kinesis, talking over gRPC, Protobuf, sockets and REST. Time series landed in databases, warehouses and lakes for live boards, long-term storage and business-intelligence analytics. Stream processing pulled metrics from terabytes of raw telemetry. Backend APIs fed the applications a grower or an engineer opened.
 

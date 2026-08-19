@@ -12,7 +12,7 @@ categories: ["Physical AI"]
 CINCINNATI — In October 2021 Krishnakumar Chandran joined ThorDrive as an estimation and tracking engineer. The company was building retrofits to turn airport trucks into autonomous tractors for baggage work. The appointment ran through March 2023. It was one job. The work split into two stories: this one, on perception, and the data platform that followed.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9, daylight apron: an autonomous tractor near a parked airliner, lidar and cameras on a bar, documentary, no invented branding." caption="The tractor had to share the pavement with machines and people that move." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9, daylight apron: an autonomous tractor near a parked airliner, lidar and cameras on a bar, documentary, no invented branding." caption="The tractor had to share the pavement with machines and people that move." src="images/wells/well-apron-tractor.png" />}}
 
 This was his first long season in physical AI, after five years of enterprise AIOps and a master’s in dynamics and controls. Aircraft, ground equipment, handlers and crew do not stay still. The existing perception algorithms were not robust enough to estimate that motion in time. A miss on an apron is not a retry. It is a safety problem.
 
@@ -26,4 +26,4 @@ Tests and data collection ran with the airport’s team at Cincinnati/Northern K
 
 The data infrastructure that made the R&D loop a query instead of a person on the apron is the next column.
 
-{{< well kind="inline" prompt="Mug, 4:5: thermal still of a person and a cone on tarmac, false-color, no overlay text." caption="Heat as a topic. The grabber published frames so the estimator had another witness." credit="Staff" />}}
+{{< well kind="inline" prompt="Mug, 4:5: thermal still of a person and a cone on tarmac, false-color, no overlay text." caption="Heat as a topic. The grabber published frames so the estimator had another witness." src="images/wells/well-thermal-cone.png" />}}

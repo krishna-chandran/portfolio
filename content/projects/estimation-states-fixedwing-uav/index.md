@@ -11,6 +11,6 @@ categories: ["Robotics"]
 CINCINNATI — State estimation for an autonomous fixed-wing aircraft was written as an extended Kalman filter from the vehicle’s dynamics, then checked in MATLAB and Simulink for takeoff, cruise and landing.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9: MATLAB scopes of estimated vs true states during a takeoff run, muted academic screenshot." caption="The filter, on takeoff. Gazebo came after the scopes went quiet." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9: MATLAB scopes of estimated vs true states during a takeoff run, muted academic screenshot." caption="The filter, on takeoff. Gazebo came after the scopes went quiet." src="images/wells/well-matlab-scopes.png" />}}
 
 The algorithm was implemented in Python and C++, run under ROS, and tested in Gazebo. The aim was the states themselves — not a prettier HUD.

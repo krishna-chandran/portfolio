@@ -12,7 +12,7 @@ categories: ["Industrial AI"]
 CINCINNATI — On 22 July 2018 Krishnakumar Chandran joined the Intelligent Maintenance Systems laboratory at the University of Cincinnati as a full-stack engineer. The project was funded by Mazak Corporation. The objective was to predict CNC spindle failure before the floor hears it. The appointment ran through 15 December 2018, inside the master’s year.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9: a Mazak CNC in a university lab, vibration cable on the spindle, a monitor with a 0-100 health score, no people." caption="IMS Center. Below 50, service. Below 30, the machine was not to be used." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9: a Mazak CNC in a university lab, vibration cable on the spindle, a monitor with a 0-100 health score, no people." caption="IMS Center. Below 50, service. Below 30, the machine was not to be used." src="images/wells/well-cnc-lab.png" />}}
 
 Mazak’s machines run from about a hundred thousand dollars to about ten million. Maintenance is a calendar: the line stops, a checklist walks the spindle, production waits — weekly, monthly, yearly. Predictive maintenance was the bid to call that stop when the signal said so, not when the week did, and to keep a machine alive longer than a checklist would.
 
@@ -24,4 +24,4 @@ Data augmentation and transforms sat in the middle of that work. FFT features, p
 
 Mazak put the monitor into its machines. In September the same year the work stood on the IMTS floor in Chicago, with Mazak and the IMS lab on the banner. The university [wrote it up the following January](https://www.uc.edu/news/articles/2019/01/n2063491.html). The contribution on the file is not a new theorem. It is a research model that left the lab and ran in a shop.
 
-{{< well kind="inline" prompt="Inline, 4:3: a Flask UI with a single health number, industrial PC in the background, documentary." caption="The floor wanted a warning, not a post-mortem." credit="Staff" />}}
+{{< well kind="inline" prompt="Inline, 4:3: a Flask UI with a single health number, industrial PC in the background, documentary." caption="The floor wanted a warning, not a post-mortem." src="images/wells/well-flask-health.png" />}}

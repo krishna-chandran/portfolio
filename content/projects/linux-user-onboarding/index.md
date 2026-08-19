@@ -11,4 +11,4 @@ categories: ["Information Technology"]
 FARMINGTON HILLS, Mich. — User onboarding on Linux is a small task that becomes a large one when it is done wrong. The automation created local and LDAP users on a given VM, set passwords to policy, made home directories, added groups and updated the security files.
 <!--more-->
 
-{{< well kind="lead" prompt="Inline-as-lead, 16:9: /etc/passwd in a terminal, faces not shown, no real usernames." caption="Home directory, groups, policy. Then the admin could do something else." credit="Staff" />}}
+{{< well kind="lead" prompt="Inline-as-lead, 16:9: /etc/passwd in a terminal, faces not shown, no real usernames." caption="Home directory, groups, policy. Then the admin could do something else." src="images/wells/well-passwd.png" />}}

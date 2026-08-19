@@ -10,7 +10,7 @@ categories: ["Dispatch"]
 Before the pipelines, there were point clouds. Segmentation that failed on an airplane. A tracker that would not settle. Five cameras and two lidars that only agreed after someone sat with the extrinsics.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9: a lidar point cloud of an airliner on an apron, false color, no UI chrome, documentary render." caption="An airplane is a large object. The segmenter has to admit that." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9: a lidar point cloud of an airliner on an apron, false color, no UI chrome, documentary render." caption="An airplane is a large object. The segmenter has to admit that." src="images/wells/well-lidar-airplane.png" />}}
 
 That work is fussy, and it is honest. If the calibration is wrong, nothing downstream is clever. The same is true of a telemetry stream: clocks, units, drops, the silent sensor.
 

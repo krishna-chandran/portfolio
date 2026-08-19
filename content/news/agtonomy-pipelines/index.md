@@ -12,7 +12,7 @@ categories: ["Physical AI"]
 SOUTH SAN FRANCISCO — From March through June 2024 Krishnakumar Chandran designed and implemented the vehicle-to-cloud path for Agtonomy’s autonomous tractors. There had been no proper end-to-end infrastructure. The machines were already in the field. Engineers needed a near-real-time stream to watch algorithms under weather, soil and crop. Growers needed numbers that looked like return. The R&D loop had nowhere honest to put the tape.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9: three faint pipeline diagrams over a tractor-in-field still, documentary, no customer data." caption="Telemetry, metrics, interrupts. One agent on the machine; the autonomy stack was not to notice." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9: three faint pipeline diagrams over a tractor-in-field still, documentary, no customer data." caption="Telemetry, metrics, interrupts. One agent on the machine; the autonomy stack was not to notice." src="images/wells/well-pipelines-field.png" />}}
 
 He sat the problem first: what had to leave the tractor, how often, and what must never slow the autonomy stack. He compared architectures and data tools, chose a stack that mixed open systems with AWS, drew the end-to-end design, took the approvals, then built and tested the pipes himself. Stakeholders checked data quality and reliability before anyone called the path done.
 
@@ -26,4 +26,4 @@ When the store had to change, he wrote the migrations: InfluxDB to Timestream, I
 
 Bobcat and Kubota came onto the same bones. Series B sat in the same season. The path was how new OEMs could be onboarded without a second architecture, and how a grower was shown a number instead of a promise.
 
-{{< well kind="inline" prompt="Inline, 4:3: a schema sketch and a Grafana panel, no real tenant names." caption="Table design is part of the product. The farmer never sees the warehouse." credit="Staff" />}}
+{{< well kind="inline" prompt="Inline, 4:3: a schema sketch and a Grafana panel, no real tenant names." caption="Table design is part of the product. The farmer never sees the warehouse." src="images/wells/well-schema-grafana.png" />}}

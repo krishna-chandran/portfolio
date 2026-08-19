@@ -692,10 +692,13 @@ figure figcaption {
   color: var(--muted);
 }
 
-.well cite {
+.well cite,
+figure cite {
+  display: block;
+  margin-top: 0.1rem;
   font-style: normal;
   font-size: 0.62rem;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
 }
 

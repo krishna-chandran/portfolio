@@ -11,6 +11,6 @@ categories: ["Information Technology","Data Science"]
 FARMINGTON HILLS, Mich. — Duplicate alerts fell by 80 percent on this job. The rest of the work was teaching the system which alarm was the root and which was only a dependent noise.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9: an alert timeline collapsing into one root cause, green self-heal badge, no client names." caption="Probable cause, then a script. Dependent tickets were told to wait." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9: an alert timeline collapsing into one root cause, green self-heal badge, no client names." caption="Probable cause, then a script. Dependent tickets were told to wait." src="images/wells/well-alert-heal.png" />}}
 
 Adapters joined ignio to ServiceNow, SolarWinds and AppDynamics over REST. Systems, VMs, applications, databases, network and storage were profiled dynamically so an alert could be judged against the conditions of the hour. Self-healing scripts were verified and applied. More than 90 percent of repeated IT alerts were automated, leaving the technical team on work that was not the same fire twice.

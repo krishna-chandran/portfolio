@@ -11,7 +11,7 @@ categories: ["Robotics","Agtech","Physical AI"]
 SOUTH SAN FRANCISCO — Agtonomy’s tractors needed a near-real-time path to the cloud and did not have one. From March through June 2024 the job was to design that path with open tools, then keep it as the fleet grew.
 <!--more-->
 
-{{< well kind="lead" prompt="Wide, 16:9: three faint pipeline diagrams over a tractor-in-field still, documentary, no customer data." caption="Telemetry, metrics, interrupts. One agent on the machine; the autonomy stack was not to notice." credit="Staff" />}}
+{{< well kind="lead" prompt="Wide, 16:9: three faint pipeline diagrams over a tractor-in-field still, documentary, no customer data." caption="Telemetry, metrics, interrupts. One agent on the machine; the autonomy stack was not to notice." src="images/wells/well-pipelines-field.png" />}}
 
 The first pipe was telemetry: a custom C++ application, Vector as shipper, gRPC and Protobuf on the wire, AWS Kinesis, S3, Timestream and OpenSearch on the far side, a vehicle-state agent writing snapshots to Redis. Vector ran on Fargate and ECS with autoscaling. The second pipe was metrics — acres, fuel, productivity. The third was interrupts: every stop.
 
