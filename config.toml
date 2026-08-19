@@ -7,6 +7,12 @@ theme = 'hugo-theme-flat'
 
 enableRobotsTXT = true
 hasCJKLanguage = true
+enableGitInfo = false
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
 
 [pagination]
 pagerSize = 8

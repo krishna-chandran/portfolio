@@ -1,0 +1,15 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {{- range .Data.Pages -}}
+    {{- if and (ne .Kind "taxonomy") (ne .Kind "term") (ne .Section "folio") -}}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    {{- with .Lastmod }}
+    <lastmod>{{ .Format "2006-01-02T15:04:05Z07:00" }}</lastmod>
+    {{- end }}
+    <changefreq>{{ if .IsHome }}weekly{{ else }}monthly{{ end }}</changefreq>
+    <priority>{{ if .IsHome }}1.0{{ else if eq .Section "news" }}0.8{{ else }}0.6{{ end }}</priority>
+  </url>
+    {{- end -}}
+  {{- end }}
+</urlset>
