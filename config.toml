@@ -35,8 +35,8 @@ mainSections = ['experience', 'blog']
 shortName = "Krishna"
 tagline = "Physical AI · robotics and data"
 intro = "I build production-grade AI and data platforms for rooms where people, models and machines share the work — data centers, shop floors, airport tractors and farm fleets."
-location = "Cincinnati, Ohio"
-currentRole = "Agtonomy"
+location = "Los Angeles, California"
+currentRole = ""
 portrait = "images/krishna-profile.jpg"
 email = "chandrkm@mail.uc.edu"
 linkedin = "https://linkedin.com/in/krish-na"
@@ -162,41 +162,26 @@ pageRef = "/news"
 weight = 90
 
 [[menus.news]]
-name = "Timeline"
+name = "Front"
 pageRef = "/news"
 weight = 10
 
 [[menus.news]]
-name = "Inside"
-pageRef = "/paper"
+name = "Work"
+pageRef = "/experience"
 weight = 20
 
 [[menus.news]]
-name = "Experience"
-pageRef = "/experience"
-weight = 30
-
-[[menus.news]]
-name = "Education"
+name = "School"
 pageRef = "/education"
-weight = 40
+weight = 30
 
 [[menus.news]]
 name = "Projects"
 pageRef = "/projects"
-weight = 50
-
-[[menus.news]]
-name = "Dispatches"
-pageRef = "/blog"
-weight = 60
+weight = 40
 
 [[menus.news]]
 name = "About"
 pageRef = "/about"
-weight = 80
-
-[[menus.news]]
-name = "Portfolio"
-pageRef = "/folio"
-weight = 90
+weight = 50

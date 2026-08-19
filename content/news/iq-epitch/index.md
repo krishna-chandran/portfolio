@@ -1,8 +1,9 @@
 ---
+kind: paper
 title: "Second runner-up at UC’s IQ E-Pitch, with a sport-analytics brief"
 date: 2019-04-01
 dek: "Carl H. Lindner College of Business: an elevator pitch that used AI on a soccer match."
-kicker: "Award"
+kicker: "Paper"
 dateline: "Cincinnati"
 event: true
 categories: ["Award"]

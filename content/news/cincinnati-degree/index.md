@@ -1,8 +1,9 @@
 ---
+kind: school
 title: "Cincinnati confers the aerospace master’s; the city stays in the dateline"
 date: 2018-12-15
 dek: "GPA 3.5, a half scholarship, and an internship already on the IMTS floor."
-kicker: "Education"
+kicker: "School"
 dateline: "Cincinnati"
 event: true
 categories: ["Education"]

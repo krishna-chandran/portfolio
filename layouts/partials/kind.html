@@ -1,0 +1,25 @@
+{{- $k := .Params.kind -}}
+{{- if not $k -}}
+  {{- $raw := .Params.kicker | default "" | lower -}}
+  {{- if in (slice "appointment" "autonomy" "physical ai" "edutech" "aerospace" "industrial ai" "enterprise ai") $raw -}}
+    {{- $k = "work" -}}
+  {{- else if in (slice "education") $raw -}}
+    {{- $k = "school" -}}
+  {{- else if in (slice "publication" "seminar" "demonstration" "award" "career") $raw -}}
+    {{- $k = "paper" -}}
+  {{- else if in (slice "collaboration") $raw -}}
+    {{- $k = "work" -}}
+  {{- else if eq .Section "education" -}}
+    {{- $k = "school" -}}
+  {{- else if eq .Section "projects" -}}
+    {{- $k = "paper" -}}
+  {{- else if eq .Section "blog" -}}
+    {{- $k = "paper" -}}
+  {{- else -}}
+    {{- $k = "work" -}}
+  {{- end -}}
+{{- end -}}
+{{- if eq $k "school" -}}School
+{{- else if eq $k "paper" -}}Paper
+{{- else -}}Work
+{{- end -}}

@@ -1,8 +1,9 @@
 ---
+kind: school
 title: "Krishna enrols at Cincinnati for a master’s in aerospace"
 date: 2017-08-20
 dek: "UAVs, dynamics, controls and AI. GPA 3.5, a 50 percent scholarship, then the IMS–Mazak internship."
-kicker: "Education"
+kicker: "School"
 dateline: "Cincinnati"
 skills: []
 fields: ['Aerospace']

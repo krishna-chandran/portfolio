@@ -9,20 +9,21 @@
     <a class="mast-title" href="{{ $front }}"{{ if and (eq .Section "news") .IsSection }} aria-current="page"{{ end }}>{{ .Site.Title }}</a>
     <p class="mast-tag">{{ .Site.Params.tagline }}</p>
     <p class="mast-vol">
-        {{ if and (eq .Section "news") .IsSection }}Page 1
-        {{ else if eq .Section "paper" }}Inside
-        {{ else }}{{ .Section | humanize | default "Inside" }}
-        {{ end }}
-        &nbsp;·&nbsp; {{ now.Format "January 2, 2006" }}
-        &nbsp;·&nbsp; Cincinnati
+        {{ now.Format "January 2, 2006" }}
+        &nbsp;·&nbsp; {{ .Site.Params.location }}
     </p>
     <nav class="mast-nav" aria-label="Primary">
         {{ $current := . }}
+        {{ $sec := $current.Section }}
         {{ range .Site.Menus.news }}
             {{ $active := or ($current.IsMenuCurrent "news" .) ($current.HasMenuCurrent "news" .) }}
+            {{ if and (eq .Name "Front") (eq $sec "news") }}{{ $active = true }}{{ end }}
+            {{ if and (eq .Name "Work") (eq $sec "experience") }}{{ $active = true }}{{ end }}
+            {{ if and (eq .Name "School") (eq $sec "education") }}{{ $active = true }}{{ end }}
+            {{ if and (eq .Name "Projects") (eq $sec "projects") }}{{ $active = true }}{{ end }}
+            {{ if and (eq .Name "About") (in $current.RelPermalink "/about") }}{{ $active = true }}{{ end }}
             <a href="{{ .URL }}"{{ if $active }} aria-current="page"{{ end }}>{{ .Name }}</a>
         {{ end }}
-        {{ with .Site.Params.email }}<a href="mailto:{{ . }}">Email</a>{{ end }}
         {{ with .Site.Params.linkedin }}<a href="{{ . }}" rel="noopener noreferrer">LinkedIn</a>{{ end }}
         {{ with .Site.Params.github }}<a href="{{ . }}" rel="noopener noreferrer">GitHub</a>{{ end }}
     </nav>

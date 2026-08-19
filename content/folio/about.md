@@ -5,7 +5,7 @@ date: 2023-09-26
 draft: false
 ---
 
-I am a Senior Software Engineer in the field of Information Technology and Robotics, currently living in Cincinnati, Ohio. I did my Master of Engineering in Aerospace Engineering from University of Cincinnati. I am huge fan of Aritificial Intelligence, Robotics, Data Engineering and Autonomous vehicles (drones and cars)
+I am a Senior Software Engineer in the field of Information Technology and Robotics, currently living in Los Angeles, California. I did my Master of Engineering in Aerospace Engineering from University of Cincinnati. I am huge fan of Aritificial Intelligence, Robotics, Data Engineering and Autonomous vehicles (drones and cars)
 
 ### Past Clients
 
@@ -46,7 +46,7 @@ Post my graduation, I rejoined TCS, Farmington hills as Solution Architect. Duri
 After 2 years of experience at TCS, I joined Thordrive Inc, a startup based out of Cincinnati. I joined there as Perception Engineer and worked on perception stack for autonomous tracter. Here, I got chance to work on some of the cutting edge algorithms in the self-driving vehicles. I also worked on Data team, as Lead Data Engineer. I helped them design and develop complete data pipelines for autonomous vehicles. This includes developing features such as handling petabytes of data, data collection of LIDAR, RGB Camera, Thermal Camera & Vehicle logs, data storage in AWS, data visualization, data sampling, data annotation, data clipping, data sync, data validation, data retention policy, data security and reporting.
 
 ## Current Situation 
-I am currently working with Agtonomy, an Agtech Roboticscompany. 
+I am currently in Los Angeles. I most recently worked with Agtonomy, an agtech robotics company, as a software engineer on data analytics. I am no longer in that role. 
 
 
 ## Past Clients

@@ -29,10 +29,8 @@
                 {{ partial "masthead.html" . }}
                 <main id="main">{{ block "main" . }}{{ end }}</main>
                 <footer class="paper-foot">
-                    <p>© {{ now.Year }} {{ .Site.Title }} &nbsp;·&nbsp; Printed from Cincinnati</p>
+                    <p>© {{ now.Year }} {{ .Site.Title }} &nbsp;·&nbsp; Printed from Los Angeles</p>
                     <p>
-                        <a href="{{ "folio/" | relURL }}">Portfolio</a>
-                        &nbsp;·&nbsp;
                         <a href="{{ .Site.Home.RelPermalink }}">Choose a record</a>
                     </p>
                 </footer>

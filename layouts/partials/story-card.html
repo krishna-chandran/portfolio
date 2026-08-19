@@ -1,0 +1,6 @@
+<article class="col-story">
+    <p class="lab">{{ partial "kind.html" . }} &nbsp;·&nbsp; {{ .Date.Format "2006" }}</p>
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    {{ with .Params.dek }}<p class="col-dek">{{ . }}</p>{{ end }}
+    <p class="byline">{{ .Params.dateline | default .Site.Params.location }} &nbsp;|&nbsp; {{ .Date.Format "2 Jan 2006" }}</p>
+</article>

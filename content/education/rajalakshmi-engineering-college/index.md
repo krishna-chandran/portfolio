@@ -1,8 +1,9 @@
 ---
+kind: school
 title: "Krishna enrols at Rajalakshmi to read aeronautical engineering"
 date: 2010-08-20
 dek: "August 2010 to April 2014. GPA 7.6 on 10. CATIA from a Dassault partner, then a Tejas project."
-kicker: "Education"
+kicker: "School"
 dateline: "Chennai"
 skills: []
 fields: ['Aerospace']

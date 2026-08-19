@@ -1,8 +1,9 @@
 ---
+kind: school
 title: "Krishna enrols at Rajalakshmi to read aeronautical engineering"
 date: 2010-08-20
 dek: "A first degree in wings, structures and propulsion — CATIA later, software after that."
-kicker: "Education"
+kicker: "School"
 dateline: "Chennai"
 event: true
 categories: ["Education"]

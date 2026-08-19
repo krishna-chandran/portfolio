@@ -1,8 +1,9 @@
 ---
+kind: paper
 title: "In Vellore, a student paper asks what AI can do for a UAV"
 date: 2013-08-01
 dek: "Krishnakumar Chandran and Vijay S present at a national seminar — three years before the first tractor."
-kicker: "Seminar"
+kicker: "Paper"
 dateline: "Vellore"
 event: true
 categories: ["Education"]

@@ -1,42 +1,5 @@
 {{ define "main" }}
-
-{{ $pages := (where .Site.RegularPages "Params.event" true).ByDate }}
-{{ $paginator := .Paginate $pages 6 }}
-{{ $folio := add $paginator.PageNumber 1 }}
-{{ $total := add $paginator.TotalPages 1 }}
-
-<div class="folio">
-    <span>{{ .Site.Title }}</span>
-    <span>Page {{ $folio }}</span>
-    <span>{{ now.Format "January 2, 2006" }}</span>
-</div>
-
-<div class="paper-page">
-    {{ range $paginator.Pages }}
-    <article class="paper-story">
-        <p class="lab">{{ .Date.Format "2006" }} &nbsp;·&nbsp; {{ .Params.kicker | default "Event" }}</p>
-        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-        {{ with .Params.dek }}<p class="dek">{{ . }}</p>{{ end }}
-        <p class="byline">{{ .Params.dateline | default $.Site.Params.location }} &nbsp;|&nbsp; {{ .Date.Format "January 2, 2006" }}</p>
-        {{ partial "cut.html" (dict "page" . "class" "paper-cut" "alt" .Title) }}
-        <div class="paper-cols">
-            <p>{{ .Summary | plainify }}</p>
-        </div>
-        <p><a class="jump" href="{{ .RelPermalink }}">Continued →</a></p>
-    </article>
-    {{ end }}
-</div>
-
-<nav class="paper-pager" aria-label="Newspaper pages">
-    {{ if $paginator.HasPrev }}
-        <a href="{{ $paginator.Prev.URL }}">← Page {{ add $paginator.Prev.PageNumber 1 }}</a>
-    {{ else }}
-        <a href="{{ "news/" | relURL }}">← Page 1, the front</a>
-    {{ end }}
-    <span>Page {{ $folio }} of {{ $total }}</span>
-    {{ if $paginator.HasNext }}
-        <a href="{{ $paginator.Next.URL }}">Page {{ add $paginator.Next.PageNumber 1 }} →</a>
-    {{ end }}
-</nav>
-
+{{ $front := "news/" | relURL }}
+<meta http-equiv="refresh" content="0;url={{ $front }}">
+<p class="front-note"><a href="{{ $front }}">The paper is on the front page →</a></p>
 {{ end }}

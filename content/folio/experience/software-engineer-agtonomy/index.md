@@ -9,10 +9,10 @@ categories: ['Robotics','Self-driving Car','Agtech']
 ### Work Experience
 Full-time  
 South San Francisco, CA   
-Mar 2024 to till date  <br><br>
+Mar 2024 — left  <br><br>
 
 ### Highlights
-* Currently working on optimizing vehicle telemetry data pipelines
-* Making data pipelines scalable, resilient and efficient
+* Optimized vehicle telemetry data pipelines
+* Made data pipelines scalable, resilient and efficient
 * Developed POC with ELK, Vector and other open source data pipelines
 <!--more-->

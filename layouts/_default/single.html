@@ -1,15 +1,6 @@
 {{ define "main" }}
 
-{{ $kicker := .Params.kicker }}
-{{ if not $kicker }}
-    {{ if eq .Section "blog" }}
-        {{ $kicker = "Dispatch" }}
-    {{ else if .Section }}
-        {{ $kicker = .Section | humanize }}
-    {{ else }}
-        {{ $kicker = "Profile" }}
-    {{ end }}
-{{ end }}
+{{ $kicker := partial "kind.html" . }}
 {{ $by := .Site.Title }}
 {{ $place := .Params.dateline | default .Site.Params.location }}
 
@@ -28,16 +19,6 @@
         {{ with .Date }}
             <time datetime="{{ .Format "2006-01-02" }}">{{ .Format "January 2, 2006" }}</time>
         {{ end }}
-        {{ $topics := .Params.categories | default .Params.fields }}
-        {{ with $topics }}
-            {{ range . }}
-                {{ if $.Params.categories }}
-                    <a href="{{ "categories/" | relURL }}{{ . | urlize }}/">{{ . }}</a>
-                {{ else }}
-                    <span>{{ . }}</span>
-                {{ end }}
-            {{ end }}
-        {{ end }}
     </div>
 
     <div class="content">
@@ -46,7 +27,7 @@
     </div>
 
     {{ if .Params.event }}
-        {{ $events := (where .Site.RegularPages "Params.event" true).ByDate }}
+        {{ $events := (where .Site.RegularPages "Params.event" true).ByDate.Reverse }}
         {{ $prev := false }}
         {{ $next := false }}
         {{ range $i, $p := $events }}
@@ -55,27 +36,28 @@
                 {{ if lt (add $i 1) (len $events) }}{{ $next = index $events (add $i 1) }}{{ end }}
             {{ end }}
         {{ end }}
-        {{ $n := partial "paper-pageno.html" . }}
-        <nav class="event-nav" aria-label="Timeline">
-            {{ with $prev }}
-                <a href="{{ .RelPermalink }}"><span class="lab">Earlier</span>{{ .Title }}</a>
+        <nav class="event-nav" aria-label="Stories">
+            {{ with $next }}
+                <a href="{{ .RelPermalink }}"><span class="lab">Older</span>{{ .Title }}</a>
             {{ else }}
                 <span></span>
             {{ end }}
-            {{ with $next }}
-                <a href="{{ .RelPermalink }}"><span class="lab">Next in the file</span>{{ .Title }}</a>
+            {{ with $prev }}
+                <a href="{{ .RelPermalink }}"><span class="lab">Newer</span>{{ .Title }}</a>
             {{ end }}
         </nav>
-        <aside class="issue-ribbon">
-            <p class="lab">This story</p>
-            <p>{{ partial "continue.html" (dict "n" $n "label" (printf "Appears on page %d of the paper" $n)) }}</p>
-            <p><a class="jump" href="{{ "news/" | relURL }}">Back to the timeline →</a></p>
-        </aside>
-    {{ else if in (slice "experience" "projects" "education" "blog") .Section }}
-        <aside class="issue-ribbon">
-            <p class="lab">Related file</p>
-            <p><a class="jump" href="{{ "news/" | relURL }}">The newspaper timeline →</a></p>
-        </aside>
+        <p class="front-note"><a class="jump" href="{{ "news/" | relURL }}">Back to the front →</a></p>
+    {{ else }}
+        {{ $back := "news/" | relURL }}
+        {{ $backLabel := "Back to the front" }}
+        {{ if eq .Section "experience" }}
+            {{ $back = "experience/" | relURL }}{{ $backLabel = "Back to Work" }}
+        {{ else if eq .Section "education" }}
+            {{ $back = "education/" | relURL }}{{ $backLabel = "Back to School" }}
+        {{ else if eq .Section "projects" }}
+            {{ $back = "projects/" | relURL }}{{ $backLabel = "Back to Projects" }}
+        {{ end }}
+        <p class="front-note"><a class="jump" href="{{ $back }}">{{ $backLabel }} →</a></p>
     {{ end }}
 </article>
 

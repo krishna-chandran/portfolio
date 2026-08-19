@@ -1,8 +1,9 @@
 ---
+kind: school
 title: "Krishna enrols at Cincinnati for a master’s in aerospace"
 date: 2017-08-20
 dek: "UAVs, dynamics, controls and AI — a 50 percent graduate scholarship, and he does not leave the city."
-kicker: "Education"
+kicker: "School"
 dateline: "Cincinnati"
 event: true
 categories: ["Education"]
@@ -13,10 +14,10 @@ CINCINNATI — In August 2017 Krishnakumar Chandran enrolled for a Master of Eng
 
 {{< well kind="lead" prompt="Wide, 16:9, autumn: University of Cincinnati engineering buildings, overcast, no staged students." caption="UC CEAS. Unmanned systems, dynamics, modern control and a lab that smelled of coolant." credit="Staff" />}}
 
-The focus was unmanned air systems, analytical dynamics, modern control and artificial intelligence. The course list also ran through decision engineering, intelligent data analysis, big data analytics, innovation and design thinking, and entrepreneurship and technology law.
+The focus was unmanned air systems, analytical dynamics, modern control and artificial intelligence. The course list also ran through decision engineering, intelligent data analysis, big data analytics, innovation and design thinking, and entrepreneurship and technology law. The scholarship covered half the graduate fee.
 
-He had three years of ignio behind him. The degree was not a career change. It was the formal language of vehicles that move — the same language he would later need on an airport tractor and a farm machine.
+He had three years of ignio behind him. The degree was not a career change. It was the formal language of vehicles that move — twelve-degree-of-freedom models, estimators, a camera as a measurement — the same language he would later need on an airport tractor and a farm machine.
 
-The IMS internship with Mazak sat inside that year. The city stayed in the dateline after the hood.
+The IMS internship with Mazak sat inside that year: July to December 2018, a full-stack seat on a funded spindle-health project that left the lab for IMTS in Chicago. In 2019 he placed as second runner-up at Lindner’s IQ E-Pitch. The city stayed in the dateline after the hood.
 
 {{< well kind="inline" prompt="Mug, 4:5: a well-used control textbook and a MATLAB window, desk lamp, documentary." caption="Twelve degrees of freedom, then a spindle." credit="Staff" />}}

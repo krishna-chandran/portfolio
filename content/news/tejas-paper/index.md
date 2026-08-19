@@ -1,8 +1,9 @@
 ---
+kind: paper
 title: "A journal takes the Tejas slat-actuator paper"
 date: 2014-10-01
 dek: "Krishnakumar Chandran, Manikandan C and Niranjana S, in the Journal of Basic and Applied Engineering Research."
-kicker: "Publication"
+kicker: "Paper"
 dateline: "New Delhi"
 event: true
 categories: ["Aerospace"]

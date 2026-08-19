@@ -1,40 +1,92 @@
 {{ define "main" }}
 
-<header class="page-head">
-    {{ with .Params.kicker }}
-        <p class="kicker">{{ . }}</p>
+{{ $section := "Work" }}
+{{ if eq .Section "education" }}{{ $section = "School" }}
+{{ else if eq .Section "projects" }}{{ $section = "Projects" }}
+{{ else if eq .Section "blog" }}{{ $section = "Columns" }}
+{{ end }}
+
+{{ $pages := .Pages.ByDate.Reverse }}
+{{ $lead := false }}
+{{ range first 1 $pages }}{{ $lead = . }}{{ end }}
+{{ $rest := slice }}
+{{ if $lead }}
+    {{ $rest = after 1 $pages }}
+{{ end }}
+
+{{ $useFold := ge (len $rest) 2 }}
+{{ $colA := slice }}
+{{ $colB := slice }}
+{{ $below := $rest }}
+{{ if $useFold }}
+    {{ $colA = first 2 $rest }}
+    {{ if ge (len $rest) 3 }}
+        {{ $colB = first 2 (after 2 $rest) }}
+        {{ $below = after 4 $rest }}
     {{ else }}
-        {{ with .Data.Singular }}
-            <p class="kicker">{{ . | humanize }}</p>
-        {{ else }}
-            <p class="kicker">{{ .Section | humanize | default "Edition" }}</p>
-        {{ end }}
+        {{ $below = slice }}
     {{ end }}
+{{ end }}
+
+<header class="section-flag">
+    <p class="lab">{{ $section }}</p>
     <h1>{{ .Title }}</h1>
     {{ with .Params.dek }}
         <p class="section-deck">{{ . }}</p>
     {{ end }}
 </header>
 
-<section id="archive" aria-label="{{ .Title }}">
-    {{ range (.Pages.GroupByDate "2006").Reverse }}
-        <div class="group">
-            <h2 class="key">{{ .Key }}</h2>
-            <ul class="entries">
-                {{ range .Pages.ByDate }}
-                    <li class="value">
-                        <time class="date" datetime="{{ .PublishDate.Format "2006-01-02" }}">{{ .PublishDate.Format "02 Jan" }}</time>
-                        <div class="title">
-                            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                            {{ with .Params.dek }}
-                                <p class="archive-dek">{{ . }}</p>
-                            {{ end }}
-                        </div>
-                    </li>
-                {{ end }}
-            </ul>
+<div class="broadsheet">
+    {{ if $useFold }}
+    <section class="fold{{ if lt (len $colB) 1 }} fold-slim{{ end }}">
+        {{ with $lead }}
+        <article class="lead-story lead-text">
+            <p class="lab">{{ partial "kind.html" . }} &nbsp;·&nbsp; {{ .Date.Format "2006" }}</p>
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <p class="byline">{{ .Params.dateline | default $.Site.Params.location }} &nbsp;|&nbsp; {{ .Date.Format "January 2, 2006" }}</p>
+            {{ with .Params.dek }}<p class="lead-dek">{{ . }}</p>{{ end }}
+            <div class="lead-body">
+                <p>{{ .Summary | plainify | truncate 380 }}</p>
+                <p><a class="jump" href="{{ .RelPermalink }}">Continue reading →</a></p>
+            </div>
+        </article>
+        {{ end }}
+        <div class="fold-col">
+            {{ range $colA }}{{ partial "story-card.html" . }}{{ end }}
         </div>
+        {{ if gt (len $colB) 0 }}
+        <div class="fold-col">
+            {{ range $colB }}{{ partial "story-card.html" . }}{{ end }}
+        </div>
+        {{ end }}
+    </section>
+    {{ else }}
+        {{ with $lead }}
+        <article class="lead-story lead-text lead-solo">
+            <p class="lab">{{ partial "kind.html" . }} &nbsp;·&nbsp; {{ .Date.Format "2006" }}</p>
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <p class="byline">{{ .Params.dateline | default $.Site.Params.location }} &nbsp;|&nbsp; {{ .Date.Format "January 2, 2006" }}</p>
+            {{ with .Params.dek }}<p class="lead-dek">{{ . }}</p>{{ end }}
+            <div class="lead-body">
+                <p>{{ .Summary | plainify | truncate 380 }}</p>
+                <p><a class="jump" href="{{ .RelPermalink }}">Continue reading →</a></p>
+            </div>
+        </article>
+        {{ end }}
     {{ end }}
-</section>
+
+    {{ if gt (len $below) 0 }}
+    <p class="below-rule">Also in this section</p>
+    <section class="below" aria-label="Also in this section">
+        {{ range $below }}
+            {{ partial "story-card.html" . }}
+        {{ end }}
+    </section>
+    {{ end }}
+
+    <p class="front-note">
+        <a class="jump" href="{{ "news/" | relURL }}">Back to the front →</a>
+    </p>
+</div>
 
 {{ end }}
