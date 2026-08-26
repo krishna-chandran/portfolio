@@ -925,6 +925,19 @@ figure cite {
   margin: 0.6rem 0;
 }
 
+.content iframe.sim-embed {
+  aspect-ratio: auto;
+  height: min(70vh, 42rem);
+  min-height: 28rem;
+  border: 1px solid var(--rule, rgba(148, 163, 184, 0.35));
+  border-radius: 10px;
+  background: #87b6d9;
+}
+
+.content .sim-launch {
+  margin: 0.85rem 0 0.35rem;
+}
+
 .content .anchor {
   color: var(--rule);
   text-decoration: none;

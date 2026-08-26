@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/portfolio/sims/uav-autopilot/uc-logo.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Krishnakumar Chandran — Fixed-wing MAV</title>
+    <script type="module" crossorigin src="/portfolio/sims/uav-autopilot/assets/index-ByllbryZ.js"></script>
+    <link rel="stylesheet" crossorigin href="/portfolio/sims/uav-autopilot/assets/index-C78ToClc.css">
+  </head>
+  <body>
+    <canvas id="viewport"></canvas>
+    <div class="overlay">
+      <section class="panel title">
+        <img class="uc-logo" src="/portfolio/sims/uav-autopilot/uc-logo.svg" alt="University of Cincinnati" width="88" height="40" />
+        <div class="title-copy">
+          <h1>Krishnakumar Chandran, MEngg Aerospace</h1>
+          <p>University of Cincinnati · Fall 2017</p>
+          <p>Unmanned Aerial Systems, Chapter 5 Autopilot</p>
+          <p>Prof. Dr. Rajnikanth Sharma</p>
+          <p>Dr. Anusna Chakraborty (Teaching Assistant)</p>
+          <a href="https://linkedin.com/in/krish-na" target="_blank" rel="noreferrer">linkedin.com/in/krish-na</a>
+        </div>
+      </section>
+
+      <aside id="hud" class="panel hud" aria-live="polite">
+        <header class="hud-head">
+          <label class="chapter-pick">
+            <span>Chapter</span>
+            <select id="chapter" aria-label="Simulation chapter">
+              <option value="autopilot" selected>Autopilot</option>
+            </select>
+          </label>
+          <button id="hud-toggle" type="button" aria-expanded="true" aria-controls="hud-body" title="Minimize flight data">−</button>
+        </header>
+
+        <div id="hud-body">
+        <div class="toolbar">
+          <label class="model-pick">
+            <span>Aircraft</span>
+            <select id="model" aria-label="Aircraft model">
+              <option value="krishna" selected>Krishna's UAV</option>
+              <option value="aerosonde">Aerosonde (book)</option>
+            </select>
+          </label>
+          <div class="actions">
+            <button id="pause" type="button">Pause</button>
+            <button id="reset" type="button">Reset</button>
+          </div>
+        </div>
+
+        <h2>Flight</h2>
+        <dl>
+          <div><dt>Time</dt><dd id="m-t">0.0 s</dd></div>
+          <div><dt>Airspeed</dt><dd id="m-va">35.0 / 35.0 m/s</dd></div>
+          <div><dt>Altitude</dt><dd id="m-h">100.0 / 100.0 m</dd></div>
+          <div><dt>Course</dt><dd id="m-chi">0.0 / 0.0°</dd></div>
+        </dl>
+        <h2>Attitude</h2>
+        <dl>
+          <div><dt>Roll φ</dt><dd id="m-phi">0.0°</dd></div>
+          <div><dt>Pitch θ</dt><dd id="m-theta">0.0°</dd></div>
+          <div><dt>Yaw ψ</dt><dd id="m-psi">0.0°</dd></div>
+        </dl>
+        <h2>Position</h2>
+        <dl>
+          <div><dt>North, East</dt><dd id="m-pos">0, 0 m</dd></div>
+        </dl>
+        <h2>Surfaces</h2>
+        <p class="legend"><i class="swatch pos"></i> +&nbsp;&nbsp;<i class="swatch neg"></i> −</p>
+        <dl>
+          <div><dt>Elevator δe</dt><dd id="m-de">0.0°</dd></div>
+          <div><dt>Aileron δa</dt><dd id="m-da">0.0°</dd></div>
+          <div><dt>Rudder δr</dt><dd id="m-dr">0.0°</dd></div>
+          <div><dt>Throttle δt</dt><dd id="m-dt">0.00</dd></div>
+        </dl>
+        </div>
+      </aside>
+
+      <p class="panel subtitle" id="subtitle" aria-live="polite"><span id="subtitle-text"></span><i class="caret" aria-hidden="true"></i></p>
+
+      <aside class="panel minimap" id="minimap" aria-label="Course minimap">
+        <canvas id="minimap-canvas" width="176" height="176"></canvas>
+        <p id="minimap-chi">χ 0° → 0°</p>
+      </aside>
+
+      <footer class="panel controls">
+        <p class="hint">W/S or ↑↓ altitude · A/D or ←→ course · Space pause</p>
+        <div class="sliders">
+          <label>
+            <span>Airspeed <em id="va-val">35 m/s</em></span>
+            <input id="va" type="range" min="25" max="45" step="0.5" value="35" />
+          </label>
+          <label>
+            <span>Altitude <em id="h-val">100 m</em></span>
+            <input id="h" type="range" min="40" max="250" step="1" value="100" />
+          </label>
+          <label>
+            <span>Course <em id="chi-val">0°</em></span>
+            <input id="chi" type="range" min="-180" max="180" step="1" value="0" />
+          </label>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

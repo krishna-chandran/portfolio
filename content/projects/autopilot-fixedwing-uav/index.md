@@ -15,6 +15,10 @@ CINCINNATI — Equations of motion with twelve degrees of freedom were written f
 
 A state machine switched flying modes. Gains were tuned. The code went into Python and C++ and was tested in Gazebo. The aim was the surface commands — elevator, aileron, throttle — for those flight conditions, not a demo reel.
 
+The same Beard and McLain Chapter 5 loops now run in the browser — successive loop closure for airspeed, altitude and course, with Krishna's UAV and the book Aerosonde.
+
+{{< sim src="sims/uav-autopilot/" title="Fixed-wing Chapter 5 autopilot" >}}
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7bexe2ZTbrM?si=N3MegxdIMFwZlY9Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {{< well kind="wide" prompt="Wide still from the sim: the aircraft in a climbing turn, HUD-like traces of airspeed and altitude, no startup branding." caption="Climb. The state machine has a name for this." src="images/wells/well-uav-climb.png" />}}

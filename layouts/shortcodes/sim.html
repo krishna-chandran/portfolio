@@ -1,0 +1,5 @@
+{{- $src := .Get "src" | default "sims/uav-autopilot/" -}}
+{{- $title := .Get "title" | default "Fixed-wing autopilot" -}}
+{{- $href := $src | relURL -}}
+<p class="sim-launch"><a href="{{ $href }}">Open the live autopilot</a> in a full tab — W/S altitude, A/D course, Space pause.</p>
+<iframe class="sim-embed" src="{{ $href }}" title="{{ $title }}" allow="fullscreen" allowfullscreen loading="lazy"></iframe>

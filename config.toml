@@ -55,8 +55,8 @@ path = "news/the-record"
 
 [[params.ticker]]
 kicker = "Now"
-headline = "A farm fleet learns to report"
-path = "experience/software-engineer-agtonomy"
+headline = "The 2017 autopilot, in a browser"
+path = "news/autopilot-eight-years"
 
 [[params.ticker]]
 kicker = "2022"
