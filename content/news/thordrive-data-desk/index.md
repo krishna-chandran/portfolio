@@ -1,8 +1,10 @@
 ---
 kind: work
 title: "At ThorDrive, one engineer builds the platform that takes in the tractor’s tape"
+seo_title: "ROS bag data platform for airport tractors · Krishna Chandran"
 date: 2022-03-01
 dek: "Petabytes of ROS bags, a 250-times jump in capacity, and a workflow that ran 91.4 percent faster."
+image_alt: "Airport tractor data desk: ROS bags, search, clip and download"
 kicker: "Work"
 dateline: "Cincinnati"
 event: true

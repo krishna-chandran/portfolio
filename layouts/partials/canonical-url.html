@@ -1,0 +1,22 @@
+{{- $page := . -}}
+{{- $canon := $page.Permalink -}}
+{{- if and (eq $page.Section "news") $page.IsSection -}}
+  {{- $canon = $page.Site.Home.Permalink -}}
+{{- else if $page.Params.canonical -}}
+  {{- with $page.Site.GetPage $page.Params.canonical -}}
+    {{- $canon = .Permalink -}}
+  {{- else -}}
+    {{- $canon = $page.Params.canonical | absURL -}}
+  {{- end -}}
+{{- else if $page.File -}}
+  {{- $key := strings.TrimSuffix "/" $page.File.Dir -}}
+  {{- if and (eq $key "folio") (eq $page.File.BaseFileName "about") -}}
+    {{- $key = "folio/about" -}}
+  {{- end -}}
+  {{- with index (or (hugo.Data).canonicals $page.Site.Data.canonicals) $key -}}
+    {{- with $page.Site.GetPage . -}}
+      {{- $canon = .Permalink -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $canon -}}

@@ -1,8 +1,10 @@
 ---
 kind: opinion
 title: "Eight years on, Krishna lands the Cincinnati quadrotor on a truck that will not sit still"
+seo_title: "Precision landing a quadrotor on a moving truck · Krishna Chandran"
 date: 2026-08-28
 dek: "A Fall 2017 precision-landing file leaves MATLAB. The gimbaled camera is the only sight of the pad."
+image_alt: "Quadrotor precision landing on a moving yellow truck, gimbal camera locked, Cincinnati geolocation chapter"
 kicker: "Opinion"
 dateline: "Los Angeles"
 event: true

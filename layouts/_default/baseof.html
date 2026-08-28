@@ -4,13 +4,9 @@
         {{ partial "head.html" . }}
     </head>
     {{ $mode := "news" }}
-    {{ if .IsHome }}{{ $mode = "gate" }}
-    {{ else if eq .Section "folio" }}{{ $mode = "folio" }}
-    {{ end }}
+    {{ if eq .Section "folio" }}{{ $mode = "folio" }}{{ end }}
     <body class="mode-{{ $mode }}{{ if .IsHome }} is-home{{ end }}">
-        {{ if eq $mode "gate" }}
-            <main id="main">{{ block "main" . }}{{ end }}</main>
-        {{ else if eq $mode "folio" }}
+        {{ if eq $mode "folio" }}
             {{ partial "folio-header.html" . }}
             <main class="main-wrapper">
                 <div class="main">{{ block "main" . }}{{ end }}</div>
@@ -31,7 +27,7 @@
                 <footer class="paper-foot">
                     <p>© {{ now.Year }} {{ .Site.Title }} &nbsp;·&nbsp; Printed from Los Angeles</p>
                     <p>
-                        <a href="{{ .Site.Home.RelPermalink }}">Choose a record</a>
+                        <a href="{{ "folio/" | relURL }}">Portfolio</a>
                     </p>
                 </footer>
             </div>

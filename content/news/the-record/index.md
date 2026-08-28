@@ -1,14 +1,17 @@
 ---
 kind: paper
 title: "From a slat actuator to a farm fleet: the career, on the record"
+seo_title: "Krishna Chandran — physical AI, robotics and data"
 date: 2026-08-19
 dek: "Aeronautics, enterprise AIOps, a Mazak spindle, airport tractors and autonomous farm machines — one habit, told in order."
+aliases: ["/krishna-chandran/"]
+image_alt: "Krishna Chandran, also Krishnakumar Chandran, Los Angeles"
 kicker: "Paper"
 dateline: "Los Angeles"
 categories: ["Career"]
 ---
 
-LOS ANGELES — Krishnakumar Chandran works in artificial intelligence, physical AI, robotics and autonomous vehicles. The present dateline is this city. He is out of Agtonomy; that role, from March 2024 in South San Francisco, was the last full-time card — data paths from autonomous farm machines back to a cloud growers and engineers could use. The file behind that sentence is longer than a job title: a first degree in aeronautical engineering, a decade of production software, and a habit of making a system observable before asking anyone to trust it.
+LOS ANGELES — Krishna Chandran — Krishnakumar Chandran on the degree and the byline — works in artificial intelligence, physical AI, robotics and autonomous vehicles. He is co-founder and technical advisor of Pragmr, the brand of Protekk Web Technologies LLP. The present dateline is this city. He is out of Agtonomy; that role, from March 2024 in South San Francisco, was the last full-time card — data paths from autonomous farm machines back to a cloud growers and engineers could use. The file behind that sentence is longer than a job title: a first degree in aeronautical engineering, a decade of production software, and a habit of making a system observable before asking anyone to trust it.
 <!--more-->
 
 {{< well kind="lead" src="images/krishna.jpg" prompt="Portrait, 16:9, Cincinnati, natural window light, engineer in plain clothes." caption="Krishnakumar Chandran. Formal training in aerospace; the rest of the paper is production." />}}

@@ -1,13 +1,15 @@
 ---
 title: "The man in the news works the seam between software AI and machines that move"
+seo_title: "About Krishna Chandran — Pragmr co-founder, robotics and physical AI"
 date: 2023-09-26
 dek: "Enterprise AIOps, industrial maintenance, airport tractors, school software, farm fleets — one habit: make the system observable, then production-grade."
+image_alt: "Krishna Chandran, also Krishnakumar Chandran, in Los Angeles"
 kicker: "Profile"
 dateline: "Los Angeles"
 draft: false
 ---
 
-LOS ANGELES — Krishnakumar Chandran works in artificial intelligence, physical AI, robotics and autonomous vehicles. He lives in this city. He is not at Agtonomy now; that was the last full-time card, from March 2024, as a software engineer in data analytics — C++ on the tractor, Vector and AWS in the cloud, gRPC between the two. What separates the file from a typical software résumé is the seam: enterprise AI systems and machines that have to behave in a field, a factory or an apron.
+LOS ANGELES — Krishna Chandran — published and credentialed as Krishnakumar Chandran — works in artificial intelligence, physical AI, robotics and autonomous vehicles. He is co-founder and technical advisor of Pragmr (Protekk Web Technologies LLP). He lives in this city. He is not at Agtonomy now; that was the last full-time card, from March 2024, as a software engineer in data analytics — C++ on the tractor, Vector and AWS in the cloud, gRPC between the two. What separates the file from a typical software résumé is the seam: enterprise AI systems and machines that have to behave in a field, a factory or an apron.
 <!--more-->
 
 {{< well kind="lead" src="images/krishna.jpg" prompt="Portrait, 16:9, Cincinnati, natural window light, engineer in plain clothes, no grin for the camera." caption="Krishnakumar Chandran, now in Los Angeles. Formal training in aerospace dynamics and controls; the rest of the paper is production." />}}

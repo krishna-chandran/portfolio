@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ $front := "news/" | relURL }}
+{{ $front := .Site.Home.RelPermalink }}
 <meta http-equiv="refresh" content="0;url={{ $front }}">
 <p class="front-note"><a href="{{ $front }}">The paper is on the front page →</a></p>
 {{ end }}

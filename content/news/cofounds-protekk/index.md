@@ -1,6 +1,7 @@
 ---
 kind: work
 title: "Krishna cofounds Protekk to write a lesson plan for one student"
+seo_title: "Pragmr / Protekk Web Technologies LLP — Krishna Chandran, co-founder"
 date: 2023-06-01
 dek: "Edutech from a blank page: dynamic assessment, student-specific paths, an AI recommendation system."
 kicker: "Work"
@@ -9,7 +10,7 @@ event: true
 categories: ["Edutech"]
 ---
 
-INDIA — In 2023 Krishnakumar Chandran cofounded Protekk Web Technologies LLP and sat with a client that wanted an education product, not a brochure. The brief was public-school students — on the file, a product that could serve millions of them — modern teaching methods, and a plan that belonged to one child rather than a classroom average.
+INDIA — In 2023 Krishna Chandran cofounded Protekk Web Technologies LLP — the legal home of the Pragmr brand — and sat with a client that wanted an education product, not a brochure. He remains co-founder and technical advisor. The brief was public-school students — on the file, a product that could serve millions of them — modern teaching methods, and a plan that belonged to one child rather than a classroom average.
 <!--more-->
 
 {{< well kind="lead" prompt="Wide, 16:9: a plain classroom desk, a tablet with a simple lesson path, no faces of minors, documentary, India daylight." caption="A plan for one student. Dynamic assessment, then a recommendation." src="images/wells/well-classroom-desk.png" />}}

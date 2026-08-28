@@ -1,0 +1,71 @@
+{{ $events := (where .Site.RegularPages "Params.event" true).ByDate.Reverse }}
+{{ $lead := .Site.GetPage "news/precision-landing-eight-years" }}
+{{ if not $lead }}
+    {{ range first 1 $events }}{{ $lead = . }}{{ end }}
+{{ end }}
+
+{{ $rest := slice }}
+{{ range $events }}
+    {{ if $lead }}
+        {{ if ne .Permalink $lead.Permalink }}
+            {{ $rest = $rest | append . }}
+        {{ end }}
+    {{ else }}
+        {{ $rest = $rest | append . }}
+    {{ end }}
+{{ end }}
+
+{{ $colA := first 3 $rest }}
+{{ $colB := first 3 (after 3 $rest) }}
+{{ $below := after 6 $rest }}
+
+<div class="broadsheet">
+    <section class="fold">
+        {{ with $lead }}
+        <article class="lead-story">
+            <p class="lab">{{ partial "kind.html" . }} &nbsp;·&nbsp; {{ .Date.Format "2006" }}</p>
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <p class="byline">{{ .Params.dateline | default "Los Angeles" }} &nbsp;|&nbsp; {{ .Date.Format "January 2, 2006" }}</p>
+            <figure class="cut lead-cut">
+                {{ $cut := "images/krishna.jpg" | relURL }}
+                {{ $alt := .Params.image_alt | default .Params.dek | default .Title }}
+                {{ with .Resources.GetMatch "cover*" }}
+                    {{ $cut = .RelPermalink }}
+                {{ end }}
+                <img src="{{ $cut }}" alt="{{ $alt }}" width="900" height="600">
+            </figure>
+            {{ with .Params.dek }}<p class="lead-dek">{{ . }}</p>{{ end }}
+            <div class="lead-body">
+                <p>{{ .Summary | plainify | truncate 420 }}</p>
+                <p><a class="jump" href="{{ .RelPermalink }}">Continue reading →</a></p>
+            </div>
+        </article>
+        {{ end }}
+
+        <div class="fold-col">
+            {{ range $colA }}
+                {{ partial "story-card.html" . }}
+            {{ end }}
+        </div>
+        <div class="fold-col">
+            {{ range $colB }}
+                {{ partial "story-card.html" . }}
+            {{ end }}
+        </div>
+    </section>
+
+    {{ if $below }}
+    <p class="below-rule">Also in this paper</p>
+    <section class="below" aria-label="Also in this paper">
+        {{ range $below }}
+            {{ partial "story-card.html" . }}
+        {{ end }}
+    </section>
+    {{ end }}
+
+    <p class="front-note">
+        <a class="jump" href="{{ "news/the-record/" | relURL }}">Career summary →</a>
+        &nbsp;·&nbsp;
+        <a class="jump" href="{{ "topics/" | relURL }}">Desks →</a>
+    </p>
+</div>

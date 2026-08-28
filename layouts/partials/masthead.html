@@ -5,8 +5,12 @@
 </aside>
 <header class="masthead">
     <p class="mast-rule" aria-hidden="true"></p>
-    {{ $front := "news/" | relURL }}
-    <a class="mast-title" href="{{ $front }}"{{ if and (eq .Section "news") .IsSection }} aria-current="page"{{ end }}>{{ .Site.Title }}</a>
+    {{ $front := .Site.Home.RelPermalink }}
+    {{ if .IsHome }}
+    <h1 class="mast-title"><a href="{{ $front }}">{{ .Site.Title }}</a></h1>
+    {{ else }}
+    <a class="mast-title" href="{{ $front }}">{{ .Site.Title }}</a>
+    {{ end }}
     <p class="mast-tag">{{ .Site.Params.tagline }}</p>
     <p class="mast-vol">
         {{ now.Format "January 2, 2006" }}
@@ -17,10 +21,11 @@
         {{ $sec := $current.Section }}
         {{ range .Site.Menus.news }}
             {{ $active := or ($current.IsMenuCurrent "news" .) ($current.HasMenuCurrent "news" .) }}
-            {{ if and (eq .Name "Front") (eq $sec "news") }}{{ $active = true }}{{ end }}
+            {{ if and (eq .Name "Front") (or $current.IsHome (and (eq $sec "news") $current.IsSection)) }}{{ $active = true }}{{ end }}
             {{ if and (eq .Name "Work") (eq $sec "experience") }}{{ $active = true }}{{ end }}
             {{ if and (eq .Name "School") (eq $sec "education") }}{{ $active = true }}{{ end }}
             {{ if and (eq .Name "Projects") (eq $sec "projects") }}{{ $active = true }}{{ end }}
+            {{ if and (eq .Name "Desks") (eq $sec "topics") }}{{ $active = true }}{{ end }}
             {{ if and (eq .Name "About") (in $current.RelPermalink "/about") }}{{ $active = true }}{{ end }}
             <a href="{{ .URL }}"{{ if $active }} aria-current="page"{{ end }}>{{ .Name }}</a>
         {{ end }}

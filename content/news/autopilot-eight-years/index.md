@@ -1,8 +1,10 @@
 ---
 kind: opinion
 title: "Eight years on, Krishna flies the Cincinnati autopilot again — this time in a browser"
+seo_title: "Fixed-wing UAV autopilot in the browser · Krishna Chandran"
 date: 2026-08-26
 dek: "A Fall 2017 class assignment leaves MATLAB. Friends and connections can take the stick without a lab license."
+image_alt: "Fixed-wing UAV autopilot in a browser over a toy Cincinnati, Chapter 5 successive-loop closure"
 kicker: "Opinion"
 dateline: "Los Angeles"
 event: true

@@ -1,16 +1,19 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {{- $news := (where .Site.RegularPages "Section" "news").ByDate.Reverse -}}
-{{- $newsSection := .Site.GetPage "section" "news" -}}
-{{- $newsMod := $newsSection.Lastmod -}}
+{{- $topics := (where .Site.RegularPages "Section" "topics").ByTitle -}}
+{{- $newsMod := .Site.Home.Lastmod -}}
 {{- with index $news 0 -}}
   {{- if .Date.After $newsMod -}}{{- $newsMod = .Date -}}{{- end -}}
 {{- end -}}
 {{- partial "sitemap-url.html" (dict "page" .Site.Home "priority" "1.0" "freq" "weekly" "lastmod" $newsMod) -}}
-{{- with $newsSection -}}
-{{- partial "sitemap-url.html" (dict "page" . "priority" "0.9" "freq" "weekly" "lastmod" $newsMod) -}}
-{{- end -}}
 {{- range $news -}}
 {{- partial "sitemap-url.html" (dict "page" . "priority" "0.8" "freq" "weekly") -}}
+{{- end -}}
+{{- with .Site.GetPage "section" "topics" -}}
+{{- partial "sitemap-url.html" (dict "page" . "priority" "0.85" "freq" "weekly" "lastmod" $newsMod) -}}
+{{- end -}}
+{{- range $topics -}}
+{{- partial "sitemap-url.html" (dict "page" . "priority" "0.75" "freq" "weekly") -}}
 {{- end -}}
 </urlset>

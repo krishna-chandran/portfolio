@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {{- $rest := slice -}}
 {{- range .Site.Pages -}}
-  {{- if and (not .IsHome) (ne .Kind "taxonomy") (ne .Kind "term") (ne .Section "folio") (ne .Section "news") -}}
-    {{- $rest = $rest | append . -}}
+  {{- if and (not .IsHome) (ne .Kind "taxonomy") (ne .Kind "term") (ne .Section "folio") (ne .Section "news") (ne .Section "topics") -}}
+    {{- $canon := partial "canonical-url.html" . -}}
+    {{- if eq $canon .Permalink -}}
+      {{- $rest = $rest | append . -}}
+    {{- end -}}
   {{- end -}}
 {{- end -}}
 {{- range (sort $rest "Lastmod" "desc") -}}

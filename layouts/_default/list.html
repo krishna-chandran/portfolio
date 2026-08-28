@@ -4,6 +4,7 @@
 {{ if eq .Section "education" }}{{ $section = "School" }}
 {{ else if eq .Section "projects" }}{{ $section = "Projects" }}
 {{ else if eq .Section "blog" }}{{ $section = "Columns" }}
+{{ else if eq .Section "topics" }}{{ $section = "Desks" }}
 {{ end }}
 
 {{ $pages := .Pages.ByDate.Reverse }}

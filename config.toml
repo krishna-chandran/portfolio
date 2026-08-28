@@ -45,11 +45,13 @@ tabWidth = 4
 unsafe= true
 
 [params]
-description = "Software engineer working at the seam of enterprise AI, physical AI, robotics and autonomous vehicles."
+description = "Krishna Chandran (Krishnakumar Chandran): software engineer in robotics, physical AI and data. Co-founder and technical advisor of Pragmr."
 mainSections = ['experience', 'blog']
 shortName = "Krishna"
-tagline = "Physical AI · Robotics and Data"
-intro = "I build production-grade AI and data platforms for rooms where people, models and machines share the work — data centers, shop floors, airport tractors and farm fleets."
+tagline = "Krishna Chandran · Physical AI, robotics and data · Co-founder, Pragmr"
+seo_title = "Krishna Chandran · Physical AI, robotics and data"
+intro = "Krishna Chandran (Krishnakumar Chandran) is a Los Angeles software engineer in robotics, physical AI and data. Co-founder and technical advisor of Pragmr, the brand of Protekk Web Technologies LLP. Aerospace training; multi-domain work across enterprise AI, industrial maintenance, airport autonomy and farm fleets."
+image_alt = "Krishna Chandran, software engineer in robotics, physical AI and data, Los Angeles"
 location = "Los Angeles, California"
 currentRole = ""
 portrait = "images/krishna-profile.jpg"
@@ -183,8 +185,13 @@ weight = 90
 
 [[menus.news]]
 name = "Front"
-pageRef = "/news"
+pageRef = "/"
 weight = 10
+
+[[menus.news]]
+name = "Desks"
+pageRef = "/topics"
+weight = 45
 
 [[menus.news]]
 name = "Work"

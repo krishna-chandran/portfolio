@@ -97,6 +97,7 @@ a:focus-visible {
 
 .mast-title {
   display: block;
+  margin: 0;
   font-family: var(--display);
   font-size: clamp(2.05rem, 6.4vw, 3.85rem);
   font-weight: 700;
@@ -105,6 +106,11 @@ a:focus-visible {
   text-decoration: none;
   text-transform: uppercase;
   padding: 0.2rem 0 0.15rem;
+}
+
+.mast-title a {
+  color: inherit;
+  text-decoration: none;
 }
 
 .mast-tag {
