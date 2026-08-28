@@ -14,3 +14,7 @@ CINCINNATI — The assignment was a landing controller for a quadcopter onto a m
 {{< well kind="lead" prompt="Wide, 16:9: a small quadcopter above a pickup bed marked with a landing target, suburban test lot, still, documentary." caption="The truck keeps moving. That is the point of the controller." src="images/wells/well-quad-landing.png" />}}
 
 The landing laws were derived from the camera measurement and the moving-target model, then exercised in MATLAB and Simulink. Hardware came later, if it came; the paper of record here is the simulation that had to be believed first.
+
+The same stack is in the [2026 note]({{< relref "news/precision-landing-eight-years" >}}): attitude, flatness, then a landing that flies only what the gimbal can see.
+
+{{< well kind="wide" prompt="Wide still from the sim: payload camera locked on a yellow truck, chase map and geo error, no startup branding." caption="Chapter 4. Locked on the truck; the loops chase the estimate." src="images/wells/well-quad-geo.png" />}}

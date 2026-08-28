@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 {{ $events := (where .Site.RegularPages "Params.event" true).ByDate.Reverse }}
-{{ $lead := .Site.GetPage "news/autopilot-eight-years" }}
+{{ $lead := .Site.GetPage "news/precision-landing-eight-years" }}
 {{ if not $lead }}
     {{ range first 1 $events }}{{ $lead = . }}{{ end }}
 {{ end }}

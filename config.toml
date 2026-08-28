@@ -55,6 +55,11 @@ path = "news/the-record"
 
 [[params.ticker]]
 kicker = "Now"
+headline = "The 2017 truck landing, as a still"
+path = "news/precision-landing-eight-years"
+
+[[params.ticker]]
+kicker = "Now"
 headline = "The 2017 autopilot, in a browser"
 path = "news/autopilot-eight-years"
 
