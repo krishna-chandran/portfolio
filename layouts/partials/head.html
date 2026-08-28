@@ -28,6 +28,8 @@
 
 <title>{{ $title }}</title>
 <link rel="canonical" href="{{ .Permalink }}">
+<link rel="sitemap" type="application/xml" title="News" href="{{ "sitemap.xml" | absURL }}">
+<link rel="sitemap" type="application/xml" title="Pages" href="{{ "pages-sitemap.xml" | absURL }}">
 {{ if $description -}}
     <meta name="description" content="{{ $description }}" />
 {{ end -}}

@@ -1,0 +1,12 @@
+{{- $page := .page -}}
+{{- $priority := .priority | default (cond (eq $page.Section "news") "0.8" "0.6") -}}
+{{- $freq := .freq | default (cond $page.IsHome "weekly" "monthly") -}}
+{{- $lm := $page.Lastmod -}}
+{{- if $page.Date.After $lm -}}{{- $lm = $page.Date -}}{{- end -}}
+{{- with .lastmod -}}{{- $lm = . -}}{{- end -}}
+  <url>
+    <loc>{{ $page.Permalink }}</loc>
+    <lastmod>{{ $lm.Format "2006-01-02T15:04:05Z07:00" }}</lastmod>
+    <changefreq>{{ $freq }}</changefreq>
+    <priority>{{ $priority }}</priority>
+  </url>
